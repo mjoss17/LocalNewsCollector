@@ -194,6 +194,8 @@ def get_website_url(wiki_url, all_paper_urls):
 def main():
     all_paper_urls = []
     collect_papers_Alabama(all_paper_urls)
+    collect_papers_Maryland(all_paper_urls)
+    collect_papers_Michigan(all_paper_urls)
 
 
 main()
