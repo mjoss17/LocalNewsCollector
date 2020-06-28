@@ -8,21 +8,16 @@ import itertools
 from html.parser import HTMLParser
 from urllib.request import Request, urlopen
 import urllib.request
+import os
 
 
 class NP_by_State_Parser(HTMLParser):
 
-    # def __init__(self):
     urls = []
-    data_type = ""
     span = False
     look_for_lists = False
 
     def handle_starttag(self, tag, attrs):
-        if tag == "h2":
-            if self.look_for_lists == True:
-                self.look_for_lists = False
-            self.data_type = "h2"
         if tag == "span":
             self.span = True
         if tag == "a":
@@ -33,13 +28,9 @@ class NP_by_State_Parser(HTMLParser):
                             self.urls.append("https://en.wikipedia.org" + attr[1])
                             
     def handle_endtag(self, tag):
-        self.data_type = ""
         self.span = False
 
     def handle_data(self, data):
-        # if data_type == "h2":
-            # print(data)
-
         if self.span:
             if "newspapers" in data or "Newspapers" in data:
                 if "daily" in data or "Daily" in data or "weekly" in data or "Weekly" in data:
@@ -111,7 +102,7 @@ class Paper_Attributes_Parser(HTMLParser):
 
 
 def collect_papers_Michigan(all_paper_urls):
-    filename = "Wikipedia_newspapers_in_Michigan.txt"
+    filename = "W_html.txt"
     req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Michigan", headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
@@ -121,7 +112,7 @@ def collect_papers_Michigan(all_paper_urls):
 
 
 def collect_papers_Alabama(all_paper_urls):
-    filename = "Wikipedia_newspapers_in_Alabama.txt"
+    filename = "W_html.txt"
     req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Alabama", headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
@@ -131,7 +122,7 @@ def collect_papers_Alabama(all_paper_urls):
 
 
 def collect_papers_Maryland(all_paper_urls):
-    filename = "Wikipedia_newspapers_in_Maryland.txt"
+    filename = "W_html.txt"
     req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Maryland", headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
@@ -140,13 +131,22 @@ def collect_papers_Maryland(all_paper_urls):
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maryland")
 
 def collect_papers_California(all_paper_urls):
-    filename = "Wikipedia_newspapers_in_California.txt"
+    filename = "W_html.txt"
     req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_California", headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "California")
+
+def collect_papers_Maine(all_paper_urls):
+    filename = "W_html.txt"
+    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Maine", headers={'User-Agent': 'Mozilla/5.0'})
+    webpage = urlopen(req).read().decode("utf-8") 
+    f = open(filename,"w+")
+    f.write(webpage)
+    f.close()
+    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maine")
 
 
     
@@ -163,11 +163,11 @@ def parse_urls(parser, all_paper_urls, name):
     for url in parser.get_urls():
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         webpage = urlopen(req).read().decode("utf-8") 
-        f = open("test1.txt","w+")
+        f = open("temp1.txt","w+")
         f.write(webpage)
         f.close()
 
-        f = open("test1.txt", "r")
+        f = open("temp1.txt", "r")
         contents = f.read()
         parser = Check_Actually_Paper_Parser()
         parser.feed(contents)
@@ -175,20 +175,20 @@ def parse_urls(parser, all_paper_urls, name):
             wiki_paper_urls.append(url)
             get_website_url(url, all_paper_urls)
 
-        f = open(str(name) + ".txt","w+")
+        new_path = os.path.join('./urls/', str(name) + '.txt')
+        f = open(new_path,"w+")
         for website in all_paper_urls:
             f.write(str(website) + '\n')
         f.close()
 
 def get_website_url(wiki_url, all_paper_urls):
-    filename = "test2.txt"
     req = Request(wiki_url, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
-    f = open(filename,"w+")
+    f = open("temp1.txt","w+")
     f.write(webpage)
     f.close()
 
-    f = open("test1.txt", "r")
+    f = open("temp1.txt", "r")
     contents = f.read()
     parser = Paper_Attributes_Parser()
     parser.feed(contents)
@@ -202,10 +202,11 @@ def get_website_url(wiki_url, all_paper_urls):
     
 def main():
     all_paper_urls = []
-    collect_papers_Alabama(all_paper_urls)
-    collect_papers_Maryland(all_paper_urls)
-    collect_papers_Michigan(all_paper_urls)
+    # collect_papers_Alabama(all_paper_urls)
+    # collect_papers_Maryland(all_paper_urls)
+    # collect_papers_Michigan(all_paper_urls)
     # collect_papers_California(all_paper_urls)
+    collect_papers_Maine(all_paper_urls)
 
 
 main()
