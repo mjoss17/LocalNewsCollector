@@ -42,7 +42,7 @@ class NP_by_State_Parser(HTMLParser):
 
         if self.span:
             if "newspapers" in data or "Newspapers" in data:
-                if "daily" in data or "daily" in data or "weekly" in data or "weekly" in data:
+                if "daily" in data or "Daily" in data or "weekly" in data or "Weekly" in data:
                     self.look_for_lists = True
 
     def get_urls(self):
@@ -139,6 +139,15 @@ def collect_papers_Maryland(all_paper_urls):
     f.close()
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maryland")
 
+def collect_papers_California(all_paper_urls):
+    filename = "Wikipedia_newspapers_in_California.txt"
+    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_California", headers={'User-Agent': 'Mozilla/5.0'})
+    webpage = urlopen(req).read().decode("utf-8") 
+    f = open(filename,"w+")
+    f.write(webpage)
+    f.close()
+    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "California")
+
 
     
 def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
@@ -151,7 +160,7 @@ def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
 def parse_urls(parser, all_paper_urls, name):
     # print(parser.get_urls())
     wiki_paper_urls = []
-    for url in parser.urls:
+    for url in parser.get_urls():
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         webpage = urlopen(req).read().decode("utf-8") 
         f = open("test1.txt","w+")
@@ -196,6 +205,7 @@ def main():
     collect_papers_Alabama(all_paper_urls)
     collect_papers_Maryland(all_paper_urls)
     collect_papers_Michigan(all_paper_urls)
+    # collect_papers_California(all_paper_urls)
 
 
 main()
