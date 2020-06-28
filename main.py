@@ -174,7 +174,7 @@ def parse_urls(parser, all_paper_urls, name):
 
         f = open("temp1.txt", "r")
         contents = f.read()
-        parser = If_()
+        parser = Check_If_Actually_Paper_Parser()
         parser.feed(contents)
         if parser.is_paper():
             wiki_paper_urls.append(url)
