@@ -1,5 +1,7 @@
 # LocalNewsHunter
 
+This program gathers local newspapers form around the world
+
 Currently getting data from these big wikipedia indices
 https://en.wikipedia.org/wiki/Lists_of_newspapers
 https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States
