@@ -67,7 +67,7 @@ class Check_If_Actually_Paper_Parser(HTMLParser):
         return self.is_publisher
 
 
-class Paper_Attributes_Parser(HTMLParser):
+class Collect_Paper_Attributes_Parser(HTMLParser):
 
     table_open = False
     url_open = False
@@ -109,7 +109,7 @@ def collect_papers_Michigan(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Michigan")
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Michigan")
 
 
 def collect_papers_Alabama(all_paper_urls):
@@ -120,7 +120,7 @@ def collect_papers_Alabama(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Alabama")
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Alabama")
 
 
 def collect_papers_Maryland(all_paper_urls):
@@ -131,7 +131,7 @@ def collect_papers_Maryland(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maryland")
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Maryland")
 
 def collect_papers_California(all_paper_urls):
     filename = "W_html.txt"
@@ -141,7 +141,7 @@ def collect_papers_California(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "California")
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "California")
 
 def collect_papers_Maine(all_paper_urls):
     filename = "W_html.txt"
@@ -151,11 +151,11 @@ def collect_papers_Maine(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maine")
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Maine")
 
 
     
-def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
+def parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, name):
     f = open(filename, "r")
     contents = f.read()
     parser = State_Newspapers_Index_Parser()
@@ -163,7 +163,7 @@ def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
     parse_urls(parser, all_paper_urls, name)
 
 def parse_urls(parser, all_paper_urls, name):
-    # print(parser.get_urls())
+
     wiki_paper_urls = []
     for url in parser.get_urls():
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -180,8 +180,8 @@ def parse_urls(parser, all_paper_urls, name):
             wiki_paper_urls.append(url)
             get_website_url(url, all_paper_urls)
 
-        new_path = os.path.join('./urls/', str(name) + '.txt')
-        f = open(new_path,"w+")
+        local_news_urls_path = os.path.join('./urls/', str(name) + '.txt')
+        f = open(local_news_urls_path,"w+")
         for website in all_paper_urls:
             f.write(str(website) + '\n')
         f.close()
@@ -195,7 +195,7 @@ def get_website_url(wiki_url, all_paper_urls):
 
     f = open("temp1.txt", "r")
     contents = f.read()
-    parser = Paper_Attributes_Parser()
+    parser = Collect_Paper_Attributes_Parser()
     parser.feed(contents)
 
     website = parser.get_website()
