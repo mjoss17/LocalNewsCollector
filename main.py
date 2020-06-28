@@ -5,7 +5,6 @@ import operator
 import heapq
 import random
 import itertools
-from sklearn.utils import murmurhash3_32
 from html.parser import HTMLParser
 from urllib.request import Request, urlopen
 import urllib.request
@@ -118,8 +117,8 @@ def collect_papers_Michigan(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Michigan")
+
 
 def collect_papers_Alabama(all_paper_urls):
     filename = "Wikipedia_newspapers_in_Alabama.txt"
@@ -128,7 +127,6 @@ def collect_papers_Alabama(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Alabama")
 
 
@@ -139,8 +137,8 @@ def collect_papers_Maryland(all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
-
     parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, "Maryland")
+
 
     
 def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
@@ -156,10 +154,10 @@ def parse_urls(parser, all_paper_urls, name):
     for url in parser.urls:
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         webpage = urlopen(req).read().decode("utf-8") 
-
         f = open("test1.txt","w+")
         f.write(webpage)
         f.close()
+
         f = open("test1.txt", "r")
         contents = f.read()
         parser = Check_Actually_Paper_Parser()
@@ -173,9 +171,6 @@ def parse_urls(parser, all_paper_urls, name):
             f.write(str(website) + '\n')
         f.close()
 
-
-    # print(wiki_paper_urls)
-
 def get_website_url(wiki_url, all_paper_urls):
     filename = "test2.txt"
     req = Request(wiki_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -183,10 +178,12 @@ def get_website_url(wiki_url, all_paper_urls):
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
+
     f = open("test1.txt", "r")
     contents = f.read()
     parser = Paper_Attributes_Parser()
     parser.feed(contents)
+
     website = parser.get_website()
     if website != "" and website != None and website != " ":
         if website not in all_paper_urls:
@@ -194,17 +191,9 @@ def get_website_url(wiki_url, all_paper_urls):
             print(website)
 
     
-
-
-
-
 def main():
     all_paper_urls = []
     collect_papers_Alabama(all_paper_urls)
-
-
-
-
 
 
 main()
