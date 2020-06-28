@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Henderson, Michigan - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"dbcf7ef1-4bea-46bc-ba99-e01e65c7b06e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Henderson,_Michigan","wgTitle":"Henderson, Michigan","wgCurRevisionId":957456925,"wgRevisionId":957456925,"wgArticleId":15986724,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Articles to be expanded from May 2020","All articles to be expanded","Articles using small message boxes","All stub articles","Lower Peninsula, Michigan geography stubs",
+"Unincorporated communities in Shiawassee County, Michigan","Unincorporated communities in Michigan","Census-designated places in Shiawassee County, Michigan","Census-designated places in Michigan"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Henderson,_Michigan","wgRelevantArticleId":15986724,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":43.08638888888889,"lon":-84.19527777777778},"wgWikibaseItemId":"Q22085582",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Henderson_%28CDP%29%2C_MI_location.png/1200px-Henderson_%28CDP%29%2C_MI_location.png"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Henderson,_Michigan&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Henderson,_Michigan&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Henderson,_Michigan"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Henderson_Michigan rootpage-Henderson_Michigan skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Henderson, Michigan</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the civil township in <a href="/wiki/Wexford_County,_Michigan" title="Wexford County, Michigan">Wexford County</a>, see <a href="/wiki/Henderson_Township,_Michigan" title="Henderson Township, Michigan">Henderson Township, Michigan</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Census-designated place &amp; unincorporated community in Michigan, United States</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Henderson, Michigan</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Census-designated_place" title="Census-designated place">Census-designated place</a> (CDP) &amp; <a href="/wiki/Unincorporated_area" title="Unincorporated area">unincorporated community</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Henderson_(CDP),_MI_location.png" class="image" title="Location within Shiawassee County"><img alt="Location within Shiawassee County" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Henderson_%28CDP%29%2C_MI_location.png/250px-Henderson_%28CDP%29%2C_MI_location.png" decoding="async" width="250" height="147" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Henderson_%28CDP%29%2C_MI_location.png/375px-Henderson_%28CDP%29%2C_MI_location.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a8/Henderson_%28CDP%29%2C_MI_location.png/500px-Henderson_%28CDP%29%2C_MI_location.png 2x" data-file-width="1450" data-file-height="850" /></a><div style="padding:0.3em 0 0 0;">Location within <a href="/wiki/Shiawassee_County,_Michigan" title="Shiawassee County, Michigan">Shiawassee County</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:USA_Michigan_location_map.svg" class="image" title="Henderson is located in Michigan"><img alt="Henderson is located in Michigan" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USA_Michigan_location_map.svg/250px-USA_Michigan_location_map.svg.png" decoding="async" width="250" height="281" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USA_Michigan_location_map.svg/375px-USA_Michigan_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/USA_Michigan_location_map.svg/500px-USA_Michigan_location_map.svg.png 2x" data-file-width="1066" data-file-height="1200" /></a><div style="position:absolute;top:77.337%;left:73.617%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Henderson" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Henderson" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><div style="display:inline;padding:1px;float:right">Henderson</div></div></div></div><div style="padding-top:0.2em">Location within the state of Michigan</div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Henderson,_Michigan&amp;params=43_05_11_N_84_11_43_W_region:US-MI_type:city(399)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°05′11″N</span> <span class="longitude">84°11′43″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.08639°N 84.19528°W</span><span style="display:none">&#xfeff; / <span class="geo">43.08639; -84.19528</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Henderson,_Michigan&amp;params=43_05_11_N_84_11_43_W_region:US-MI_type:city(399)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°05′11″N</span> <span class="longitude">84°11′43″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.08639°N 84.19528°W</span><span style="display:none">&#xfeff; / <span class="geo">43.08639; -84.19528</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td>United States</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/U.S._state" title="U.S. state">State</a></th><td><a href="/wiki/Michigan" title="Michigan">Michigan</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_counties_in_Michigan" title="List of counties in Michigan">County</a></th><td><a href="/wiki/Shiawassee_County,_Michigan" title="Shiawassee County, Michigan">Shiawassee</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Civil_township" title="Civil township">Township</a></th><td><a href="/wiki/Rush_Township,_Michigan" title="Rush Township, Michigan">Rush</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"><sup id="cite_ref-MI_1-0" class="reference"><a href="#cite_note-MI-1">&#91;1&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>3.67&#160;sq&#160;mi (9.5&#160;km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Land</th><td>3.60&#160;sq&#160;mi (9.3&#160;km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Water</th><td>0.07&#160;sq&#160;mi (0.2&#160;km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>732&#160;ft (223&#160;m)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(<a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010</a>)<sup id="cite_ref-MI_1-1" class="reference"><a href="#cite_note-MI-1">&#91;1&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>399</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>110.8/sq&#160;mi (42.8/km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC-5" class="mw-redirect" title="UTC-5">UTC-5</a> (<a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">Eastern (EST)</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC-4" class="mw-redirect" title="UTC-4">UTC-4</a> (EDT)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/ZIP_Code" title="ZIP Code">ZIP code(s)</a></th><td class="adr"><div class="postal-code">48841</div></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th><td><a href="/wiki/Area_code_989" title="Area code 989">989</a></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">GNIS</a> feature ID</th><td>628101<sup id="cite_ref-gnis_2-0" class="reference"><a href="#cite_note-gnis-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
+<p><b>Henderson</b> is an <a href="/wiki/Unincorporated_area" title="Unincorporated area">unincorporated community</a> and <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated place</a> (CDP) in <a href="/wiki/Shiawassee_County,_Michigan" title="Shiawassee County, Michigan">Shiawassee County</a> in the <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a> of <a href="/wiki/Michigan" title="Michigan">Michigan</a>.  The CDP had a population of 399 as of the <a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 census</a>.<sup id="cite_ref-MI_1-2" class="reference"><a href="#cite_note-MI-1">&#91;1&#93;</a></sup> The community is located within <a href="/wiki/Rush_Township,_Michigan" title="Rush Township, Michigan">Rush Township</a>.  Henderson was named for early settler John Henderson, and the community was formerly referred to as Hendersonville and Hazel Green.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Highways"><span class="tocnumber">4</span> <span class="toctext">Highways</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1836, Gideon Lee of New York City was first to enter the land here. Lee sold the land to Josiah Isham. Isham sold the land in 1858 to Andrew Henderson. In 1868, Andrew's son and community's name sake, John, built the first store in 1868 followed by the first hotel in 1875. The community became known as Hendersonville.<sup id="cite_ref-tap_3-0" class="reference"><a href="#cite_note-tap-3">&#91;3&#93;</a></sup>
+</p><p>On May 14, 1868, the Hazel Green post office was opened here under postmaster William Cook. The Michigan Central Railroad station was called Henderson.<sup id="cite_ref-tap_3-1" class="reference"><a href="#cite_note-tap-3">&#91;3&#93;</a></sup> The post office was renamed on October 16, 1876 to Henderson. For Andrew Henderson, Ezra Mason platted the village in 1879.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 
+</p><p>The community of Henderson was listed as a newly-organized <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated place</a> for the <a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 census</a>, meaning it now has officially defined boundaries and population statistics for the first time.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <a href="/wiki/U.S._Census_Bureau" class="mw-redirect" title="U.S. Census Bureau">U.S. Census Bureau</a>, the community has an area of 3.67 square miles (9.51&#160;km<sup>2</sup>), of which 3.60 square miles (9.32&#160;km<sup>2</sup>) is land and 0.07 square miles (0.18&#160;km<sup>2</sup>) (1.91%) is water.<sup id="cite_ref-MI_1-3" class="reference"><a href="#cite_note-MI-1">&#91;1&#93;</a></sup>
+</p><p>The <a href="/wiki/Shiawassee_River" title="Shiawassee River">Shiawassee River</a> passes through the community, and <a href="/wiki/M-52_(Michigan_highway)" title="M-52 (Michigan highway)">M-52</a> forms part of the eastern border with <a href="/wiki/New_Haven_Township,_Shiawassee_County,_Michigan" title="New Haven Township, Shiawassee County, Michigan">New Haven Township</a>.  
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=3" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">May 2020</span>)</i></small></div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Highways">Highways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=4" title="Edit section: Highways">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/M-52.svg/20px-M-52.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/M-52.svg/30px-M-52.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/M-52.svg/40px-M-52.svg.png 2x" data-file-width="600" data-file-height="600" /> <span class="nowrap"><a href="/wiki/M-52_(Michigan_highway)" title="M-52 (Michigan highway)">M-52</a></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-MI-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-MI_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MI_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MI_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-MI_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_26.txt">"2010 Census Gazetteer Files - Places: Michigan"</a>. <a href="/wiki/U.S._Census_Bureau" class="mw-redirect" title="U.S. Census Bureau">U.S. Census Bureau</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2010+Census+Gazetteer+Files+-+Places%3A+Michigan&amp;rft.pub=U.S.+Census+Bureau&amp;rft_id=http%3A%2F%2Fwww2.census.gov%2Fgeo%2Fdocs%2Fmaps-data%2Fdata%2Fgazetteer%2F2010_place_list_26.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHenderson%2C+Michigan" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-gnis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-gnis_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:628101">"Henderson"</a>. <i><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">Geographic Names Information System</a></i>. <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Geographic+Names+Information+System&amp;rft.atitle=Henderson&amp;rft_id=https%3A%2F%2Fgeonames.usgs.gov%2Fapex%2Ff%3Fp%3Dgnispq%3A3%3A%3A%3ANO%3A%3AP3_FID%3A628101&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHenderson%2C+Michigan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-tap-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-tap_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tap_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=9T4iAAAAIBAJ&amp;sjid=sqwFAAAAIBAJ&amp;pg=1568%2C1275079">"Ghost towns and post offices of Shiawassee County"</a>. <i>The Argus-Press</i>. September 15, 2000. p.&#160;3<span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Argus-Press&amp;rft.atitle=Ghost+towns+and+post+offices+of+Shiawassee+County&amp;rft.pages=3&amp;rft.date=2000-09-15&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3D9T4iAAAAIBAJ%26sjid%3DsqwFAAAAIBAJ%26pg%3D1568%252C1275079&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHenderson%2C+Michigan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFRomig1986" class="citation book">Romig, Walter (1986). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Y-FPXEGRo-YC&amp;lpg=PA424&amp;vq=Owosso&amp;pg=PA261#v=onepage&amp;q=%20Henderson&amp;f=false"><i>Michigan Place Names: The History of the Founding and the Naming of More Than Five Thousand Past and Present Michigan Communities</i></a>. Wayne State University Press. p.&#160;261. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780814318386" title="Special:BookSources/9780814318386"><bdi>9780814318386</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 28,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Michigan+Place+Names%3A+The+History+of+the+Founding+and+the+Naming+of+More+Than+Five+Thousand+Past+and+Present+Michigan+Communities&amp;rft.pages=261&amp;rft.pub=Wayne+State+University+Press&amp;rft.date=1986&amp;rft.isbn=9780814318386&amp;rft.aulast=Romig&amp;rft.aufirst=Walter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DY-FPXEGRo-YC%26lpg%3DPA424%26vq%3DOwosso%26pg%3DPA261%23v%3Donepage%26q%3D%2520Henderson%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHenderson%2C+Michigan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/prod/cen2010/cph-2-24.pdf">"Michigan: 2010 Population and Housing Unit Counts 2010 Census of Population and Housing"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 United States Census</a></i>. <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>. September 2012. p.&#160;III-8<span class="reference-accessdate">. Retrieved <span class="nowrap">May 8,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=2010+United+States+Census&amp;rft.atitle=Michigan%3A+2010+Population+and+Housing+Unit+Counts+2010+Census+of+Population+and+Housing&amp;rft.pages=III-8&amp;rft.date=2012-09&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fprod%2Fcen2010%2Fcph-2-24.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHenderson%2C+Michigan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Map_of_Michigan_highlighting_Shiawassee_County.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/26px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png" decoding="async" width="26" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/38px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/51px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png 2x" data-file-width="6256" data-file-height="7325" /></a></td><td><i>This <a href="/wiki/Shiawassee_County,_Michigan" title="Shiawassee County, Michigan">Shiawassee County, Michigan</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Henderson,_Michigan&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:ShiawasseeCountyMI-geo-stub" title="Template:ShiawasseeCountyMI-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:ShiawasseeCountyMI-geo-stub" title="Template talk:ShiawasseeCountyMI-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:ShiawasseeCountyMI-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_and_communities_of_Shiawassee_County,_Michigan,_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Shiawassee_County,_Michigan" title="Template:Shiawassee County, Michigan"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Shiawassee_County,_Michigan" title="Template talk:Shiawassee County, Michigan"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Shiawassee_County,_Michigan&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipalities_and_communities_of_Shiawassee_County,_Michigan,_United_States" class="adr" style="font-size:114%;margin:0 4em">Municipalities and communities of <a href="/wiki/Shiawassee_County,_Michigan" title="Shiawassee County, Michigan"><span class="region">Shiawassee County, Michigan</span></a>, <span class="country-name">United States</span></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="County_seat:_Corunna"><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="/wiki/Corunna,_Michigan" title="Corunna, Michigan"><span>Corunna</span></a></b></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City" title="City">Cities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Corunna,_Michigan" title="Corunna, Michigan">Corunna</a></li>
+<li><a href="/wiki/Durand,_Michigan" title="Durand, Michigan">Durand</a></li>
+<li><a href="/wiki/Laingsburg,_Michigan" title="Laingsburg, Michigan">Laingsburg</a></li>
+<li><a href="/wiki/Ovid,_Michigan" title="Ovid, Michigan">Ovid</a>‡</li>
+<li><a href="/wiki/Owosso,_Michigan" title="Owosso, Michigan">Owosso</a></li>
+<li><a href="/wiki/Perry,_Michigan" title="Perry, Michigan">Perry</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><div class="center"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/85px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png" decoding="async" title="Map of Michigan highlighting Shiawassee County" width="85" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/128px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Map_of_Michigan_highlighting_Shiawassee_County.svg/171px-Map_of_Michigan_highlighting_Shiawassee_County.svg.png 2x" data-file-width="6256" data-file-height="7325" /></div></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Village_(United_States)" title="Village (United States)">Villages</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bancroft,_Michigan" title="Bancroft, Michigan">Bancroft</a></li>
+<li><a href="/wiki/Byron,_Michigan" title="Byron, Michigan">Byron</a></li>
+<li><a href="/wiki/Lennon,_Michigan" title="Lennon, Michigan">Lennon</a>‡</li>
+<li><a href="/wiki/Morrice,_Michigan" title="Morrice, Michigan">Morrice</a></li>
+<li><a href="/wiki/New_Lothrop,_Michigan" title="New Lothrop, Michigan">New Lothrop</a></li>
+<li><a href="/wiki/Vernon,_Michigan" title="Vernon, Michigan">Vernon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Charter_township" title="Charter township">Charter townships</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caledonia_Township,_Shiawassee_County,_Michigan" title="Caledonia Township, Shiawassee County, Michigan">Caledonia</a></li>
+<li><a href="/wiki/Owosso_Township,_Michigan" title="Owosso Township, Michigan">Owosso</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Civil_township" title="Civil township">Civil townships</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antrim_Township,_Michigan" title="Antrim Township, Michigan">Antrim</a></li>
+<li><a href="/wiki/Bennington_Township,_Michigan" title="Bennington Township, Michigan">Bennington</a></li>
+<li><a href="/wiki/Burns_Township,_Michigan" title="Burns Township, Michigan">Burns</a></li>
+<li><a href="/wiki/Fairfield_Township,_Shiawassee_County,_Michigan" title="Fairfield Township, Shiawassee County, Michigan">Fairfield</a></li>
+<li><a href="/wiki/Hazelton_Township,_Michigan" title="Hazelton Township, Michigan">Hazelton</a></li>
+<li><a href="/wiki/Middlebury_Township,_Michigan" title="Middlebury Township, Michigan">Middlebury</a></li>
+<li><a href="/wiki/New_Haven_Township,_Shiawassee_County,_Michigan" title="New Haven Township, Shiawassee County, Michigan">New Haven</a></li>
+<li><a href="/wiki/Perry_Township,_Michigan" title="Perry Township, Michigan">Perry</a></li>
+<li><a href="/wiki/Rush_Township,_Michigan" title="Rush Township, Michigan">Rush</a></li>
+<li><a href="/wiki/Sciota_Township,_Michigan" title="Sciota Township, Michigan">Sciota</a></li>
+<li><a href="/wiki/Shiawassee_Township,_Michigan" title="Shiawassee Township, Michigan">Shiawassee</a></li>
+<li><a href="/wiki/Venice_Township,_Michigan" title="Venice Township, Michigan">Venice</a></li>
+<li><a href="/wiki/Vernon_Township,_Shiawassee_County,_Michigan" title="Vernon Township, Shiawassee County, Michigan">Vernon</a></li>
+<li><a href="/wiki/Woodhull_Township,_Michigan" title="Woodhull Township, Michigan">Woodhull</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Census-designated_place" title="Census-designated place">CDPs</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Henderson</a></li>
+<li><a href="/wiki/Middletown,_Michigan" title="Middletown, Michigan">Middletown</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Other<br />unincorporated<br />communities</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antrim_Township,_Michigan" title="Antrim Township, Michigan">Antrim Center</a></li>
+<li><a href="/wiki/Bennington,_Michigan" class="mw-redirect" title="Bennington, Michigan">Bennington</a></li>
+<li><a href="/wiki/Burton,_Shiawassee_County,_Michigan" class="mw-redirect" title="Burton, Shiawassee County, Michigan">Burton</a></li>
+<li><a href="/wiki/Carland,_Michigan" class="mw-redirect" title="Carland, Michigan">Carland</a></li>
+<li><a href="/wiki/Easton,_Michigan" class="mw-redirect" title="Easton, Michigan">Easton</a></li>
+<li><a href="/wiki/Five_Points,_Shiawassee_County,_Michigan" class="mw-redirect" title="Five Points, Shiawassee County, Michigan">Five Points</a></li>
+<li><a href="/wiki/Five_Points_North,_Michigan" class="mw-redirect" title="Five Points North, Michigan">Five Points North</a></li>
+<li><a href="/wiki/Forest_Green_Estates,_Michigan" class="mw-redirect" title="Forest Green Estates, Michigan">Forest Green Estates</a></li>
+<li><a href="/wiki/Hoovers_Corners,_Michigan" class="mw-redirect" title="Hoovers Corners, Michigan">Hoovers Corners</a></li>
+<li><a href="/wiki/Juddville,_Michigan" class="mw-redirect" title="Juddville, Michigan">Juddville</a></li>
+<li><a href="/wiki/Kerby,_Michigan" class="mw-redirect" title="Kerby, Michigan">Kerby</a></li>
+<li><a href="/wiki/Newburg,_Shiawassee_County,_Michigan" class="mw-redirect" title="Newburg, Shiawassee County, Michigan">Newburg</a></li>
+<li><a href="/wiki/New_Haven,_Shiawassee_County,_Michigan" class="mw-redirect" title="New Haven, Shiawassee County, Michigan">New Haven</a></li>
+<li><a href="/wiki/Nicholson,_Michigan" class="mw-redirect" title="Nicholson, Michigan">Nicholson</a>‡</li>
+<li><a href="/wiki/Olney_Corners,_Michigan" class="mw-redirect" title="Olney Corners, Michigan">Olney Corners</a>‡</li>
+<li><a href="/wiki/Pittsburg,_Michigan" class="mw-redirect" title="Pittsburg, Michigan">Pittsburg</a></li>
+<li><a href="/wiki/Shaftsburg,_Michigan" class="mw-redirect" title="Shaftsburg, Michigan">Shaftsburg</a></li>
+<li><a href="/wiki/Shiawasseetown,_Michigan" class="mw-redirect" title="Shiawasseetown, Michigan">Shiawasseetown</a></li>
+<li><a href="/wiki/Smith_Crossing,_Michigan" class="mw-redirect" title="Smith Crossing, Michigan">Smith Crossing</a></li>
+<li><a href="/wiki/Union_Plains,_Michigan" class="mw-redirect" title="Union Plains, Michigan">Union Plains</a></li>
+<li><a href="/wiki/Wolf_Crossing,_Michigan" class="mw-redirect" title="Wolf Crossing, Michigan">Wolf Crossing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Footnotes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">‡This populated place also has portions in an adjacent county</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/File:Flag_of_Michigan.svg" class="image"><img alt="Flag of Michigan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/32px-Flag_of_Michigan.svg.png" decoding="async" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/48px-Flag_of_Michigan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/64px-Flag_of_Michigan.svg.png 2x" data-file-width="685" data-file-height="457" /></a> <a href="/wiki/Portal:Michigan" title="Portal:Michigan">Michigan&#32;portal</a> &#160; <a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" decoding="async" width="32" height="17" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States&#32;portal</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20200626130727
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.588 seconds
+Real time usage: 0.799 seconds
+Preprocessor visited node count: 4386/1000000
+Post‐expand include size: 74535/2097152 bytes
+Template argument size: 14442/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20367/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.268/10.000 seconds
+Lua memory usage: 6.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  708.981      1 -total
+ 44.72%  317.049      1 Template:Infobox_settlement
+ 32.70%  231.838      1 Template:Infobox
+ 18.65%  132.205      1 Template:Reflist
+ 13.99%   99.196      3 Template:Cite_web
+  6.71%   47.588      3 Template:Infobox_settlement/areadisp
+  6.70%   47.486      3 Template:Convert
+  6.67%   47.313      1 Template:Shiawassee_County,_Michigan
+  6.40%   45.360      4 Template:Main_other
+  6.38%   45.247      1 Template:ShiawasseeCountyMI-geo-stub
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15986724-0!canonical and timestamp 20200626130726 and revision id 957456925
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Henderson,_Michigan&amp;oldid=957456925">https://en.wikipedia.org/w/index.php?title=Henderson,_Michigan&amp;oldid=957456925</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lower_Peninsula,_Michigan_geography_stubs" title="Category:Lower Peninsula, Michigan geography stubs">Lower Peninsula, Michigan geography stubs</a></li><li><a href="/wiki/Category:Unincorporated_communities_in_Shiawassee_County,_Michigan" title="Category:Unincorporated communities in Shiawassee County, Michigan">Unincorporated communities in Shiawassee County, Michigan</a></li><li><a href="/wiki/Category:Unincorporated_communities_in_Michigan" title="Category:Unincorporated communities in Michigan">Unincorporated communities in Michigan</a></li><li><a href="/wiki/Category:Census-designated_places_in_Shiawassee_County,_Michigan" title="Category:Census-designated places in Shiawassee County, Michigan">Census-designated places in Shiawassee County, Michigan</a></li><li><a href="/wiki/Category:Census-designated_places_in_Michigan" title="Category:Census-designated places in Michigan">Census-designated places in Michigan</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2020" title="Category:Articles to be expanded from May 2020">Articles to be expanded from May 2020</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Henderson%2C+Michigan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Henderson%2C+Michigan" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Henderson,_Michigan" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Henderson,_Michigan" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Henderson,_Michigan">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Henderson,_Michigan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Henderson,_Michigan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Henderson,_Michigan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Henderson,_Michigan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Henderson,_Michigan&amp;oldid=957456925" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Henderson,_Michigan&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22085582" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Henderson%2C_Michigan&amp;id=957456925&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Henderson%2C+Michigan&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Henderson,_Michigan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B1%D8%B3%D9%86%D8%8C_%D9%85%DB%8C%D8%B4%DB%8C%D9%82%D8%A7%D9%86" title="هندرسن، میشیقان – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Henderson_(lungsod_sa_Tinipong_Bansa,_Michigan)" title="Henderson (lungsod sa Tinipong Bansa, Michigan) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Henderson_(M%C3%ADchigan)" title="Henderson (Míchigan) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B1%D8%B3%D9%86%D8%8C_%D9%85%DB%8C%D8%B4%DB%8C%DA%AF%D8%A7%D9%86" title="هندرسن، میشیگان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Henderson_(Michigan)" title="Henderson (Michigan) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD_(%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B5%D0%BD)" title="Хендерсон (Мичиген) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Henderson,_Michigan" title="Henderson, Michigan – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD_(%D0%9C%D1%96%D1%87%D0%B8%D0%B3%D0%B0%D0%BD)" title="Гендерсон (Мічиган) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22085582#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 May 2020, at 23:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Henderson,_Michigan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.588","walltime":"0.799","ppvisitednodes":{"value":4386,"limit":1000000},"postexpandincludesize":{"value":74535,"limit":2097152},"templateargumentsize":{"value":14442,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20367,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  708.981      1 -total"," 44.72%  317.049      1 Template:Infobox_settlement"," 32.70%  231.838      1 Template:Infobox"," 18.65%  132.205      1 Template:Reflist"," 13.99%   99.196      3 Template:Cite_web","  6.71%   47.588      3 Template:Infobox_settlement/areadisp","  6.70%   47.486      3 Template:Convert","  6.67%   47.313      1 Template:Shiawassee_County,_Michigan","  6.40%   45.360      4 Template:Main_other","  6.38%   45.247      1 Template:ShiawasseeCountyMI-geo-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.268","limit":"10.000"},"limitreport-memusage":{"value":7067120,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1329","timestamp":"20200626130727","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Henderson, Michigan","url":"https:\/\/en.wikipedia.org\/wiki\/Henderson,_Michigan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22085582","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22085582","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-27T18:37:24Z","dateModified":"2020-05-18T23:28:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a8\/Henderson_%28CDP%29%2C_MI_location.png","headline":"place in the USA"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1265"});});</script></body></html>
