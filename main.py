@@ -11,7 +11,7 @@ import urllib.request
 import os
 
 
-class NP_by_State_Parser(HTMLParser):
+class State_Newspapers_Index_Parser(HTMLParser):
 
     urls = []
     span = False
@@ -40,7 +40,7 @@ class NP_by_State_Parser(HTMLParser):
         return self.urls
 
 
-class Check_Actually_Paper_Parser(HTMLParser):
+class Check_If_Actually_Paper_Parser(HTMLParser):
     paragraph_count = 0
     p_open = False
     is_newspaper = False
@@ -103,7 +103,8 @@ class Paper_Attributes_Parser(HTMLParser):
 
 def collect_papers_Michigan(all_paper_urls):
     filename = "W_html.txt"
-    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Michigan", headers={'User-Agent': 'Mozilla/5.0'})
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Michigan"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
@@ -113,7 +114,8 @@ def collect_papers_Michigan(all_paper_urls):
 
 def collect_papers_Alabama(all_paper_urls):
     filename = "W_html.txt"
-    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Alabama", headers={'User-Agent': 'Mozilla/5.0'})
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Alabama"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
@@ -123,7 +125,8 @@ def collect_papers_Alabama(all_paper_urls):
 
 def collect_papers_Maryland(all_paper_urls):
     filename = "W_html.txt"
-    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Maryland", headers={'User-Agent': 'Mozilla/5.0'})
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Maryland"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
@@ -132,7 +135,8 @@ def collect_papers_Maryland(all_paper_urls):
 
 def collect_papers_California(all_paper_urls):
     filename = "W_html.txt"
-    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_California", headers={'User-Agent': 'Mozilla/5.0'})
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_California"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
@@ -141,7 +145,8 @@ def collect_papers_California(all_paper_urls):
 
 def collect_papers_Maine(all_paper_urls):
     filename = "W_html.txt"
-    req = Request("https://en.wikipedia.org/wiki/List_of_newspapers_in_Maine", headers={'User-Agent': 'Mozilla/5.0'})
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Maine"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
@@ -153,7 +158,7 @@ def collect_papers_Maine(all_paper_urls):
 def parse_newspapers_from_state_Wikipedia(filename, all_paper_urls, name):
     f = open(filename, "r")
     contents = f.read()
-    parser = NP_by_State_Parser()
+    parser = State_Newspapers_Index_Parser()
     parser.feed(contents)
     parse_urls(parser, all_paper_urls, name)
 
@@ -169,7 +174,7 @@ def parse_urls(parser, all_paper_urls, name):
 
         f = open("temp1.txt", "r")
         contents = f.read()
-        parser = Check_Actually_Paper_Parser()
+        parser = If_()
         parser.feed(contents)
         if parser.is_paper():
             wiki_paper_urls.append(url)
