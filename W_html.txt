@@ -3,13 +3,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>List of newspapers in Colorado - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"823be35a-8357-4814-9097-cf8aab4f871a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_newspapers_in_Colorado","wgTitle":"List of newspapers in Colorado","wgCurRevisionId":963252103,"wgRevisionId":963252103,"wgArticleId":2368251,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Incomplete lists from August 2008","Lists of newspapers published in the United States by state","Newspapers published in Colorado","Colorado-related lists","Defunct newspapers published in Colorado"],"wgPageContentLanguage":"en",
-"wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_newspapers_in_Colorado","wgRelevantArticleId":2368251,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6630450","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
-"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>List of newspapers in Alaska - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"61f99bc5-b164-4793-8a98-c111d53756ed","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_newspapers_in_Alaska","wgTitle":"List of newspapers in Alaska","wgCurRevisionId":959583045,"wgRevisionId":959583045,"wgArticleId":4750253,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing cleanup from January 2014","All pages needing cleanup","Cleanup tagged articles with a reason field from January 2014","Wikipedia pages needing cleanup from January 2014",
+"Lists of newspapers published in the United States by state","Newspapers published in Alaska","Alaska-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_newspapers_in_Alaska","wgRelevantArticleId":4750253,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6630430","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +18,20 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_newspapers_in_Colorado"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_newspapers_in_Alaska"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_newspapers_in_Colorado rootpage-List_of_newspapers_in_Colorado skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_newspapers_in_Alaska rootpage-List_of_newspapers_in_Alaska skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -38,7 +39,7 @@
 		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">List of newspapers in Colorado</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">List of newspapers in Alaska</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -48,180 +49,68 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Wikipedia list article</div>
-<p>This is a <b>list of newspapers in <a href="/wiki/Colorado" title="Colorado">Colorado</a></b>.  According to the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a>, over 2,500 newspapers have been published in Colorado.  The first documented newspaper was the <i>Rocky Mountain Gold Reporter and Mountain City Herald</i>, which was published by T. Gibson in 1859 in <a href="/wiki/Mountain_City,_Colorado" class="mw-redirect" title="Mountain City, Colorado">Mountain City, Colorado</a>.<sup id="cite_ref-LOC_1-0" class="reference"><a href="#cite_note-LOC-1">&#91;1&#93;</a></sup>   
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Wikimedia list article</div>
+<table class="box-Cleanup plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>Judging from <a rel="nofollow" class="external text" href="http://library.alaska.gov/hist/hist_docs/newspapers/by_place.pdf">this document</a>, this list is more a semi-random directory than a proper list of notable newspapers in Alaska.  This is particularly glaring when comparing coverage of defunct newspapers (hint: <i>Insurgent49</i> isn't really all that notable, it was merely around when there was real-world interest in creating Wikipedia articles)</b><span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit">improve this article</a> if you can.</span>  <small class="date-container"><i>(<span class="date">January 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>This is a <b>list of newspapers in <a href="/wiki/Alaska" title="Alaska">Alaska</a></b>.
 </p>
-<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit">expanding it</a>.</div>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Daily_and_weekly_newspapers_(currently_published_in_Colorado)"><span class="tocnumber">1</span> <span class="toctext">Daily and weekly newspapers (currently published in Colorado)</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Smaller_newspapers_(listed_alphabetically)"><span class="tocnumber">1.1</span> <span class="toctext">Smaller newspapers (listed alphabetically)</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-3"><a href="#Defunct_newspapers"><span class="tocnumber">2</span> <span class="toctext">Defunct newspapers</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Daily_newspapers_(currently_published)"><span class="tocnumber">1</span> <span class="toctext">Daily newspapers (currently published)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Weekly_newspapers_(currently_published)"><span class="tocnumber">2</span> <span class="toctext">Weekly newspapers (currently published)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Monthly_newspapers_(currently_published)"><span class="tocnumber">3</span> <span class="toctext">Monthly newspapers (currently published)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#University_newspapers"><span class="tocnumber">4</span> <span class="toctext">University newspapers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Defunct_newspapers"><span class="tocnumber">5</span> <span class="toctext">Defunct newspapers</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span id="Daily_and_weekly_newspapers_.28currently_published_in_Colorado.29"></span><span class="mw-headline" id="Daily_and_weekly_newspapers_(currently_published_in_Colorado)">Daily and weekly newspapers (currently published in Colorado)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=1" title="Edit section: Daily and weekly newspapers (currently published in Colorado)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><b>Larger newspapers</b> (listed by total average paid daily circulation as of 30 September 2012<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> as compiled by the <a href="/wiki/Audit_Bureau_of_Circulations_(North_America)" class="mw-redirect" title="Audit Bureau of Circulations (North America)">Audit Bureau of Circulations</a>):
-</p>
-<ul><li><i><a href="/wiki/The_Denver_Post" title="The Denver Post">The Denver Post</a></i> (412,669) — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a></li>
-<li><i><a href="/wiki/The_Gazette_(Colorado_Springs)" title="The Gazette (Colorado Springs)">The Gazette</a></i> (64,394) — <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></li>
-<li><i><a href="/wiki/Daily_Camera" title="Daily Camera">Daily Camera</a></i> (40,483) — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><i><a href="/wiki/The_Pueblo_Chieftain" title="The Pueblo Chieftain">The Pueblo Chieftain</a></i> (35,793) — <a href="/wiki/Pueblo,_Colorado" title="Pueblo, Colorado">Pueblo</a></li>
-<li><i><a href="/wiki/The_Daily_Sentinel_(Colorado)" class="mw-redirect" title="The Daily Sentinel (Colorado)">The Daily Sentinel</a></i> (23,602) — <a href="/wiki/Grand_Junction,_Colorado" title="Grand Junction, Colorado">Grand Junction</a></li>
-<li><i><a href="/wiki/Daily_Times-Call" class="mw-redirect" title="Daily Times-Call">Daily Times-Call</a></i> (20,820) — <a href="/wiki/Longmont,_Colorado" title="Longmont, Colorado">Longmont</a></li>
-<li><i><a href="/wiki/The_Coloradoan" class="mw-redirect" title="The Coloradoan">The Coloradoan</a></i> (19,530) — <a href="/wiki/Fort_Collins,_Colorado" title="Fort Collins, Colorado">Fort Collins</a></li>
-<li><i><a href="/wiki/Reporter-Herald" title="Reporter-Herald">Reporter-Herald</a></i> (19,024) — <a href="/wiki/Loveland,_Colorado" title="Loveland, Colorado">Loveland</a></li>
-<li><i><a href="/wiki/The_Durango_Herald" title="The Durango Herald">The Durango Herald</a></i> (7,710) — <a href="/wiki/Durango,_Colorado" title="Durango, Colorado">Durango</a></li>
-<li><i><a href="/wiki/Ca%C3%B1on_City_Daily_Record" title="Cañon City Daily Record">Cañon City Daily Record</a></i> (5,271) — <a href="/wiki/Ca%C3%B1on_City,_Colorado" title="Cañon City, Colorado">Cañon City</a></li></ul>
-<p><br />
-</p>
-<h3><span id="Smaller_newspapers_.28listed_alphabetically.29"></span><span class="mw-headline" id="Smaller_newspapers_(listed_alphabetically)">Smaller newspapers (listed alphabetically)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=2" title="Edit section: Smaller newspapers (listed alphabetically)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/w/index.php?title=Ag_Journal_Online&amp;action=edit&amp;redlink=1" class="new" title="Ag Journal Online (page does not exist)">Ag Journal Online</a></i> — <a href="/wiki/La_Junta,_Colorado" title="La Junta, Colorado">La Junta</a></li>
-<li><i><a href="/wiki/Akron_News-Reporter" title="Akron News-Reporter">Akron News-Reporter</a></i> — <a href="/wiki/Akron,_Colorado" title="Akron, Colorado">Akron</a> (weekly)</li>
-<li><i><a href="/wiki/Aspen_Daily_News" title="Aspen Daily News">Aspen Daily News</a></i> — <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">Aspen</a></li>
-<li><i><a href="/wiki/The_Aspen_Times" title="The Aspen Times">The Aspen Times</a> - <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">Aspen</a></i></li>
-<li><i><a href="/wiki/Aurora_Sentinel" class="mw-redirect" title="Aurora Sentinel">Aurora Sentinel</a></i> — <a href="/wiki/Aurora,_Colorado" title="Aurora, Colorado">Aurora</a></li>
-<li><i><a href="/w/index.php?title=Bent_County_Democrat&amp;action=edit&amp;redlink=1" class="new" title="Bent County Democrat (page does not exist)">Bent County Democrat</a></i> — <a href="/wiki/Las_Animas,_Colorado" title="Las Animas, Colorado">Las Animas</a></li>
-<li><i><a href="/w/index.php?title=Berthoud_Weekly_Surveyor&amp;action=edit&amp;redlink=1" class="new" title="Berthoud Weekly Surveyor (page does not exist)">Berthoud Weekly Surveyor</a></i> — <a href="/wiki/Berthoud,_Colorado" title="Berthoud, Colorado">Berthoud</a></li>
-<li><i><a href="/wiki/BizWest" title="BizWest">BizWest</a></i> — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><i><a href="/wiki/Boulder_Weekly" title="Boulder Weekly">Boulder Weekly</a></i> — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=Brighton_Standard_Blade&amp;action=edit&amp;redlink=1" class="new" title="Brighton Standard Blade (page does not exist)">Brighton Standard Blade</a></i> — <a href="/wiki/Brighton,_Colorado" title="Brighton, Colorado">Brighton</a></li>
-<li><i><a href="/wiki/Broomfield_Enterprise" title="Broomfield Enterprise">Broomfield Enterprise</a></i> — <a href="/wiki/Broomfield,_Colorado" title="Broomfield, Colorado">Broomfield</a> (semi-weekly)</li>
-<li><i><a href="/wiki/Brush_News-Tribune" title="Brush News-Tribune">Brush News-Tribune</a></i> — <a href="/wiki/Brush,_Colorado" title="Brush, Colorado">Brush</a> (weekly)</li>
-<li><i><a href="/wiki/Burlington_Record" title="Burlington Record">Burlington Record</a></i> — <a href="/wiki/Burlington,_Colorado" title="Burlington, Colorado">Burlington</a> (weekly)</li>
-<li><i><a href="/wiki/Canyon_Courier" class="mw-redirect" title="Canyon Courier">Canyon Courier</a></i> — <a href="/wiki/Conifer,_Colorado" title="Conifer, Colorado">Conifer</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=Center_Post_Dispatch_(Colorado)&amp;action=edit&amp;redlink=1" class="new" title="Center Post Dispatch (Colorado) (page does not exist)">Center Post Dispatch</a></i> — <a href="/wiki/Center,_Colorado" title="Center, Colorado">Center</a></li>
-<li><i><a href="/w/index.php?title=The_Castle_Pines_Connection&amp;action=edit&amp;redlink=1" class="new" title="The Castle Pines Connection (page does not exist)">The Castle Pines Connection</a></i> — <a href="/wiki/Castle_Pines,_Colorado" class="mw-redirect" title="Castle Pines, Colorado">Castle Pines</a> (monthly)</li>
-<li><i><a href="/w/index.php?title=The_Chaffee_County_Times&amp;action=edit&amp;redlink=1" class="new" title="The Chaffee County Times (page does not exist)">The Chaffee County Times</a></i> — <a href="/wiki/Buena_Vista,_Colorado" title="Buena Vista, Colorado">Buena Vista</a></li>
-<li><i><a href="/w/index.php?title=The_Chronicle-News.com&amp;action=edit&amp;redlink=1" class="new" title="The Chronicle-News.com (page does not exist)">The Chronicle-News.com</a></i> — <a href="/wiki/Trinidad,_Colorado" title="Trinidad, Colorado">Trinidad</a></li>
-<li><i><a href="/wiki/Colorado_Daily" title="Colorado Daily">Colorado Daily</a></i> — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><i>Colorado Hometown Weekly</i> — east Boulder County (free weekly)</li>
-<li><i><a href="/w/index.php?title=The_Colorado_Springs_Business_Journal&amp;action=edit&amp;redlink=1" class="new" title="The Colorado Springs Business Journal (page does not exist)">The Colorado Springs Business Journal</a></i> — <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></li>
-<li><i><a href="/wiki/Colorado_Springs_Independent" title="Colorado Springs Independent">Colorado Springs Independent</a></i> — <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a> (weekly)</li>
-<li><i><a href="/wiki/Colorado_Sun" class="mw-redirect" title="Colorado Sun">Colorado Sun</a></i> — <a href="/wiki/Colorado" title="Colorado">Colorado</a> (on-line)</li>
-<li><i><a href="/w/index.php?title=Commerce_City_Sentinel_Express&amp;action=edit&amp;redlink=1" class="new" title="Commerce City Sentinel Express (page does not exist)">Commerce City Sentinel Express</a></i> — <a href="/wiki/Commerce_City,_Colorado" title="Commerce City, Colorado">Commerce City</a></li>
-<li><i><a href="/w/index.php?title=The_Conejos_County_Citizen&amp;action=edit&amp;redlink=1" class="new" title="The Conejos County Citizen (page does not exist)">The Conejos County Citizen</a></i> — <a href="/wiki/Conejos_County,_Colorado" title="Conejos County, Colorado">Conejos County</a></li>
-<li><i><a href="/w/index.php?title=The_Craig_Press&amp;action=edit&amp;redlink=1" class="new" title="The Craig Press (page does not exist)">The Craig Press</a></i> — <a href="/wiki/Craig,_Colorado" title="Craig, Colorado">Craig</a></li>
-<li><i><a href="/w/index.php?title=The_Crested_Butte_News&amp;action=edit&amp;redlink=1" class="new" title="The Crested Butte News (page does not exist)">The Crested Butte News</a></i> — <a href="/wiki/Crested_Butte,_Colorado" title="Crested Butte, Colorado">Crested Butte</a></li>
-<li><i>The Crystal Valley Echo</i> — <a href="/wiki/Marble,_Colorado" title="Marble, Colorado">Marble, Colorado</a></li>
-<li><i><a href="/w/index.php?title=Delta_County_Independent&amp;action=edit&amp;redlink=1" class="new" title="Delta County Independent (page does not exist)">Delta County Independent</a></i> — <a href="/wiki/Delta,_Colorado" title="Delta, Colorado">Delta</a></li>
-<li><i><a href="/wiki/Denver_Business_Journal" class="mw-redirect" title="Denver Business Journal">Denver Business Journal</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a></li>
-<li><i><a href="/wiki/The_Denver_North_Star" title="The Denver North Star">The Denver North Star</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a></li>
-<li><i><a href="/w/index.php?title=Douglas_County_Business_Magazine&amp;action=edit&amp;redlink=1" class="new" title="Douglas County Business Magazine (page does not exist)">Douglas County Business Magazine</a></i> — <a href="/wiki/Parker,_Colorado" title="Parker, Colorado">Parker</a></li>
-<li><i><a href="/w/index.php?title=Douglas_County_News-Press&amp;action=edit&amp;redlink=1" class="new" title="Douglas County News-Press (page does not exist)">Douglas County News-Press</a></i> — <a href="/wiki/Castle_Rock,_Colorado" title="Castle Rock, Colorado">Castle Rock</a></li>
-<li><i><a href="/w/index.php?title=Dove_Creek_Press&amp;action=edit&amp;redlink=1" class="new" title="Dove Creek Press (page does not exist)">Dove Creek Press</a></i> — <a href="/wiki/Dove_Creek,_Colorado" title="Dove Creek, Colorado">Dove Creek</a>, <a href="/wiki/Dolores_County,_Colorado" title="Dolores County, Colorado">Dolores County</a></li>
-<li><i><a href="/w/index.php?title=The_Durango_Telegraph&amp;action=edit&amp;redlink=1" class="new" title="The Durango Telegraph (page does not exist)">The Durango Telegraph</a></i> — <a href="/wiki/Durango,_Colorado" title="Durango, Colorado">Durango</a></li>
-<li><i><a href="/w/index.php?title=Eagle_Valley_Enterprise&amp;action=edit&amp;redlink=1" class="new" title="Eagle Valley Enterprise (page does not exist)">Eagle Valley Enterprise</a></i> — <a href="/wiki/Eagle,_Colorado" title="Eagle, Colorado">Eagle</a></li>
-<li><i><a href="/w/index.php?title=El_Paso_County_Advertiser_and_Fountain_Valley_News&amp;action=edit&amp;redlink=1" class="new" title="El Paso County Advertiser and Fountain Valley News (page does not exist)">El Paso County Advertiser and Fountain Valley News</a></i> — <a href="/wiki/Fountain,_Colorado" title="Fountain, Colorado">Fountain</a></li>
-<li><i><a href="/wiki/Estes_Park_Trail-Gazette" title="Estes Park Trail-Gazette">Estes Park Trail-Gazette</a></i> — <a href="/wiki/Estes_Park,_Colorado" title="Estes Park, Colorado">Estes Park</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=The_Flume_(newspaper)&amp;action=edit&amp;redlink=1" class="new" title="The Flume (newspaper) (page does not exist)">The Flume: The Park County Republican &amp; Fairplay Flume</a></i> — <a href="/wiki/Bailey,_Colorado" title="Bailey, Colorado">Bailey</a> and <a href="/wiki/Fairplay,_Colorado" title="Fairplay, Colorado">Fairplay</a></li>
-<li><i><a href="/w/index.php?title=Fort_Lupton_Press&amp;action=edit&amp;redlink=1" class="new" title="Fort Lupton Press (page does not exist)">Fort Lupton Press</a></i> — <a href="/wiki/Fort_Lupton,_Colorado" title="Fort Lupton, Colorado">Fort Lupton</a></li>
-<li><i><a href="/wiki/Fort_Morgan_Times" title="Fort Morgan Times">Fort Morgan Times</a></i> — <a href="/wiki/Fort_Morgan,_Colorado" title="Fort Morgan, Colorado">Fort Morgan</a></li>
-<li><i><a href="/w/index.php?title=The_Fowler_Tribune&amp;action=edit&amp;redlink=1" class="new" title="The Fowler Tribune (page does not exist)">The Fowler Tribune</a></i> — <a href="/wiki/Fowler,_Colorado" title="Fowler, Colorado">Fowler</a></li>
-<li><i><a href="/w/index.php?title=Glendale_Cherry_Creek_Chronicle&amp;action=edit&amp;redlink=1" class="new" title="Glendale Cherry Creek Chronicle (page does not exist)">Glendale Cherry Creek Chronicle</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a>, <a href="/wiki/Glendale,_Colorado" title="Glendale, Colorado">Glendale</a></li>
-<li><i><a href="/wiki/Gorizont_(newspaper)" title="Gorizont (newspaper)">Gorizont</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (Russian)</li>
-<li><i><a href="/w/index.php?title=The_Greeley_Tribune&amp;action=edit&amp;redlink=1" class="new" title="The Greeley Tribune (page does not exist)">The Greeley Tribune</a></i> — <a href="/wiki/Greeley,_Colorado" title="Greeley, Colorado">Greeley</a></li>
-<li><i><a href="/wiki/Gunnison_Country_Times" class="mw-redirect" title="Gunnison Country Times">Gunnison Country Times</a></i> — <a href="/wiki/Gunnison,_Colorado" title="Gunnison, Colorado">Gunnison</a></li>
-<li><i><a href="/w/index.php?title=Haxtun-Fleming_Herald&amp;action=edit&amp;redlink=1" class="new" title="Haxtun-Fleming Herald (page does not exist)">Haxtun-Fleming Herald</a></i> — <a href="/wiki/Haxtun,_Colorado" title="Haxtun, Colorado">Haxtun</a></li>
-<li><i><a href="/w/index.php?title=The_Herald_Democrat_(Leadville,_Colorado)&amp;action=edit&amp;redlink=1" class="new" title="The Herald Democrat (Leadville, Colorado) (page does not exist)">The Herald Democrat</a></i> — <a href="/wiki/Leadville,_Colorado" title="Leadville, Colorado">Leadville</a></li>
-<li><i><a href="/wiki/High_Country_News" title="High Country News">High Country News</a></i> — <a href="/wiki/Paonia,_Colorado" title="Paonia, Colorado">Paonia</a> (semi-monthly)</li>
-<li><i><a href="/wiki/Intermountain_Jewish_News" title="Intermountain Jewish News">Intermountain Jewish News</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=The_Johnstown_Breeze&amp;action=edit&amp;redlink=1" class="new" title="The Johnstown Breeze (page does not exist)">The Johnstown Breeze</a></i> — <a href="/wiki/Johnstown,_Colorado" title="Johnstown, Colorado">Johnstown</a></li>
-<li><i><a href="/w/index.php?title=The_Journal_(Cortez,_Colorado)&amp;action=edit&amp;redlink=1" class="new" title="The Journal (Cortez, Colorado) (page does not exist)">The Journal</a></i> — <a href="/wiki/Cortez,_Colorado" title="Cortez, Colorado">Cortez</a>, <a href="/wiki/Dolores,_Colorado" title="Dolores, Colorado">Dolores</a>, and <a href="/wiki/Mancos,_Colorado" title="Mancos, Colorado">Mancos</a></li>
-<li><i><a href="/wiki/Journal-Advocate" title="Journal-Advocate">Journal-Advocate</a></i> — <a href="/wiki/Sterling,_Colorado" title="Sterling, Colorado">Sterling</a></li>
-<li><i><a href="/wiki/Julesburg_Advocate" title="Julesburg Advocate">Julesburg Advocate</a></i> — <a href="/wiki/Julesburg,_Colorado" title="Julesburg, Colorado">Julesburg</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=Kiowa_County_Press&amp;action=edit&amp;redlink=1" class="new" title="Kiowa County Press (page does not exist)">Kiowa County Press</a></i> — <a href="/wiki/Eads,_Colorado" title="Eads, Colorado">Eads</a></li>
-<li><i><a href="/wiki/La_Junta_Tribune_Democrat" class="mw-redirect" title="La Junta Tribune Democrat">La Junta Tribune Democrat</a></i> — <a href="/wiki/La_Junta,_Colorado" title="La Junta, Colorado">La Junta</a></li>
-<li><i><a href="/w/index.php?title=La_Prensa_de_Colorado&amp;action=edit&amp;redlink=1" class="new" title="La Prensa de Colorado (page does not exist)">La Prensa de Colorado</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (Spanish)</li>
-<li><i><a href="/w/index.php?title=La_Voz_Biling%C3%BCe&amp;action=edit&amp;redlink=1" class="new" title="La Voz Bilingüe (page does not exist)">La Voz Bilingüe</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (Bilingual weekly)</li>
-<li><i><a href="/wiki/Lamar_Ledger" title="Lamar Ledger">Lamar Ledger</a></i> — <a href="/wiki/Lamar,_Colorado" title="Lamar, Colorado">Lamar</a> (weekly)</li>
-<li><i><a href="/wiki/Law_Week_Colorado" title="Law Week Colorado">Law Week Colorado</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=Life_on_Capitol_Hill&amp;action=edit&amp;redlink=1" class="new" title="Life on Capitol Hill (page does not exist)">Life on Capitol Hill</a></i> — <a href="/wiki/Capitol_Hill,_Denver" title="Capitol Hill, Denver">Capitol Hill</a></li>
-<li><i><a href="/w/index.php?title=The_Lyons_Recorder&amp;action=edit&amp;redlink=1" class="new" title="The Lyons Recorder (page does not exist)">The Lyons Recorder</a></i> — <a href="/wiki/Lyons,_Colorado" title="Lyons, Colorado">Lyons</a></li>
-<li><i><a href="/wiki/The_Metropolitan_(newspaper)" title="The Metropolitan (newspaper)">The Metropolitan</a></i> — <a href="/wiki/Metropolitan_State_University_of_Denver" title="Metropolitan State University of Denver">Metropolitan State University of Denver</a></li>
-<li><i><a href="/w/index.php?title=The_Mirror_(University_of_Northern_Colorado)&amp;action=edit&amp;redlink=1" class="new" title="The Mirror (University of Northern Colorado) (page does not exist)">The Mirror</a></i> — <a href="/wiki/University_of_Northern_Colorado" title="University of Northern Colorado">University of Northern Colorado</a></li>
-<li><i><a href="/w/index.php?title=Monte_Vista_Journal&amp;action=edit&amp;redlink=1" class="new" title="Monte Vista Journal (page does not exist)">Monte Vista Journal</a></i> — <a href="/wiki/Monte_Vista,_Colorado" title="Monte Vista, Colorado">Monte Vista</a></li>
-<li><i><a href="/w/index.php?title=Montrose_Mirror_Online_Newsblast&amp;action=edit&amp;redlink=1" class="new" title="Montrose Mirror Online Newsblast (page does not exist)">Montrose Mirror Online Newsblast</a></i> — <a href="/wiki/Montrose,_Colorado" title="Montrose, Colorado">Montrose</a></li>
-<li><i><a href="/w/index.php?title=Montrose_Press&amp;action=edit&amp;redlink=1" class="new" title="Montrose Press (page does not exist)">Montrose Press</a></i> — <a href="/wiki/Montrose,_Colorado" title="Montrose, Colorado">Montrose</a></li>
-<li><i><a href="/w/index.php?title=The_Mountain_Ear&amp;action=edit&amp;redlink=1" class="new" title="The Mountain Ear (page does not exist)">The Mountain Ear</a></i> — <a href="/wiki/Nederland,_Colorado" title="Nederland, Colorado">Nederland</a></li>
-<li><i><a href="/w/index.php?title=The_Mountain_Jackpot&amp;action=edit&amp;redlink=1" class="new" title="The Mountain Jackpot (page does not exist)">The Mountain Jackpot</a></i> — <a href="/wiki/Woodland_Park,_Colorado" title="Woodland Park, Colorado">Woodland Park</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=The_Mountain_Mail&amp;action=edit&amp;redlink=1" class="new" title="The Mountain Mail (page does not exist)">The Mountain Mail</a></i> — <a href="/wiki/Salida,_Colorado" title="Salida, Colorado">Salida</a></li>
-<li><i><a href="/w/index.php?title=North_Denver_Tribune&amp;action=edit&amp;redlink=1" class="new" title="North Denver Tribune (page does not exist)">North Denver Tribune</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a></li>
-<li><i><a href="/w/index.php?title=North_Forty_News&amp;action=edit&amp;redlink=1" class="new" title="North Forty News (page does not exist)">North Forty News</a></i> — <a href="/wiki/Wellington,_Colorado" title="Wellington, Colorado">Wellington</a></li>
-<li><i><a href="/w/index.php?title=The_North_Weld_Herald&amp;action=edit&amp;redlink=1" class="new" title="The North Weld Herald (page does not exist)">The North Weld Herald</a></i> — <a href="/wiki/Eaton,_Colorado" title="Eaton, Colorado">Eaton</a></li>
-<li><i><a href="/wiki/Ouray_County_Plaindealer" title="Ouray County Plaindealer">Ouray County Plaindealer</a></i> — <a href="/wiki/Ouray,_Colorado" title="Ouray, Colorado">Ouray</a> (weekly)</li>
-<li><i><a href="/wiki/Out_Front_Colorado" class="mw-redirect" title="Out Front Colorado">Out Front Colorado</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (bi-weekly)</li>
-<li><i><a href="/w/index.php?title=The_Pagosa_Springs_Sun&amp;action=edit&amp;redlink=1" class="new" title="The Pagosa Springs Sun (page does not exist)">The Pagosa Springs Sun</a></i> — <a href="/wiki/Pagosa_Springs,_Colorado" title="Pagosa Springs, Colorado">Pagosa Springs</a></li>
-<li><i><a href="/w/index.php?title=The_Pikes_Peak_Courier&amp;action=edit&amp;redlink=1" class="new" title="The Pikes Peak Courier (page does not exist)">The Pikes Peak Courier</a></i> — <a href="/wiki/Teller_County,_Colorado" title="Teller County, Colorado">Teller County</a></li>
-<li><i><a href="/w/index.php?title=Pine_River_Times&amp;action=edit&amp;redlink=1" class="new" title="Pine River Times (page does not exist)">Pine River Times</a></i> — <a href="/wiki/Bayfield,_Colorado" title="Bayfield, Colorado">Bayfield</a></li>
-<li><i><a href="/w/index.php?title=Post_Independent_Citizen_Telegram&amp;action=edit&amp;redlink=1" class="new" title="Post Independent Citizen Telegram (page does not exist)">Post Independent Citizen Telegram</a></i> — <a href="/wiki/Glenwood_Springs,_Colorado" title="Glenwood Springs, Colorado">Glenwood Springs</a> and <a href="/wiki/Rifle,_Colorado" title="Rifle, Colorado">Rifle</a></li>
-<li><i>(( Redstone Review ))</i> - Lyons, Colorado (Monthly)</li>
-<li><i><a href="/w/index.php?title=Rio_Blanco_Herald_Times&amp;action=edit&amp;redlink=1" class="new" title="Rio Blanco Herald Times (page does not exist)">Rio Blanco Herald Times</a></i> — <a href="/wiki/Meeker,_Colorado" title="Meeker, Colorado">Meeker</a> <a href="/wiki/Rangely,_Colorado" title="Rangely, Colorado">Rangely</a></li>
-<li><i><a href="/wiki/The_Rocky_Mountain_Collegian" class="mw-redirect" title="The Rocky Mountain Collegian">The Rocky Mountain Collegian</a></i> — Fort Collins</li>
-<li><i><a href="/wiki/Saguache_Crescent" class="mw-redirect" title="Saguache Crescent">Saguache Crescent</a></i> — <a href="/wiki/Saguache,_Colorado" title="Saguache, Colorado">Saguache</a></li>
-<li><i><a href="/w/index.php?title=Sangre_de_Cristo_Sentinel&amp;action=edit&amp;redlink=1" class="new" title="Sangre de Cristo Sentinel (page does not exist)">Sangre de Cristo Sentinel</a></i> — Westcliffe (weekly)</li>
-<li><i><a href="/w/index.php?title=Silverton_Standard_%26_The_Miner&amp;action=edit&amp;redlink=1" class="new" title="Silverton Standard &amp; The Miner (page does not exist)">Silverton Standard &amp; The Miner</a></i> — <a href="/wiki/Silverton,_Colorado" title="Silverton, Colorado">Silverton</a></li>
-<li><i><a href="/w/index.php?title=Sky-Hi_News&amp;action=edit&amp;redlink=1" class="new" title="Sky-Hi News (page does not exist)">Sky-Hi News</a></i> — <a href="/wiki/Granby,_Colorado" title="Granby, Colorado">Granby</a></li>
-<li><i><a href="/w/index.php?title=Snowmass_Sun&amp;action=edit&amp;redlink=1" class="new" title="Snowmass Sun (page does not exist)">Snowmass Sun</a></i> — <a href="/wiki/Snowmass,_Colorado" title="Snowmass, Colorado">Snowmass</a></li>
-<li><i><a href="/wiki/Steamboat_Pilot_%26_Today" title="Steamboat Pilot &amp; Today">Steamboat Pilot &amp; Today</a></i> — <a href="/wiki/Steamboat_Springs,_Colorado" title="Steamboat Springs, Colorado">Steamboat Springs</a></li>
-<li><i><a href="/wiki/Summit_Daily_News" class="mw-redirect" title="Summit Daily News">Summit Daily News</a></i> — <a href="/wiki/Frisco,_Colorado" title="Frisco, Colorado">Frisco</a></li>
-<li><i><a href="/wiki/Telluride_Daily_Planet" title="Telluride Daily Planet">Telluride Daily Planet</a></i> — <a href="/wiki/Telluride,_Colorado" title="Telluride, Colorado">Telluride</a></li>
-<li><i><a href="/w/index.php?title=The_Sopris_Sun&amp;action=edit&amp;redlink=1" class="new" title="The Sopris Sun (page does not exist)">The Sopris Sun</a></i> — <a href="/wiki/Carbondale,_Colorado" title="Carbondale, Colorado">Carbondale</a></li>
-<li><i><a href="/w/index.php?title=The_Telluride_Watch&amp;action=edit&amp;redlink=1" class="new" title="The Telluride Watch (page does not exist)">The Telluride Watch</a></i> — <a href="/wiki/Telluride,_Colorado" title="Telluride, Colorado">Telluride</a></li>
-<li><i><a href="/w/index.php?title=The_Tribune_(Monument,_Colorado)&amp;action=edit&amp;redlink=1" class="new" title="The Tribune (Monument, Colorado) (page does not exist)">The Tribune</a></i> — <a href="/wiki/Monument,_Colorado" title="Monument, Colorado">Monument</a>, Woodmore, and <a href="/wiki/Gleneagle,_Colorado" title="Gleneagle, Colorado">Gleneagle</a></li>
-<li><i><a href="/wiki/Vail_Daily" title="Vail Daily">Vail Daily</a></i> — <a href="/wiki/Vail,_Colorado" title="Vail, Colorado">Vail</a></li>
-<li><i><a href="/w/index.php?title=Valley_Courier&amp;action=edit&amp;redlink=1" class="new" title="Valley Courier (page does not exist)">Valley Courier</a></i> — <a href="/wiki/Alamosa,_Colorado" title="Alamosa, Colorado">Alamosa</a></li>
-<li><i><a href="/w/index.php?title=The_Villager_(Greenwood_Village)&amp;action=edit&amp;redlink=1" class="new" title="The Villager (Greenwood Village) (page does not exist)">The Villager</a></i> — <a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village</a></li>
-<li><i><a href="/w/index.php?title=Washington_Park_Profile&amp;action=edit&amp;redlink=1" class="new" title="Washington Park Profile (page does not exist)">Washington Park Profile</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (monthly)</li>
-<li><i><a href="/w/index.php?title=The_Westside_Pioneer&amp;action=edit&amp;redlink=1" class="new" title="The Westside Pioneer (page does not exist)">The Westside Pioneer</a></i> — <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></li>
-<li><i><a href="/wiki/Westword" title="Westword">Westword</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (weekly)</li>
-<li><i><a href="/w/index.php?title=Wet_Mountain_Tribune&amp;action=edit&amp;redlink=1" class="new" title="Wet Mountain Tribune (page does not exist)">Wet Mountain Tribune</a></i> — <a href="/wiki/Westcliffe,_Colorado" title="Westcliffe, Colorado">Westcliffe</a></li>
-<li><i><a href="/w/index.php?title=Windsor_Now&amp;action=edit&amp;redlink=1" class="new" title="Windsor Now (page does not exist)">Windsor Now</a></i> — <a href="/wiki/Windsor,_Colorado" title="Windsor, Colorado">Windsor</a></li>
-<li><i><a href="/w/index.php?title=World_Journal_(Walsenburg,_Colorado)&amp;action=edit&amp;redlink=1" class="new" title="World Journal (Walsenburg, Colorado) (page does not exist)">World Journal</a></i> — <a href="/wiki/Walsenburg,_Colorado" title="Walsenburg, Colorado">Walsenburg</a></li>
-<li><i><a href="/w/index.php?title=Yellow_Scene_Magazine&amp;action=edit&amp;redlink=1" class="new" title="Yellow Scene Magazine (page does not exist)">Yellow Scene Magazine</a></i> — <a href="/wiki/Erie,_Colorado" title="Erie, Colorado">Erie</a></li></ul>
-<h2><span class="mw-headline" id="Defunct_newspapers">Defunct newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=3" title="Edit section: Defunct newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i><a href="/w/index.php?title=The_Advocate_(Colorado)&amp;action=edit&amp;redlink=1" class="new" title="The Advocate (Colorado) (page does not exist)">The Advocate</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a></li>
-<li><i><a href="/wiki/Animas_Forks_Pioneer" title="Animas Forks Pioneer">Animas Forks Pioneer</a></i> — <a href="/wiki/Animas_Forks,_Colorado" title="Animas Forks, Colorado">Animas Forks</a>  (1882–1886)<sup id="cite_ref-LOCAFP_3-0" class="reference"><a href="#cite_note-LOCAFP-3">&#91;3&#93;</a></sup></li>
-<li><i><a href="/w/index.php?title=The_Aspen_Wall_Poster&amp;action=edit&amp;redlink=1" class="new" title="The Aspen Wall Poster (page does not exist)">The Aspen Wall Poster</a></i> — <a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">Denver</a></li>
-<li><i><a href="/w/index.php?title=Boulder_County_Business_Report&amp;action=edit&amp;redlink=1" class="new" title="Boulder County Business Report (page does not exist)">Boulder County Business Report</a></i> — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><i><a href="/w/index.php?title=Boulder_Planet&amp;action=edit&amp;redlink=1" class="new" title="Boulder Planet (page does not exist)">Boulder Planet</a></i> (weekly; July 10, 1996 - February 16, 2000) - Boulder<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
-<li><i><a href="/w/index.php?title=Brighton_Banner&amp;action=edit&amp;redlink=1" class="new" title="Brighton Banner (page does not exist)">Brighton Banner</a></i> — <a href="/wiki/Brighton,_Colorado" title="Brighton, Colorado">Brighton</a></li>
-<li><i><a href="/wiki/University_of_Colorado_at_Boulder#Media" class="mw-redirect" title="University of Colorado at Boulder">The Campus Press</a></i> — <a href="/wiki/University_of_Colorado_at_Boulder" class="mw-redirect" title="University of Colorado at Boulder">University of Colorado at Boulder</a></li>
-<li><i><a href="/w/index.php?title=Ca%C3%B1on_Cafe&amp;action=edit&amp;redlink=1" class="new" title="Cañon Cafe (page does not exist)">Cañon Cafe</a></i> — <a href="/wiki/Ca%C3%B1on_City,_Colorado" title="Cañon City, Colorado">Cañon City</a></li>
-<li><i><a href="/wiki/Colorado_Springs_Sun" title="Colorado Springs Sun">Colorado Springs Sun</a></i></li>
-<li><i><a href="/wiki/The_Colorado_Statesman" title="The Colorado Statesman">The Colorado Statesman</a></i> — <a href="/wiki/Denver" title="Denver">Denver</a></li>
-<li><i><a href="/w/index.php?title=La_Cucaracha_(1976-198%3F)&amp;action=edit&amp;redlink=1" class="new" title="La Cucaracha (1976-198?) (page does not exist)">La Cucaracha (1976-198?)</a></i> — <a href="/wiki/Pueblo,_Colorado" title="Pueblo, Colorado">Pueblo</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
-<li><i><a href="/wiki/Denver_Daily_News" title="Denver Daily News">Denver Daily News</a></i></li>
-<li><i><a href="/w/index.php?title=Denver_Democrat&amp;action=edit&amp;redlink=1" class="new" title="Denver Democrat (page does not exist)">Denver Democrat</a></i> — <a href="/wiki/Denver" title="Denver">Denver</a></li>
-<li><i><a href="/wiki/The_Denver_Times" title="The Denver Times">The Denver Times</a></i> (1872-1926)</li>
-<li><i>Erie Echo</i> (weekly; Dec. 1977-1980)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
-<li><i><a href="/w/index.php?title=Fort_Collins_Now&amp;action=edit&amp;redlink=1" class="new" title="Fort Collins Now (page does not exist)">Fort Collins Now</a></i></li>
-<li><i><a href="/w/index.php?title=Grand_Junction_Free_Press&amp;action=edit&amp;redlink=1" class="new" title="Grand Junction Free Press (page does not exist)">Grand Junction Free Press</a></i> — <a href="/wiki/Grand_Junction,_Colorado" title="Grand Junction, Colorado">Grand Junction</a></li>
-<li><i><a href="/w/index.php?title=Lafayette_News&amp;action=edit&amp;redlink=1" class="new" title="Lafayette News (page does not exist)">Lafayette News</a></i> — <a href="/wiki/Lafayette,_Colorado" title="Lafayette, Colorado">Lafayette</a></li>
-<li><i><a href="/w/index.php?title=Leadville_Chronicle&amp;action=edit&amp;redlink=1" class="new" title="Leadville Chronicle (page does not exist)">Leadville</a></i> <i><a href="/w/index.php?title=Leadville_Chronicle&amp;action=edit&amp;redlink=1" class="new" title="Leadville Chronicle (page does not exist)">Chronicle</a></i> — <a href="/wiki/Leadville,_Colorado" title="Leadville, Colorado">Leadville</a></li>
-<li><i><a href="/w/index.php?title=Local_Yeti&amp;action=edit&amp;redlink=1" class="new" title="Local Yeti (page does not exist)">Local Yeti</a></i> — <a href="/wiki/Denver,_Colorado" class="mw-redirect" title="Denver, Colorado">Denver</a> (daily)</li>
-<li><i>Louisville Times</i> — Louisville</li>
-<li><i><a href="/w/index.php?title=The_Meadowlark_Herald&amp;action=edit&amp;redlink=1" class="new" title="The Meadowlark Herald (page does not exist)">The Meadowlark Herald</a></i> — <a href="/wiki/Elizabeth,_Colorado" title="Elizabeth, Colorado">Elizabeth</a></li>
-<li><i><a href="/w/index.php?title=Mile_High_News&amp;action=edit&amp;redlink=1" class="new" title="Mile High News (page does not exist)">Mile High News</a></i> — <a href="/wiki/Golden,_Colorado" title="Golden, Colorado">Golden</a></li>
-<li><i><a href="/w/index.php?title=Moffat_County_News&amp;action=edit&amp;redlink=1" class="new" title="Moffat County News (page does not exist)">Moffat County News</a></i> — <a href="/wiki/Craig,_Colorado" title="Craig, Colorado">Craig</a></li>
-<li><i><a href="/wiki/Mountain_Valley_News" title="Mountain Valley News">Mountain Valley News</a></i> — <a href="/wiki/Cedaredge,_Colorado" title="Cedaredge, Colorado">Cedaredge</a></li>
-<li><i><a href="/wiki/Northern_Colorado_Business_Report" class="mw-redirect" title="Northern Colorado Business Report">Northern Colorado Business Report</a></i> — <a href="/wiki/Fort_Collins,_Colorado" title="Fort Collins, Colorado">Fort Collins</a></li>
-<li><i><a href="/w/index.php?title=The_Pagosa_Free_Press&amp;action=edit&amp;redlink=1" class="new" title="The Pagosa Free Press (page does not exist)">The Pagosa Free Press</a></i> — <a href="/wiki/Pagosa_Springs,_Colorado" title="Pagosa Springs, Colorado">Pagosa Springs</a></li>
-<li><i><a href="/w/index.php?title=Press_(Colorado_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Press (Colorado newspaper) (page does not exist)">Press</a></i> - <a href="/w/index.php?title=Pueblo_(democratic_evening_paper,_end_of_19th_century)&amp;action=edit&amp;redlink=1" class="new" title="Pueblo (democratic evening paper, end of 19th century) (page does not exist)">Pueblo (democratic evening paper, end of 19th century)</a></li>
-<li><i><a href="/w/index.php?title=The_Rico_Bugle&amp;action=edit&amp;redlink=1" class="new" title="The Rico Bugle (page does not exist)">The Rico Bugle</a></i> — <a href="/wiki/Rico,_Colorado" title="Rico, Colorado">Rico</a></li>
-<li><i><a href="/wiki/Rocky_Mountain_News" title="Rocky Mountain News">Rocky Mountain News</a></i> — <a href="/wiki/Denver" title="Denver">Denver</a></li>
-<li><i><a href="/wiki/Rolling_Stock_(newspaper)" title="Rolling Stock (newspaper)">Rolling Stock</a></i> — <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><i>Superior Observer</i> — Superior</li>
-<li><i><a href="/w/index.php?title=The_Trinidad_Times_Independent&amp;action=edit&amp;redlink=1" class="new" title="The Trinidad Times Independent (page does not exist)">The Trinidad Times Independent</a></i> — <a href="/wiki/Trinidad,_Colorado" title="Trinidad, Colorado">Trinidad</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
-<li><i><a href="/w/index.php?title=The_UNC_Connection&amp;action=edit&amp;redlink=1" class="new" title="The UNC Connection (page does not exist)">The UNC Connection</a></i> — <a href="/wiki/Greeley,_Colorado" title="Greeley, Colorado">Greeley</a></li>
-<li><i><a href="/w/index.php?title=The_Vail_Trail&amp;action=edit&amp;redlink=1" class="new" title="The Vail Trail (page does not exist)">The Vail Trail</a></i> — <a href="/wiki/Vail,_Colorado" title="Vail, Colorado">Vail</a></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="Daily_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Daily_newspapers_(currently_published)">Daily newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=1" title="Edit section: Daily newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Anchorage_Daily_News" title="Anchorage Daily News">Anchorage Daily News</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Daily_Sitka_Sentinel" title="Daily Sitka Sentinel">Daily Sitka Sentinel</a></i> – <a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
+<li><i><a href="/wiki/Fairbanks_Daily_News-Miner" title="Fairbanks Daily News-Miner">Fairbanks Daily News-Miner</a></i> – <a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
+<li><i><a href="/wiki/Juneau_Empire" title="Juneau Empire">Juneau Empire</a></i> – <a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
+<li><i><a href="/wiki/Ketchikan_Daily_News" title="Ketchikan Daily News">Ketchikan Daily News</a></i> – <a href="/wiki/Ketchikan,_Alaska" title="Ketchikan, Alaska">Ketchikan</a></li>
+<li><i><a href="/wiki/Kodiak_Daily_Mirror" title="Kodiak Daily Mirror">Kodiak Daily Mirror</a></i> – <a href="/wiki/Kodiak,_Alaska" title="Kodiak, Alaska">Kodiak</a></li>
+<li><i><a href="/wiki/Peninsula_Clarion" title="Peninsula Clarion">Peninsula Clarion</a></i> – <a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai</a></li></ul>
+<h2><span id="Weekly_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Weekly_newspapers_(currently_published)">Weekly newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=2" title="Edit section: Weekly newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Alaska_Journal_of_Commerce" title="Alaska Journal of Commerce">Alaska Journal of Commerce</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Alaska_Star" title="Alaska Star">Alaska Star</a></i> – <a href="/wiki/Eagle_River,_Alaska" class="mw-redirect" title="Eagle River, Alaska">Eagle River</a> and <a href="/wiki/Chugiak,_Alaska" class="mw-redirect" title="Chugiak, Alaska">Chugiak</a></li>
+<li><i><a href="/wiki/Anchorage_Press" title="Anchorage Press">Anchorage Press</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Arctic_Sounder" class="mw-redirect" title="Arctic Sounder">Arctic Sounder</a></i> – <a href="/wiki/Northwest_Arctic_Borough" class="mw-redirect" title="Northwest Arctic Borough">Northwest Arctic Borough</a> and <a href="/wiki/North_Slope_Borough" class="mw-redirect" title="North Slope Borough">North Slope Borough</a></li>
+<li><i><a href="/wiki/Bristol_Bay_Times" class="mw-redirect" title="Bristol Bay Times">Bristol Bay Times</a></i> – <a href="/wiki/Bristol_Bay" title="Bristol Bay">Bristol Bay</a></li>
+<li><i><a href="/wiki/Capital_City_Weekly" title="Capital City Weekly">Capital City Weekly</a></i> – <a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
+<li><i><a href="/wiki/Chilkat_Valley_News" title="Chilkat Valley News">Chilkat Valley News</a></i> – <a href="/wiki/Haines,_Alaska" title="Haines, Alaska">Haines</a></li>
+<li><i><a href="/wiki/Cordova_Times" class="mw-redirect" title="Cordova Times">Cordova Times</a></i> – <a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a></li>
+<li><i><a href="/wiki/The_Delta_Discovery" title="The Delta Discovery">The Delta Discovery</a></i> – <a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a></li>
+<li><i><a href="/w/index.php?title=Delta_Wind&amp;action=edit&amp;redlink=1" class="new" title="Delta Wind (page does not exist)">Delta Wind</a></i> – <a href="/wiki/Delta_Junction,_Alaska" title="Delta Junction, Alaska">Delta Junction</a></li>
+<li><i><a href="/wiki/Dutch_Harbor_Fisherman" class="mw-redirect" title="Dutch Harbor Fisherman">Dutch Harbor Fisherman</a></i> – <a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutians</a> / <a href="/wiki/Pribilof_Islands" title="Pribilof Islands">Pribilofs</a></li>
+<li><i><a href="/wiki/Homer_News" title="Homer News">Homer News</a></i> – <a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li>
+<li><i><a href="/wiki/Mat-Su_Valley_Frontiersman" title="Mat-Su Valley Frontiersman">Mat-Su Valley Frontiersman</a></i> – <a href="/wiki/Wasilla,_Alaska" title="Wasilla, Alaska">Wasilla</a> / <a href="/wiki/Matanuska-Susitna_Valley" title="Matanuska-Susitna Valley">Matanuska-Susitna Valley</a> (tri-weekly)</li>
+<li><i><a href="/wiki/The_Nome_Nugget" title="The Nome Nugget">The Nome Nugget</a></i> – <a href="/wiki/Nome,_Alaska" title="Nome, Alaska">Nome</a></li>
+<li><i><a href="/wiki/Petersburg_Pilot" class="mw-redirect" title="Petersburg Pilot">Petersburg Pilot</a></i> – <a href="/wiki/Petersburg,_Alaska" title="Petersburg, Alaska">Petersburg</a></li>
+<li><i><a href="/wiki/Petroleum_News" title="Petroleum News">Petroleum News</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Seward_Journal" class="mw-redirect" title="Seward Journal">Seward Journal</a></i> – <a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a></li>
+<li><i><a href="/wiki/Seward_Phoenix_Log" class="mw-redirect" title="Seward Phoenix Log">Seward Phoenix Log</a></i> – <a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a>, <a href="/wiki/Moose_Pass,_Alaska" title="Moose Pass, Alaska">Moose Pass</a></li>
+<li><i><a href="/wiki/Tundra_Drums" class="mw-redirect" title="Tundra Drums">Tundra Drums</a></i> – <a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a> and <a href="/wiki/Yukon-Kuskokwim_Delta" class="mw-redirect" title="Yukon-Kuskokwim Delta">Yukon-Kuskokwim Delta</a></li>
+<li><i>The <a href="/wiki/Valdez_Star" class="mw-redirect" title="Valdez Star">Valdez Star</a></i> – <a href="/wiki/Valdez,_Alaska" title="Valdez, Alaska">Valdez</a></li>
+<li><i><a href="/w/index.php?title=Wrangell_Sentinel&amp;action=edit&amp;redlink=1" class="new" title="Wrangell Sentinel (page does not exist)">Wrangell Sentinel</a></i> - <a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li></ul>
+<h2><span id="Monthly_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Monthly_newspapers_(currently_published)">Monthly newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=3" title="Edit section: Monthly newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"<a href="/w/index.php?title=The_Cordova_Cogitator&amp;action=edit&amp;redlink=1" class="new" title="The Cordova Cogitator (page does not exist)">The Cordova Cogitator</a>" <a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova, Alaska</a> (monthly)</li>
+<li><i><a href="/wiki/The_Ester_Republic" title="The Ester Republic">The Ester Republic</a></i> – <a href="/wiki/Ester,_Alaska" title="Ester, Alaska">Ester</a> (monthly)</li>
+<li><i><a href="/wiki/The_Skagway_News" title="The Skagway News">The Skagway News</a></i> – <a href="/wiki/Skagway,_Alaska" title="Skagway, Alaska">Skagway</a> (bimonthly)</li></ul>
+<h2><span class="mw-headline" id="University_newspapers">University newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=4" title="Edit section: University newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Northern_Light_(college_newspaper)" title="The Northern Light (college newspaper)">The Northern Light</a></i> – <a href="/wiki/University_of_Alaska_Anchorage" title="University of Alaska Anchorage">University of Alaska Anchorage</a> (weekly)</li>
+<li><i><a href="/wiki/Sun_Star_(Alaska)" class="mw-redirect" title="Sun Star (Alaska)">Sun Star</a></i> – <a href="/wiki/University_of_Alaska_Fairbanks" title="University of Alaska Fairbanks">University of Alaska Fairbanks</a> (weekly)</li>
+<li><i><a href="/wiki/The_Whalesong" class="mw-redirect" title="The Whalesong">The Whalesong</a></i> – <a href="/wiki/University_of_Alaska_Southeast" title="University of Alaska Southeast">University of Alaska Southeast</a></li></ul>
+<h2><span class="mw-headline" id="Defunct_newspapers">Defunct newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=5" title="Edit section: Defunct newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Anchorage_Times" title="Anchorage Times">Anchorage Times</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Insurgent49" title="Insurgent49">Insurgent49</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><i><a href="/wiki/Tundra_Times" title="Tundra Times">Tundra Times</a></i> – <a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
+<li><i><a href="/w/index.php?title=Homer_Tribute&amp;action=edit&amp;redlink=1" class="new" title="Homer Tribute (page does not exist)">Homer Tribute</a></i> -<a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_African-American_newspapers_in_Alaska" title="List of African-American newspapers in Alaska">List of African-American newspapers in Alaska</a></li></ul>
 <div>
 <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
 <tbody><tr>
@@ -258,215 +147,19 @@
 <p>&#32;
 </p>
 </td></tr></tbody></table></div>
-<ul><li><a href="/wiki/List_of_African-American_newspapers_in_Colorado" title="List of African-American newspapers in Colorado">List of African-American newspapers in Colorado</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LOC-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-LOC_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://chroniclingamerica.loc.gov/search/titles/results/?city=&amp;rows=50&amp;terms=&amp;language=&amp;lccn=&amp;material_type=&amp;year1=1690&amp;year2=2020&amp;labor=&amp;county=&amp;state=Colorado&amp;frequency=&amp;ethnicity=&amp;page=4&amp;sort=date">"Colorado newspapers"</a>. <i>Library of Congress</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 3,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Library+of+Congress&amp;rft.atitle=Colorado+newspapers&amp;rft_id=https%3A%2F%2Fchroniclingamerica.loc.gov%2Fsearch%2Ftitles%2Fresults%2F%3Fcity%3D%26rows%3D50%26terms%3D%26language%3D%26lccn%3D%26material_type%3D%26year1%3D1690%26year2%3D2020%26labor%3D%26county%3D%26state%3DColorado%26frequency%3D%26ethnicity%3D%26page%3D4%26sort%3Ddate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6FBtAYyh5?url=http://abcas3.accessabc.com/ecirc/newstitlesearchus.asp">"Audit Bureau of Circulation"</a>. Archived from <a rel="nofollow" class="external text" href="http://abcas3.accessabc.com/ecirc/newstitlesearchus.asp">the original</a> on 2013-03-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Audit+Bureau+of+Circulation&amp;rft_id=http%3A%2F%2Fabcas3.accessabc.com%2Fecirc%2Fnewstitlesearchus.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-LOCAFP-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-LOCAFP_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://chroniclingamerica.loc.gov/lccn/sn85067451/">"Animas Forks Pioneer"</a>. <i>Library of Congress</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 3,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Library+of+Congress&amp;rft.atitle=Animas+Forks+Pioneer&amp;rft_id=https%3A%2F%2Fchroniclingamerica.loc.gov%2Flccn%2Fsn85067451%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFSallo2011" class="citation web">Sallo, Stewart (25 August 2011). <a rel="nofollow" class="external text" href="http://www.boulderweekly.com/news/boulder-weekly-celebrates-18th-anniversary/">"Boulder Weekly celebrates 18th anniversary - Boulder Weekly"</a>. <i>Boulder Weekly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boulder+Weekly&amp;rft.atitle=Boulder+Weekly+celebrates+18th+anniversary+-+Boulder+Weekly&amp;rft.date=2011-08-25&amp;rft.aulast=Sallo&amp;rft.aufirst=Stewart&amp;rft_id=http%3A%2F%2Fwww.boulderweekly.com%2Fnews%2Fboulder-weekly-celebrates-18th-anniversary%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/19991102234719/http://boulderplanet.com:80/">"Boulder Planet Internet Edition: Serving Boulder and Boulder County in Beautiful Colorado"</a>. 2 November 1999. Archived from <a rel="nofollow" class="external text" href="http://boulderplanet.com:80/">the original</a> on 2 November 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boulder+Planet+Internet+Edition%3A+Serving+Boulder+and+Boulder+County+in+Beautiful+Colorado&amp;rft.date=1999-11-02&amp;rft_id=http%3A%2F%2Fboulderplanet.com%3A80%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://localhistory.boulderlibrary.org/islandora/object/islandora%3A57059?solr_nav%5Bid%5D=c166c0c2b04af831920f&amp;solr_nav%5Bpage%5D=0&amp;solr_nav%5Boffset%5D=4">"Boulder Planet, 1996-2000"</a>. <i>Boulder Public Library archive</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boulder+Public+Library+archive&amp;rft.atitle=Boulder+Planet%2C+1996-2000&amp;rft_id=https%3A%2F%2Flocalhistory.boulderlibrary.org%2Fislandora%2Fobject%2Fislandora%253A57059%3Fsolr_nav%255Bid%255D%3Dc166c0c2b04af831920f%26solr_nav%255Bpage%255D%3D0%26solr_nav%255Boffset%255D%3D4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://chroniclingamerica.loc.gov/lccn/sn83004486/">"About La cucaracha. (Pueblo, Colo.) 1976-198?"</a>. <i>Chronicling America</i>. Library of Congress<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-12-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chronicling+America&amp;rft.atitle=About+La+cucaracha.+%28Pueblo%2C+Colo.%29+1976-198%3F&amp;rft_id=https%3A%2F%2Fchroniclingamerica.loc.gov%2Flccn%2Fsn83004486%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.eriehistoricalsociety.org/newspapers-published-erie-co/">"Newspapers Published in Erie, CO - Erie Historical Society, Erie, Colorado"</a>. <i>Erie Historical Society</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Erie+Historical+Society&amp;rft.atitle=Newspapers+Published+in+Erie%2C+CO+-+Erie+Historical+Society%2C+Erie%2C+Colorado&amp;rft_id=https%3A%2F%2Fwww.eriehistoricalsociety.org%2Fnewspapers-published-erie-co%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Colorado" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Painter, Kristen Leigh. <a rel="nofollow" class="external text" href="http://www.denverpost.com/news/ci_23710439/trinidad-times-independent-colorado-ceases-publication">"Trinidad Times Independent in Colorado ceases publication"</a>, <i><a href="/wiki/The_Denver_Post" title="The Denver Post">The Denver Post</a></i>, 22 July 2013. Retrieved on 21 January 2016.</span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://www.coloradohistoricnewspapers.org/">Colorado Historic Newspapers Collection</a> (CHNC) "a service of the Colorado State Library... includes more than 1,100,000 digitized pages from more than 220 individual newspaper titles published in Colorado primarily from 1859 to 1923" and, with publisher's permission, some newer digitized content</li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><br />
 </p>
-<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Colorado" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Colorado" title="Template:Colorado"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Colorado" title="Template talk:Colorado"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Colorado&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Colorado" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/23px-Flag_of_Colorado.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/35px-Flag_of_Colorado.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/46px-Flag_of_Colorado.svg.png 2x" data-file-width="1800" data-file-height="1200" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Colorado" title="Colorado">Colorado</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Denver_(capital)"><b><a href="/wiki/Denver" title="Denver">Denver</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_Colorado" title="Outline of Colorado">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Index_of_Colorado-related_articles" title="Index of Colorado-related articles">Index</a></li>
-<li><a href="/wiki/List_of_people_from_Colorado" title="List of people from Colorado">Coloradans</a></li>
-<li><a href="/wiki/Elections_in_Colorado" title="Elections in Colorado">Elections</a></li>
-<li><a href="/wiki/List_of_federal_lands_in_Colorado" title="List of federal lands in Colorado">Federal lands</a></li>
-<li><a href="/wiki/Geography_of_Colorado" title="Geography of Colorado">Geography</a></li>
-<li><a href="/wiki/Government_of_Colorado" title="Government of Colorado">Government</a></li>
-<li><a href="/wiki/List_of_state_highways_in_Colorado" title="List of state highways in Colorado">Highways</a></li>
-<li><a href="/wiki/History_of_Colorado" title="History of Colorado">History</a>
-<ul><li><a href="/wiki/Timeline_of_Colorado_history" title="Timeline of Colorado history">Timeline</a></li></ul></li>
-<li><a href="/wiki/Category:Images_of_Colorado" title="Category:Images of Colorado">Images</a></li>
-<li><a href="/wiki/Law_of_Colorado" title="Law of Colorado">Law</a></li>
-<li><a href="/wiki/Category:Military_in_Colorado" title="Category:Military in Colorado">Military</a></li>
-<li><a href="/wiki/List_of_mountain_peaks_of_Colorado" title="List of mountain peaks of Colorado">Mountains</a></li>
-<li><a href="/wiki/Category:Museums_in_Colorado" title="Category:Museums in Colorado">Museums</a></li>
-<li><a href="/wiki/Colorado_State_Public_Defender" title="Colorado State Public Defender">Public Defender</a></li>
-<li><a href="/wiki/Paleontology_in_Colorado" title="Paleontology in Colorado">Paleontology</a></li>
-<li><a href="/wiki/List_of_rivers_of_Colorado" title="List of rivers of Colorado">Rivers</a></li>
-<li><a href="/wiki/List_of_Colorado_state_symbols" title="List of Colorado state symbols">Symbols</a></li>
-<li><a href="/wiki/Transportation_in_Colorado" title="Transportation in Colorado">Transportation</a></li>
-<li><a href="/wiki/Category:Tourist_attractions_in_Colorado" title="Category:Tourist attractions in Colorado">Tourist attractions</a></li></ul>
-</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Colorado.svg/100px-Seal_of_Colorado.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Colorado.svg/150px-Seal_of_Colorado.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seal_of_Colorado.svg/200px-Seal_of_Colorado.svg.png 2x" data-file-width="775" data-file-height="775" /><div><span style="font-size:85%;"><a href="/wiki/Seal_of_Colorado" title="Seal of Colorado">Seal of Colorado</a></span></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Society</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Crime_in_Colorado" title="Crime in Colorado">Crime</a></li>
-<li><a href="/wiki/Category:Colorado_culture" title="Category:Colorado culture">Culture</a></li>
-<li><a href="/wiki/Demographics_of_Colorado" class="mw-redirect" title="Demographics of Colorado">Demographics</a></li>
-<li><a href="/wiki/Economy_of_Colorado" title="Economy of Colorado">Economy</a></li>
-<li><a href="/wiki/Education_in_Colorado" class="mw-redirect" title="Education in Colorado">Education</a></li>
-<li><a href="/wiki/Politics_of_Colorado" title="Politics of Colorado">Politics</a></li>
-<li><a href="/wiki/Sports_in_Colorado" title="Sports in Colorado">Sports</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_regions_of_the_United_States#Colorado" title="List of regions of the United States">Regions</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Central_Colorado" title="Central Colorado">Central Colorado</a></li>
-<li><a href="/wiki/Denver-Aurora-Lakewood,_CO_Metropolitan_Statistical_Area" class="mw-redirect" title="Denver-Aurora-Lakewood, CO Metropolitan Statistical Area">Denver-Aurora-Lakewood, CO Metropolitan Statistical Area</a></li>
-<li><a href="/wiki/Eastern_Plains" title="Eastern Plains">Eastern Plains</a></li>
-<li><a href="/wiki/Front_Range_Urban_Corridor" title="Front Range Urban Corridor">Front Range</a></li>
-<li><a href="/wiki/Grand_Valley_(Colorado-Utah)" title="Grand Valley (Colorado-Utah)">Grand Valley</a></li>
-<li><a href="/wiki/High_Plains_(United_States)" title="High Plains (United States)">High Plains</a></li>
-<li><a href="/wiki/High_Rockies" title="High Rockies">High Rockies</a></li>
-<li><a href="/wiki/Colorado_Mineral_Belt" title="Colorado Mineral Belt">Mineral Belt</a></li>
-<li><a href="/wiki/Northern_Colorado" title="Northern Colorado">Northern Colorado</a></li>
-<li><a href="/wiki/Northwestern_Colorado" title="Northwestern Colorado">Northwestern Colorado</a></li>
-<li><a href="/wiki/Colorado_Piedmont" title="Colorado Piedmont">Piedmont</a></li>
-<li><a href="/wiki/Colorado_Plateau" title="Colorado Plateau">Plateau</a></li>
-<li><a href="/wiki/Roan_Plateau" title="Roan Plateau">Roan Plateau</a></li>
-<li><a href="/wiki/Roaring_Fork_Valley" title="Roaring Fork Valley">Roaring Fork Valley</a></li>
-<li><a href="/wiki/San_Luis_Valley" title="San Luis Valley">San Luis Valley</a></li>
-<li><a href="/wiki/Sangre_de_Cristo_Mountains" title="Sangre de Cristo Mountains">Sangre de Cristo Mountains</a></li>
-<li><a href="/wiki/South-Central_Colorado" title="South-Central Colorado">South-Central Colorado</a></li>
-<li><a href="/wiki/Southwest_Colorado" title="Southwest Colorado">Southwest Colorado</a></li>
-<li><a href="/wiki/Uinta_Mountains" title="Uinta Mountains">Uinta Mountains</a></li>
-<li><a href="/wiki/Uinta_Basin" title="Uinta Basin">Uinta Basin</a></li>
-<li><a href="/wiki/Colorado_Western_Slope" title="Colorado Western Slope">Western Slope</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_cities_and_towns_in_Colorado" title="List of cities and towns in Colorado">Municipalities</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Akron,_Colorado" title="Akron, Colorado">Akron</a></li>
-<li><a href="/wiki/Alamosa,_Colorado" title="Alamosa, Colorado">Alamosa</a></li>
-<li><a href="/wiki/Arvada,_Colorado" title="Arvada, Colorado">Arvada</a></li>
-<li><a href="/wiki/Aspen,_Colorado" title="Aspen, Colorado">Aspen</a></li>
-<li><a href="/wiki/Aurora,_Colorado" title="Aurora, Colorado">Aurora</a></li>
-<li><a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder</a></li>
-<li><a href="/wiki/Breckenridge,_Colorado" title="Breckenridge, Colorado">Breckenridge</a></li>
-<li><a href="/wiki/Brighton,_Colorado" title="Brighton, Colorado">Brighton</a></li>
-<li><a href="/wiki/Broomfield,_Colorado" title="Broomfield, Colorado">Broomfield</a></li>
-<li><a href="/wiki/Ca%C3%B1on_City,_Colorado" title="Cañon City, Colorado">Cañon City</a></li>
-<li><a href="/wiki/Castle_Rock,_Colorado" title="Castle Rock, Colorado">Castle Rock</a></li>
-<li><a href="/wiki/Centennial,_Colorado" title="Centennial, Colorado">Centennial</a></li>
-<li><a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a></li>
-<li><a href="/wiki/Commerce_City,_Colorado" title="Commerce City, Colorado">Commerce City</a></li>
-<li><a href="/wiki/Cortez,_Colorado" title="Cortez, Colorado">Cortez</a></li>
-<li><a href="/wiki/Craig,_Colorado" title="Craig, Colorado">Craig</a></li>
-<li><a href="/wiki/Delta,_Colorado" title="Delta, Colorado">Delta</a></li>
-<li><a href="/wiki/Denver" title="Denver">Denver</a></li>
-<li><a href="/wiki/Durango,_Colorado" title="Durango, Colorado">Durango</a></li>
-<li><a href="/wiki/Englewood,_Colorado" title="Englewood, Colorado">Englewood</a></li>
-<li><a href="/wiki/Erie,_Colorado" title="Erie, Colorado">Erie</a></li>
-<li><a href="/wiki/Evans,_Colorado" title="Evans, Colorado">Evans</a></li>
-<li><a href="/wiki/Fairplay,_Colorado" title="Fairplay, Colorado">Fairplay</a></li>
-<li><a href="/wiki/Federal_Heights,_Colorado" title="Federal Heights, Colorado">Federal Heights</a></li>
-<li><a href="/wiki/Fort_Collins,_Colorado" title="Fort Collins, Colorado">Fort Collins</a></li>
-<li><a href="/wiki/Fort_Morgan,_Colorado" title="Fort Morgan, Colorado">Fort Morgan</a></li>
-<li><a href="/wiki/Fountain,_Colorado" title="Fountain, Colorado">Fountain</a></li>
-<li><a href="/wiki/Golden,_Colorado" title="Golden, Colorado">Golden</a></li>
-<li><a href="/wiki/Glenwood_Springs,_Colorado" title="Glenwood Springs, Colorado">Glenwood Springs</a></li>
-<li><a href="/wiki/Grand_Junction,_Colorado" title="Grand Junction, Colorado">Grand Junction</a></li>
-<li><a href="/wiki/Greeley,_Colorado" title="Greeley, Colorado">Greeley</a></li>
-<li><a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village</a></li>
-<li><a href="/wiki/Gunnison,_Colorado" title="Gunnison, Colorado">Gunnison</a></li>
-<li><a href="/wiki/La_Junta,_Colorado" title="La Junta, Colorado">La Junta</a></li>
-<li><a href="/wiki/Lafayette,_Colorado" title="Lafayette, Colorado">Lafayette</a></li>
-<li><a href="/wiki/Lakewood,_Colorado" title="Lakewood, Colorado">Lakewood</a></li>
-<li><a href="/wiki/Lamar,_Colorado" title="Lamar, Colorado">Lamar</a></li>
-<li><a href="/wiki/Leadville,_Colorado" title="Leadville, Colorado">Leadville</a></li>
-<li><a href="/wiki/Littleton,_Colorado" title="Littleton, Colorado">Littleton</a></li>
-<li><a href="/wiki/Longmont,_Colorado" title="Longmont, Colorado">Longmont</a></li>
-<li><a href="/wiki/Louisville,_Colorado" title="Louisville, Colorado">Louisville</a></li>
-<li><a href="/wiki/Loveland,_Colorado" title="Loveland, Colorado">Loveland</a></li>
-<li><a href="/wiki/Montrose,_Colorado" title="Montrose, Colorado">Montrose</a></li>
-<li><a href="/wiki/Northglenn,_Colorado" title="Northglenn, Colorado">Northglenn</a></li>
-<li><a href="/wiki/Parker,_Colorado" title="Parker, Colorado">Parker</a></li>
-<li><a href="/wiki/Platteville,_Colorado" title="Platteville, Colorado">Platteville</a></li>
-<li><a href="/wiki/Pueblo,_Colorado" title="Pueblo, Colorado">Pueblo</a></li>
-<li><a href="/wiki/Salida,_Colorado" title="Salida, Colorado">Salida</a></li>
-<li><a href="/wiki/Steamboat_Springs,_Colorado" title="Steamboat Springs, Colorado">Steamboat Springs</a></li>
-<li><a href="/wiki/Sterling,_Colorado" title="Sterling, Colorado">Sterling</a></li>
-<li><a href="/wiki/Superior,_Colorado" title="Superior, Colorado">Superior</a></li>
-<li><a href="/wiki/Thornton,_Colorado" title="Thornton, Colorado">Thornton</a></li>
-<li><a href="/wiki/Trinidad,_Colorado" title="Trinidad, Colorado">Trinidad</a></li>
-<li><a href="/wiki/Vail,_Colorado" title="Vail, Colorado">Vail</a></li>
-<li><a href="/wiki/Westminster,_Colorado" title="Westminster, Colorado">Westminster</a></li>
-<li><a href="/wiki/Wheat_Ridge,_Colorado" title="Wheat Ridge, Colorado">Wheat Ridge</a></li>
-<li><a href="/wiki/Windsor,_Colorado" title="Windsor, Colorado">Windsor</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_counties_in_Colorado" title="List of counties in Colorado">Counties</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Adams_County,_Colorado" title="Adams County, Colorado">Adams</a></li>
-<li><a href="/wiki/Alamosa_County,_Colorado" title="Alamosa County, Colorado">Alamosa</a></li>
-<li><a href="/wiki/Arapahoe_County,_Colorado" title="Arapahoe County, Colorado">Arapahoe</a></li>
-<li><a href="/wiki/Archuleta_County,_Colorado" title="Archuleta County, Colorado">Archuleta</a></li>
-<li><a href="/wiki/Baca_County,_Colorado" title="Baca County, Colorado">Baca</a></li>
-<li><a href="/wiki/Bent_County,_Colorado" title="Bent County, Colorado">Bent</a></li>
-<li><a href="/wiki/Boulder_County,_Colorado" title="Boulder County, Colorado">Boulder</a></li>
-<li><a href="/wiki/Broomfield,_Colorado" title="Broomfield, Colorado">Broomfield</a></li>
-<li><a href="/wiki/Chaffee_County,_Colorado" title="Chaffee County, Colorado">Chaffee</a></li>
-<li><a href="/wiki/Cheyenne_County,_Colorado" title="Cheyenne County, Colorado">Cheyenne</a></li>
-<li><a href="/wiki/Clear_Creek_County,_Colorado" title="Clear Creek County, Colorado">Clear Creek</a></li>
-<li><a href="/wiki/Conejos_County,_Colorado" title="Conejos County, Colorado">Conejos</a></li>
-<li><a href="/wiki/Costilla_County,_Colorado" title="Costilla County, Colorado">Costilla</a></li>
-<li><a href="/wiki/Crowley_County,_Colorado" title="Crowley County, Colorado">Crowley</a></li>
-<li><a href="/wiki/Custer_County,_Colorado" title="Custer County, Colorado">Custer</a></li>
-<li><a href="/wiki/Delta_County,_Colorado" title="Delta County, Colorado">Delta</a></li>
-<li><a href="/wiki/Denver" title="Denver">Denver</a></li>
-<li><a href="/wiki/Dolores_County,_Colorado" title="Dolores County, Colorado">Dolores</a></li>
-<li><a href="/wiki/Douglas_County,_Colorado" title="Douglas County, Colorado">Douglas</a></li>
-<li><a href="/wiki/Eagle_County,_Colorado" title="Eagle County, Colorado">Eagle</a></li>
-<li><a href="/wiki/El_Paso_County,_Colorado" title="El Paso County, Colorado">El Paso</a></li>
-<li><a href="/wiki/Elbert_County,_Colorado" title="Elbert County, Colorado">Elbert</a></li>
-<li><a href="/wiki/Fremont_County,_Colorado" title="Fremont County, Colorado">Fremont</a></li>
-<li><a href="/wiki/Garfield_County,_Colorado" title="Garfield County, Colorado">Garfield</a></li>
-<li><a href="/wiki/Gilpin_County,_Colorado" title="Gilpin County, Colorado">Gilpin</a></li>
-<li><a href="/wiki/Grand_County,_Colorado" title="Grand County, Colorado">Grand</a></li>
-<li><a href="/wiki/Gunnison_County,_Colorado" title="Gunnison County, Colorado">Gunnison</a></li>
-<li><a href="/wiki/Hinsdale_County,_Colorado" title="Hinsdale County, Colorado">Hinsdale</a></li>
-<li><a href="/wiki/Huerfano_County,_Colorado" title="Huerfano County, Colorado">Huerfano</a></li>
-<li><a href="/wiki/Jackson_County,_Colorado" title="Jackson County, Colorado">Jackson</a></li>
-<li><a href="/wiki/Jefferson_County,_Colorado" title="Jefferson County, Colorado">Jefferson</a></li>
-<li><a href="/wiki/Kiowa_County,_Colorado" title="Kiowa County, Colorado">Kiowa</a></li>
-<li><a href="/wiki/Kit_Carson_County,_Colorado" title="Kit Carson County, Colorado">Kit Carson</a></li>
-<li><a href="/wiki/La_Plata_County,_Colorado" title="La Plata County, Colorado">La Plata</a></li>
-<li><a href="/wiki/Lake_County,_Colorado" title="Lake County, Colorado">Lake</a></li>
-<li><a href="/wiki/Larimer_County,_Colorado" title="Larimer County, Colorado">Larimer</a></li>
-<li><a href="/wiki/Las_Animas_County,_Colorado" title="Las Animas County, Colorado">Las Animas</a></li>
-<li><a href="/wiki/Lincoln_County,_Colorado" title="Lincoln County, Colorado">Lincoln</a></li>
-<li><a href="/wiki/Logan_County,_Colorado" title="Logan County, Colorado">Logan</a></li>
-<li><a href="/wiki/Mesa_County,_Colorado" title="Mesa County, Colorado">Mesa</a></li>
-<li><a href="/wiki/Mineral_County,_Colorado" title="Mineral County, Colorado">Mineral</a></li>
-<li><a href="/wiki/Moffat_County,_Colorado" title="Moffat County, Colorado">Moffat</a></li>
-<li><a href="/wiki/Montezuma_County,_Colorado" title="Montezuma County, Colorado">Montezuma</a></li>
-<li><a href="/wiki/Montrose_County,_Colorado" title="Montrose County, Colorado">Montrose</a></li>
-<li><a href="/wiki/Morgan_County,_Colorado" title="Morgan County, Colorado">Morgan</a></li>
-<li><a href="/wiki/Otero_County,_Colorado" title="Otero County, Colorado">Otero</a></li>
-<li><a href="/wiki/Ouray_County,_Colorado" title="Ouray County, Colorado">Ouray</a></li>
-<li><a href="/wiki/Park_County,_Colorado" title="Park County, Colorado">Park</a></li>
-<li><a href="/wiki/Phillips_County,_Colorado" title="Phillips County, Colorado">Phillips</a></li>
-<li><a href="/wiki/Pitkin_County,_Colorado" title="Pitkin County, Colorado">Pitkin</a></li>
-<li><a href="/wiki/Prowers_County,_Colorado" title="Prowers County, Colorado">Prowers</a></li>
-<li><a href="/wiki/Pueblo_County,_Colorado" title="Pueblo County, Colorado">Pueblo</a></li>
-<li><a href="/wiki/Rio_Blanco_County,_Colorado" title="Rio Blanco County, Colorado">Rio Blanco</a></li>
-<li><a href="/wiki/Rio_Grande_County,_Colorado" title="Rio Grande County, Colorado">Rio Grande</a></li>
-<li><a href="/wiki/Routt_County,_Colorado" title="Routt County, Colorado">Routt</a></li>
-<li><a href="/wiki/Saguache_County,_Colorado" title="Saguache County, Colorado">Saguache</a></li>
-<li><a href="/wiki/San_Juan_County,_Colorado" title="San Juan County, Colorado">San Juan</a></li>
-<li><a href="/wiki/San_Miguel_County,_Colorado" title="San Miguel County, Colorado">San Miguel</a></li>
-<li><a href="/wiki/Sedgwick_County,_Colorado" title="Sedgwick County, Colorado">Sedgwick</a></li>
-<li><a href="/wiki/Summit_County,_Colorado" title="Summit County, Colorado">Summit</a></li>
-<li><a href="/wiki/Teller_County,_Colorado" title="Teller County, Colorado">Teller</a></li>
-<li><a href="/wiki/Washington_County,_Colorado" title="Washington County, Colorado">Washington</a></li>
-<li><a href="/wiki/Weld_County,_Colorado" title="Weld County, Colorado">Weld</a></li>
-<li><a href="/wiki/Yuma_County,_Colorado" title="Yuma County, Colorado">Yuma</a></li></ul>
-</div></td></tr></tbody></table></div>
 <div role="navigation" class="navbox" aria-labelledby="Newspapers_in_the_United_States_(North_America)" style="text-align:left;;padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Newspapers_in_the_United_States" title="Template:Newspapers in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Newspapers_in_the_United_States" title="Template talk:Newspapers in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Newspapers_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Newspapers_in_the_United_States_(North_America)" style="font-size:114%;margin:0 4em"><a href="/wiki/Newspapers_in_the_United_States" title="Newspapers in the United States">Newspapers in the United States</a> (<a href="/wiki/Lists_of_newspapers#North_America" title="Lists of newspapers">North America</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:right; vertical-align:top;"><a href="/wiki/U.S._state" title="U.S. state">States</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/List_of_newspapers_in_Alabama" title="List of newspapers in Alabama">Alabama</a></li>
-<li><a href="/wiki/List_of_newspapers_in_Alaska" title="List of newspapers in Alaska">Alaska</a></li>
+<li><a class="mw-selflink selflink">Alaska</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Arizona" title="List of newspapers in Arizona">Arizona</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Arkansas" title="List of newspapers in Arkansas">Arkansas</a></li>
 <li><a href="/wiki/List_of_newspapers_in_California" title="List of newspapers in California">California</a></li>
-<li><a class="mw-selflink selflink">Colorado</a></li>
+<li><a href="/wiki/List_of_newspapers_in_Colorado" title="List of newspapers in Colorado">Colorado</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Connecticut" title="List of newspapers in Connecticut">Connecticut</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Delaware" title="List of newspapers in Delaware">Delaware</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Florida" title="List of newspapers in Florida">Florida</a></li>
@@ -537,46 +230,140 @@
 <li><a href="/wiki/List_of_underground_press_in_the_United_States" class="mw-redirect" title="List of underground press in the United States">Underground</a></li>
 <li><a href="/wiki/List_of_weekly_newspapers_in_the_United_States" title="List of weekly newspapers in the United States">Weekly</a></li></ul>
 </div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#BBDDFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alaska" title="Template:Alaska"><abbr title="View this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alaska" title="Template talk:Alaska"><abbr title="Discuss this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Alaska&amp;action=edit"><abbr title="Edit this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/23px-Flag_of_Alaska.svg.png" decoding="async" width="23" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/34px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/46px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Alaska" title="Alaska">Alaska</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div id="Juneau_(capital)"><b><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/Outline_of_Alaska" title="Outline of Alaska">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_Alaska-related_articles" title="Index of Alaska-related articles">Index</a></li>
+<li><a href="/wiki/Geography_of_Alaska" title="Geography of Alaska">Geography</a></li>
+<li><a href="/wiki/List_of_earthquakes_in_Alaska" title="List of earthquakes in Alaska">Earthquakes</a></li>
+<li><a href="/wiki/Climate_of_Alaska" title="Climate of Alaska">Climate</a></li>
+<li><a href="/wiki/Wildlife_of_Alaska" title="Wildlife of Alaska">Wildlife</a></li>
+<li><a href="/wiki/History_of_Alaska" title="History of Alaska">History</a></li>
+<li><a href="/wiki/List_of_people_from_Alaska" title="List of people from Alaska">People</a></li>
+<li><a href="/wiki/Transportation_in_Alaska" title="Transportation in Alaska">Transportation</a></li>
+<li><a href="/wiki/Government_of_Alaska" title="Government of Alaska">Government</a></li>
+<li><a href="/wiki/United_States_congressional_delegations_from_Alaska" title="United States congressional delegations from Alaska">Delegations</a></li>
+<li><a href="/wiki/Music_of_Alaska" title="Music of Alaska">Music</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/100px-State_Seal_of_Alaska.svg.png" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/150px-State_Seal_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/200px-State_Seal_of_Alaska.svg.png 2x" data-file-width="393" data-file-height="388" /></div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%">Society</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crime_in_Alaska" title="Crime in Alaska">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Alaska" title="Demographics of Alaska">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Alaska" title="Economy of Alaska">Economy</a></li>
+<li><a href="/wiki/Education_in_Alaska" class="mw-redirect" title="Education in Alaska">Education</a></li>
+<li><a href="/wiki/Dentistry_in_rural_Alaska" title="Dentistry in rural Alaska">Rural dentistry</a></li>
+<li><a href="/wiki/Politics_of_Alaska" title="Politics of Alaska">Politics</a></li>
+<li><a href="/wiki/Sports_in_Alaska" title="Sports in Alaska">Sports</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%">Regions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alaska_Peninsula" title="Alaska Peninsula">Alaska Peninsula</a></li>
+<li><a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutian Islands</a></li>
+<li><a href="/wiki/Arctic_Alaska" title="Arctic Alaska">Arctic</a></li>
+<li><a href="/wiki/The_Bush_(Alaska)" class="mw-redirect" title="The Bush (Alaska)">The Bush</a></li>
+<li><a href="/wiki/Inside_Passage" title="Inside Passage">Inside Passage</a></li>
+<li><a href="/wiki/Interior_Alaska" title="Interior Alaska">Interior</a></li>
+<li><a href="/wiki/Kenai_Peninsula" title="Kenai Peninsula">Kenai Peninsula</a></li>
+<li><a href="/wiki/Matanuska-Susitna_Valley" title="Matanuska-Susitna Valley">Mat‑Su Valley</a></li>
+<li><a href="/wiki/Alaska_North_Slope" title="Alaska North Slope">North Slope</a></li>
+<li><a href="/wiki/Seward_Peninsula" title="Seward Peninsula">Seward Peninsula</a></li>
+<li><a href="/wiki/Southcentral_Alaska" title="Southcentral Alaska">Southcentral</a></li>
+<li><a href="/wiki/Southeast_Alaska" title="Southeast Alaska">Southeast</a></li>
+<li><a href="/wiki/Southwest_Alaska" title="Southwest Alaska">Southwest</a></li>
+<li><a href="/wiki/Tanana_Valley" title="Tanana Valley">Tanana Valley</a></li>
+<li><a href="/wiki/Yukon%E2%80%93Kuskokwim_Delta" title="Yukon–Kuskokwim Delta">Yukon–Kuskokwim Delta</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Largest cities</a> <br /> pop. over 25,000</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
+<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Smaller cities</a> <br /> pop. over 2,000</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a></li>
+<li><a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a></li>
+<li><a href="/wiki/Dillingham,_Alaska" title="Dillingham, Alaska">Dillingham</a></li>
+<li><a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li>
+<li><a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai</a></li>
+<li><a href="/wiki/Ketchikan,_Alaska" title="Ketchikan, Alaska">Ketchikan</a></li>
+<li><a href="/wiki/Kodiak,_Alaska" title="Kodiak, Alaska">Kodiak</a></li>
+<li><a href="/wiki/Kotzebue,_Alaska" title="Kotzebue, Alaska">Kotzebue</a></li>
+<li><a href="/wiki/Nome,_Alaska" title="Nome, Alaska">Nome</a></li>
+<li><a href="/wiki/North_Pole,_Alaska" title="North Pole, Alaska">North Pole</a></li>
+<li><a href="/wiki/Palmer,_Alaska" title="Palmer, Alaska">Palmer</a></li>
+<li><a href="/wiki/Petersburg,_Alaska" title="Petersburg, Alaska">Petersburg</a></li>
+<li><a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a></li>
+<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
+<li><a href="/wiki/Soldotna,_Alaska" title="Soldotna, Alaska">Soldotna</a></li>
+<li><a href="/wiki/Unalaska,_Alaska" title="Unalaska, Alaska">Unalaska</a></li>
+<li><a href="/wiki/Valdez,_Alaska" title="Valdez, Alaska">Valdez</a></li>
+<li><a href="/wiki/Wasilla,_Alaska" title="Wasilla, Alaska">Wasilla</a></li>
+<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
+<li><a href="/wiki/Utqia%C4%A1vik,_Alaska" class="mw-redirect" title="Utqiaġvik, Alaska">Utqiaġvik</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Boroughs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aleutians_East_Borough,_Alaska" title="Aleutians East Borough, Alaska">Aleutians East</a></li>
+<li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
+<li><a href="/wiki/Bristol_Bay_Borough,_Alaska" title="Bristol Bay Borough, Alaska">Bristol Bay</a></li>
+<li><a href="/wiki/Denali_Borough,_Alaska" title="Denali Borough, Alaska">Denali</a></li>
+<li><a href="/wiki/Fairbanks_North_Star_Borough,_Alaska" title="Fairbanks North Star Borough, Alaska">Fairbanks North Star</a></li>
+<li><a href="/wiki/Haines_Borough,_Alaska" title="Haines Borough, Alaska">Haines</a></li>
+<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
+<li><a href="/wiki/Kenai_Peninsula_Borough,_Alaska" title="Kenai Peninsula Borough, Alaska">Kenai Peninsula</a></li>
+<li><a href="/wiki/Ketchikan_Gateway_Borough,_Alaska" title="Ketchikan Gateway Borough, Alaska">Ketchikan Gateway</a></li>
+<li><a href="/wiki/Kodiak_Island_Borough,_Alaska" title="Kodiak Island Borough, Alaska">Kodiak Island</a></li>
+<li><a href="/wiki/Lake_and_Peninsula_Borough,_Alaska" title="Lake and Peninsula Borough, Alaska">Lake and Peninsula</a></li>
+<li><a href="/wiki/Matanuska-Susitna_Borough,_Alaska" title="Matanuska-Susitna Borough, Alaska">Matanuska‑Susitna</a></li>
+<li><a href="/wiki/North_Slope_Borough,_Alaska" title="North Slope Borough, Alaska">North Slope</a></li>
+<li><a href="/wiki/Northwest_Arctic_Borough,_Alaska" title="Northwest Arctic Borough, Alaska">Northwest Arctic</a></li>
+<li><a href="/wiki/Petersburg_Borough,_Alaska" title="Petersburg Borough, Alaska">Petersburg</a></li>
+<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
+<li><a href="/wiki/Skagway,_Alaska" title="Skagway, Alaska">Skagway</a></li>
+<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
+<li><a href="/wiki/Yakutat,_Alaska" title="Yakutat, Alaska">Yakutat</a></li>
+<li><a href="/wiki/Unorganized_Borough,_Alaska" title="Unorganized Borough, Alaska">Unorganized</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Census Areas</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aleutians_West_Census_Area,_Alaska" title="Aleutians West Census Area, Alaska">Aleutians West</a></li>
+<li><a href="/wiki/Bethel_Census_Area,_Alaska" title="Bethel Census Area, Alaska">Bethel</a></li>
+<li><a href="/wiki/Dillingham_Census_Area,_Alaska" title="Dillingham Census Area, Alaska">Dillingham</a></li>
+<li><a href="/wiki/Hoonah%E2%80%93Angoon_Census_Area,_Alaska" title="Hoonah–Angoon Census Area, Alaska">Hoonah–Angoon</a></li>
+<li><a href="/wiki/Kusilvak_Census_Area,_Alaska" title="Kusilvak Census Area, Alaska">Kusilvak</a></li>
+<li><a href="/wiki/Nome_Census_Area,_Alaska" title="Nome Census Area, Alaska">Nome</a></li>
+<li><a href="/wiki/Prince_of_Wales%E2%80%93Hyder_Census_Area,_Alaska" title="Prince of Wales–Hyder Census Area, Alaska">Prince of Wales–Hyder</a></li>
+<li><a href="/wiki/Southeast_Fairbanks_Census_Area,_Alaska" title="Southeast Fairbanks Census Area, Alaska">Southeast Fairbanks</a></li>
+<li><a href="/wiki/Valdez%E2%80%93Cordova_Census_Area,_Alaska" title="Valdez–Cordova Census Area, Alaska">Valdez–Cordova</a></li>
+<li><a href="/wiki/Yukon%E2%80%93Koyukuk_Census_Area,_Alaska" title="Yukon–Koyukuk Census Area, Alaska">Yukon–Koyukuk</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div><a href="/wiki/File:Flag_of_Alaska.svg" class="image"><img alt="Flag of Alaska.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/16px-Flag_of_Alaska.svg.png" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/24px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/32px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></a> <a href="/wiki/Portal:Alaska" title="Portal:Alaska">Alaska&#32;portal</a></div></td></tr></tbody></table></div>
 
 <!-- 
 NewPP limit report
-Parsed by mw1413
-Cached time: 20200618234746
+Parsed by mw1364
+Cached time: 20200621021953
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.288 seconds
-Real time usage: 0.392 seconds
-Preprocessor visited node count: 1418/1000000
-Post‐expand include size: 82364/2097152 bytes
-Template argument size: 10149/2097152 bytes
+Complications: []
+CPU time usage: 0.208 seconds
+Real time usage: 0.306 seconds
+Preprocessor visited node count: 1122/1000000
+Post‐expand include size: 72596/2097152 bytes
+Template argument size: 10853/2097152 bytes
 Highest expansion depth: 16/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 31562/5000000 bytes
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.103/10.000 seconds
-Lua memory usage: 3.6 MB/50 MB
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 1.87 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  280.747      1 -total
- 43.37%  121.754      1 Template:Reflist
- 35.89%  100.765      7 Template:Cite_web
- 18.71%   52.540      1 Template:Short_description
- 14.80%   41.548      2 Template:Navbox
- 14.24%   39.970      1 Template:Colorado
- 13.47%   37.818      1 Template:Pagetype
- 13.24%   37.157      1 Template:US_state_navigation_box
- 10.51%   29.509      1 Template:Expand_list
-  7.69%   21.600      1 Template:Hatnote
+100.00%  220.079      1 -total
+ 34.50%   75.936      1 Template:Cleanup
+ 27.53%   60.597      1 Template:Short_description
+ 22.93%   50.457      2 Template:Navbox
+ 20.26%   44.593      1 Template:Alaska
+ 19.96%   43.938      1 Template:Pagetype
+ 18.17%   39.996      3 Template:Main_other
+ 18.04%   39.703      1 Template:US_state_navigation_box
+ 16.44%   36.180      1 Template:Ambox
+ 12.79%   28.151      1 Template:Category_handler
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2368251-0!canonical and timestamp 20200618234746 and revision id 963252103
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4750253-0!canonical and timestamp 20200621021953 and revision id 959583045
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Colorado&amp;oldid=963252103">https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Colorado&amp;oldid=963252103</a>"</div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_newspapers_published_in_the_United_States_by_state" title="Category:Lists of newspapers published in the United States by state">Lists of newspapers published in the United States by state</a></li><li><a href="/wiki/Category:Newspapers_published_in_Colorado" title="Category:Newspapers published in Colorado">Newspapers published in Colorado</a></li><li><a href="/wiki/Category:Colorado-related_lists" title="Category:Colorado-related lists">Colorado-related lists</a></li><li><a href="/wiki/Category:Defunct_newspapers_published_in_Colorado" title="Category:Defunct newspapers published in Colorado">Defunct newspapers published in Colorado</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Incomplete_lists_from_August_2008" title="Category:Incomplete lists from August 2008">Incomplete lists from August 2008</a></li></ul></div></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045">https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_newspapers_published_in_the_United_States_by_state" title="Category:Lists of newspapers published in the United States by state">Lists of newspapers published in the United States by state</a></li><li><a href="/wiki/Category:Newspapers_published_in_Alaska" title="Category:Newspapers published in Alaska">Newspapers published in Alaska</a></li><li><a href="/wiki/Category:Alaska-related_lists" title="Category:Alaska-related lists">Alaska-related lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_January_2014" title="Category:Articles needing cleanup from January 2014">Articles needing cleanup from January 2014</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_January_2014" title="Category:Cleanup tagged articles with a reason field from January 2014">Cleanup tagged articles with a reason field from January 2014</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_January_2014" title="Category:Wikipedia pages needing cleanup from January 2014">Wikipedia pages needing cleanup from January 2014</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -597,7 +384,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+newspapers+in+Colorado" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+newspapers+in+Colorado" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+newspapers+in+Alaska" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+newspapers+in+Alaska" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
 		
 	</div>
 </nav>
@@ -613,7 +400,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_newspapers_in_Colorado" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_newspapers_in_Colorado" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_newspapers_in_Alaska" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_newspapers_in_Alaska" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
 		
 	</div>
 </nav>
@@ -646,7 +433,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/List_of_newspapers_in_Colorado">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/List_of_newspapers_in_Alaska">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
 		
 	</div>
 </nav>
@@ -727,7 +514,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_newspapers_in_Colorado" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_newspapers_in_Colorado" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;oldid=963252103" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630450" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_newspapers_in_Colorado&amp;id=963252103&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_newspapers_in_Alaska" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_newspapers_in_Alaska" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630430" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_newspapers_in_Alaska&amp;id=959583045&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
 		
 	</div>
 </nav>
@@ -741,7 +528,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+newspapers+in+Colorado&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_newspapers_in_Colorado&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+newspapers+in+Alaska&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
 		
 	</div>
 </nav>
@@ -756,8 +543,8 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Kolorado_gazetalar%C4%B1_listasi" title="Kolorado gazetaları listasi – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630450#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daftar_surat_kabar_di_Alaska" title="Daftar surat kabar di Alaska – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%80t%C3%B2j%E1%BB%8D_%C3%80w%E1%BB%8Dn_%C3%ACw%C3%A9_%C3%ACr%C3%B2y%C3%ACn_Am%E1%BA%B9%CC%81r%C3%ADk%C3%A0_N%C3%AD_%C3%8Cp%C3%ADnl%E1%BA%B9%CC%80_Alaska" title="Àtòjọ Àwọn ìwé ìròyìn Amẹ́ríkà Ní Ìpínlẹ̀ Alaska – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630430#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 	</div>
 </nav>
 
@@ -768,7 +555,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-		<li id="footer-info-lastmod"> This page was last edited on 18 June 2020, at 19:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-lastmod"> This page was last edited on 29 May 2020, at 14:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
 		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 	</ul>
@@ -780,7 +567,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_newspapers_in_Colorado&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 	</ul>
 	<ul id="footer-icons" class="noprint">
 		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
@@ -790,6 +577,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.392","ppvisitednodes":{"value":1418,"limit":1000000},"postexpandincludesize":{"value":82364,"limit":2097152},"templateargumentsize":{"value":10149,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31562,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  280.747      1 -total"," 43.37%  121.754      1 Template:Reflist"," 35.89%  100.765      7 Template:Cite_web"," 18.71%   52.540      1 Template:Short_description"," 14.80%   41.548      2 Template:Navbox"," 14.24%   39.970      1 Template:Colorado"," 13.47%   37.818      1 Template:Pagetype"," 13.24%   37.157      1 Template:US_state_navigation_box"," 10.51%   29.509      1 Template:Expand_list","  7.69%   21.600      1 Template:Hatnote"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":3775693,"limit":52428800}},"cachereport":{"origin":"mw1413","timestamp":"20200618234746","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of newspapers in Colorado","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_newspapers_in_Colorado","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6630450","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6630450","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-03T06:50:31Z","dateModified":"2020-06-18T19:27:32Z","headline":"Wikimedia list article"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1350"});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.306","ppvisitednodes":{"value":1122,"limit":1000000},"postexpandincludesize":{"value":72596,"limit":2097152},"templateargumentsize":{"value":10853,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  220.079      1 -total"," 34.50%   75.936      1 Template:Cleanup"," 27.53%   60.597      1 Template:Short_description"," 22.93%   50.457      2 Template:Navbox"," 20.26%   44.593      1 Template:Alaska"," 19.96%   43.938      1 Template:Pagetype"," 18.17%   39.996      3 Template:Main_other"," 18.04%   39.703      1 Template:US_state_navigation_box"," 16.44%   36.180      1 Template:Ambox"," 12.79%   28.151      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":1963399,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1364","timestamp":"20200621021953","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of newspapers in Alaska","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_newspapers_in_Alaska","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6630430","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6630430","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-14T19:57:04Z","dateModified":"2020-05-29T14:04:31Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1371"});});</script></body></html>

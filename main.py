@@ -11,6 +11,17 @@ import urllib.request
 import os
 from datetime import datetime
 
+class Paper():
+    def __init__(self):
+        self.url = ""
+        self.name = ""
+        self.location = ""
+    
+    def __str__(self):
+        return self.name
+
+    
+
 
 
 class State_Newspapers_Index_Parser(HTMLParser):
@@ -199,38 +210,49 @@ def collect_papers_Maine(all_paper_urls):
     f.close()
     parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Maine", './urls')
 
-def collect_papers_any_us_territory(all_paper_urls, url, path):
-    filename = "W_html.txt"
-    name = url.split("_in_",1)[1]
-    print(name)
+def collect_papers_every_us_territory(all_paper_urls, url, dir_path):
+    html_filename = "W_html.txt"
+    territory_name = url.split("_in_",1)[1]
+    print(territory_name)
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
-    f = open(filename,"w+")
+    f = open(html_filename,"w+")
     f.write(webpage)
     f.close()
-    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, name, path)
+    parse_newspapers_from_state_wikipedia_index(html_filename, all_paper_urls, territory_name, dir_path)
 
     
-def parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, name, path):
-    f = open(filename, "r")
+
+
+
+
+def parse_newspapers_from_state_wikipedia_index(html_filename, all_paper_urls, name, path):
+    f = open(html_filename, "r")
     contents = f.read()
     parser = State_Newspapers_Index_Parser()
     parser.feed(contents)
-    parse_urls(parser, all_paper_urls, name, path)
+    all_urls = parser.get_urls()
+    f.close()
 
-def parse_urls(parser, all_paper_urls, name, path):
+    all_news_urls_path = os.path.join(path + '/USA.txt')
+    state_urls_path = os.path.join(path + '/', str(name) + '.txt')
+    f = open(state_urls_path, 'w+')
+    h = open(all_news_urls_path, 'w+')
+    parse_urls(all_urls, all_paper_urls, f, h)
+    h.close()
+    
+
+def parse_urls(all_urls, all_paper_urls, state_file, everything_file):
 
     wiki_paper_urls = []
-    # for url in parser.get_urls():
-    #     print(url)
-    # exit()
-    for url in parser.get_urls():
+    for url in all_urls:
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         try:
             webpage = urlopen(req).read().decode("utf-8") 
         except:
             print("URL Error: " + url)
             continue
+
         f = open("temp1.txt","w+")
         f.write(webpage)
         f.close()
@@ -241,17 +263,19 @@ def parse_urls(parser, all_paper_urls, name, path):
         parser.feed(contents)
         if parser.is_paper():
             wiki_paper_urls.append(url)
-            get_website_url(url, all_paper_urls)
+            site_url = get_website_url(url, all_paper_urls)
+            if site_url != None:
+                state_file.write(str(site_url) + '\n')
+                everything_file.write(str(site_url) + '\n')
+
         
-        local_news_urls_path = os.path.join(path + '/', str(name) + '.txt')
-        all_news_urls_path = os.path.join(path + '/USA.txt')
-        f = open(local_news_urls_path,"w+")
-        h = open(all_news_urls_path, "w+")
-        for website in all_paper_urls:
-            f.write(str(website) + '\n')
-            h.write(str(website) + '\n')
-        f.close()
-        h.close()
+        # all_news_urls_path = os.path.join(path + '/USA.txt')
+        # h = open(all_news_urls_path, "w+")
+        # for website in all_paper_urls:
+        #     state_file.write(str(website) + '\n')
+            # h.write(str(website) + '\n')
+    state_file.close()
+        # h.close()
 
 def get_website_url(wiki_url, all_paper_urls):
     req = Request(wiki_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -270,9 +294,11 @@ def get_website_url(wiki_url, all_paper_urls):
         if website not in all_paper_urls:
             all_paper_urls.append(website)
             print(website)
+            return website
+    return None
 
 
-def collect_all_us(all_paper_urls):
+def collect_all_us(all_papers):
     filename = "W_html.txt"
     site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States"
     req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
@@ -288,23 +314,23 @@ def collect_all_us(all_paper_urls):
     parser.feed(contents)
 
     dateTimeObj = datetime.now()
-    path = './urls_' + str(dateTimeObj.month) + '.' + str(dateTimeObj.day) + '.' + str(dateTimeObj.hour) + ':' + str(dateTimeObj.minute)
-    os.mkdir(path)
+    dir_path = './urls_' + str(dateTimeObj.month) + '.' + str(dateTimeObj.day) + '.' + str(dateTimeObj.hour) + ':' + str(dateTimeObj.minute)
+    os.mkdir(dir_path)
 
     for link in parser.wiki_indexes:
-        collect_papers_any_us_territory(all_paper_urls, link, path)
+        collect_papers_every_us_territory(all_papers, link, dir_path)
 
 
     
 def main():
-    all_paper_urls = []
-    # collect_papers_Alabama(all_paper_urls)
-    # collect_papers_Maryland(all_paper_urls)
-    # collect_papers_Michigan(all_paper_urls)
-    # collect_papers_California(all_paper_urls)
-    # collect_papers_Maine(all_paper_urls)
+    all_papers = []
+    # collect_papers_Alabama(all_papers)
+    # collect_papers_Maryland(all_papers)
+    # collect_papers_Michigan(all_papers)
+    # collect_papers_California(all_papers)
+    # collect_papers_Maine(all_papers)
 
-    collect_all_us(all_paper_urls) 
+    collect_all_us(all_papers) 
 
 
 

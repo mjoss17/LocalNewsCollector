@@ -3,13 +3,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Mohave Valley Daily News - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"264111c3-5093-431d-9c83-1838387e34bd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mohave_Valley_Daily_News","wgTitle":"Mohave Valley Daily News","wgCurRevisionId":963956610,"wgRevisionId":963956610,"wgArticleId":32398175,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Pages using infobox newspaper with unknown parameters","All stub articles","Newspapers published in Arizona","Newspapers published in the Western United States stubs","Arizona stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
-"wgRelevantPageName":"Mohave_Valley_Daily_News","wgRelevantArticleId":32398175,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6893724","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
-"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>Fairhope, Alabama - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"39445728-585f-4c18-a5ee-fce22089fb44","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fairhope,_Alabama","wgTitle":"Fairhope, Alabama","wgCurRevisionId":961125359,"wgRevisionId":961125359,"wgArticleId":99889,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with short description","Use mdy dates from December 2017","Use American English from December 2017","All Wikipedia articles written in American English","Coordinates on Wikidata","All articles with unsourced statements",
+"Articles with unsourced statements from April 2011","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Fairhope, Alabama","1894 establishments in Alabama","Cities in Alabama","Cities in Baldwin County, Alabama","Georgist communities","Populated coastal places in Alabama","Populated places established in 1894","Utopian communities"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Fairhope,_Alabama","wgRelevantArticleId":99889,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":30.52638888888889,"lon":-87.89555555555556},"wgWikibaseItemId":"Q79502","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +18,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Fairhope_Public_Library.jpg/1200px-Fairhope_Public_Library.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Mohave_Valley_Daily_News"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fairhope,_Alabama"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mohave_Valley_Daily_News rootpage-Mohave_Valley_Daily_News skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fairhope_Alabama rootpage-Fairhope_Alabama skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -38,7 +40,7 @@
 		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en"><i>Mohave Valley Daily News</i></h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Fairhope, Alabama</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -48,143 +50,603 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org" style="font-style: italic">Mohave Valley Daily News</caption><tbody><tr><th scope="row">Type</th><td>Newspaper</td></tr><tr><th scope="row">Owner(s)</th><td><a href="/w/index.php?title=Brehm_Communications&amp;action=edit&amp;redlink=1" class="new" title="Brehm Communications (page does not exist)">Brehm Communications</a></td></tr><tr><th scope="row">Publisher</th><td>News West Publishing</td></tr><tr><th scope="row">Language</th><td>English</td></tr><tr><th scope="row">Headquarters</th><td class="label">2435 Miracle Mile, <a href="/wiki/Bullhead_City,_Arizona" title="Bullhead City, Arizona">Bullhead City</a>, <a href="/wiki/Arizona" title="Arizona">Arizona</a> 86442<br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row">Website</th><td><a rel="nofollow" class="external text" href="http://www.mohavedailynews.com/">mohavedailynews.com</a></td></tr></tbody></table>
-<p>The <i><b>Mohave Valley Daily News</b></i> is a <a href="/wiki/Newspaper" title="Newspaper">newspaper</a> in <a href="/wiki/Bullhead_City,_Arizona" title="Bullhead City, Arizona">Bullhead City</a>, <a href="/wiki/Arizona" title="Arizona">Arizona</a>, <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-mondo_2-0" class="reference"><a href="#cite_note-mondo-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It was started in 1964 by Lee B. Perry, then owner and publisher of the nearby <i>Needles Desert Star</i>, a weekly newspaper serving <a href="/wiki/Needles,_California" title="Needles, California">Needles, California</a> and the southern <a href="/wiki/Mohave_Valley" title="Mohave Valley">Mohave Valley</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> It is owned by <a href="/w/index.php?title=Brehm_Communications&amp;action=edit&amp;redlink=1" class="new" title="Brehm Communications (page does not exist)">Brehm Communications</a>, and it has a circulation of 8,600.<sup id="cite_ref-mondo_2-1" class="reference"><a href="#cite_note-mondo-2">&#91;2&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Fairhope" redirects here. For other uses, see <a href="/wiki/Fairhope_(disambiguation)" class="mw-disambig" title="Fairhope (disambiguation)">Fairhope (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">City in Alabama, United States</div>
+<p class="mw-empty-elt">
+
 </p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brehmcommunications.com/publications/">"Publications"</a>. <i>brehmcommunications.com</i>. <a href="/w/index.php?title=Brehm_Communications&amp;action=edit&amp;redlink=1" class="new" title="Brehm Communications (page does not exist)">Brehm Communications</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 Oct</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=brehmcommunications.com&amp;rft.atitle=Publications&amp;rft_id=http%3A%2F%2Fwww.brehmcommunications.com%2Fpublications%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMohave+Valley+Daily+News" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">City in Alabama, United States</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Fairhope</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/City" title="City">City</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Fairhope_Public_Library.jpg" class="image" title="Fairhope Public Library"><img alt="Fairhope Public Library" src="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Fairhope_Public_Library.jpg/250px-Fairhope_Public_Library.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Fairhope_Public_Library.jpg/375px-Fairhope_Public_Library.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/95/Fairhope_Public_Library.jpg/500px-Fairhope_Public_Library.jpg 2x" data-file-width="1280" data-file-height="960" /></a><div style="padding:0.4em 0 0 0;">Fairhope Public Library</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">Motto(s):&#160;<div style="display:inline" class="nickname">"You've arrived"</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg" class="image" title="Location of Fairhope in Baldwin County, Alabama."><img alt="Location of Fairhope in Baldwin County, Alabama." src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg/250px-Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg.png" decoding="async" width="250" height="265" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg/375px-Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg/500px-Baldwin_County_Alabama_Incorporated_and_Unincorporated_areas_Fairhope_Highlighted_0125240.svg.png 2x" data-file-width="474" data-file-height="502" /></a><div style="padding:0.3em 0 0 0;">Location of Fairhope in Baldwin County, Alabama.</div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Fairhope,_Alabama&amp;params=30_31_35_N_87_53_44_W_region:US-AL_type:city(15326)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">30°31′35″N</span> <span class="longitude">87°53′44″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">30.52639°N 87.89556°W</span><span style="display:none">&#xfeff; / <span class="geo">30.52639; -87.89556</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Fairhope,_Alabama&amp;params=30_31_35_N_87_53_44_W_region:US-AL_type:city(15326)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">30°31′35″N</span> <span class="longitude">87°53′44″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">30.52639°N 87.89556°W</span><span style="display:none">&#xfeff; / <span class="geo">30.52639; -87.89556</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td><a href="/wiki/United_States" title="United States">United States</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/U.S._state" title="U.S. state">State</a></th><td><a href="/wiki/Alabama" title="Alabama">Alabama</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_counties_in_Alabama" title="List of counties in Alabama">County</a></th><td><a href="/wiki/Baldwin_County,_Alabama" title="Baldwin County, Alabama">Baldwin</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Type</th><td><a href="/wiki/Municipality" title="Municipality">Municipality</a></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Mayor" title="Mayor">Mayor</a></th><td>Karin Wilson</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"><sup id="cite_ref-CenPopGazetteer2016_1-0" class="reference"><a href="#cite_note-CenPopGazetteer2016-1">&#91;1&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>14.04&#160;sq&#160;mi (36.36&#160;km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Land</th><td>13.99&#160;sq&#160;mi (36.22&#160;km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Water</th><td>0.06&#160;sq&#160;mi (0.14&#160;km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>122&#160;ft (37&#160;m)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(<a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010</a>)<sup id="cite_ref-2013_Pop_Estimate_2-0" class="reference"><a href="#cite_note-2013_Pop_Estimate-2">&#91;2&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>15,326</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Estimate&#160;<div style="font-weight:normal;display:inline;">(2019)<sup id="cite_ref-USCensusEst2019_3-0" class="reference"><a href="#cite_note-USCensusEst2019-3">&#91;3&#93;</a></sup></div></th><td>22,677</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>1,579.08/sq&#160;mi (609.71/km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC-6" class="mw-redirect" title="UTC-6">UTC-6</a> (<a href="/wiki/Central_Time_Zone_(North_America)" class="mw-redirect" title="Central Time Zone (North America)">Central (CST)</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC-5" class="mw-redirect" title="UTC-5">UTC-5</a> (CDT)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/ZIP_code" class="mw-redirect" title="ZIP code">ZIP code</a></th><td class="adr"><div class="postal-code">36532–36533</div></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th><td><a href="/wiki/Area_code_251" title="Area code 251">251</a></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Federal_Information_Processing_Standard" class="mw-redirect" title="Federal Information Processing Standard">FIPS code</a></th><td>01-25240</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">GNIS</a> feature ID</th><td>0118120</td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.cofairhope.com">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q79502#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></td></tr></tbody></table>
+<p><b>Fairhope</b> is a city in <a href="/wiki/Baldwin_County,_Alabama" title="Baldwin County, Alabama">Baldwin County</a>, <a href="/wiki/Alabama" title="Alabama">Alabama</a>, <a href="/wiki/United_States" title="United States">United States</a> on the eastern <a href="/wiki/Shoreline" class="mw-redirect" title="Shoreline">shoreline</a> of <a href="/wiki/Mobile_Bay" title="Mobile Bay">Mobile Bay</a>. The <a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 census</a> lists the population of the city as 15,326.<sup id="cite_ref-Census_2010_4-0" class="reference"><a href="#cite_note-Census_2010-4">&#91;4&#93;</a></sup> Fairhope is a principal city of the <a href="/wiki/Daphne-Fairhope-Foley_micropolitan_area" class="mw-redirect" title="Daphne-Fairhope-Foley micropolitan area">Daphne-Fairhope-Foley micropolitan area</a>, which includes all of Baldwin County. In 2016, Fairhope was named the best small town in the <a href="/wiki/Southern_United_States" title="Southern United States">South</a> by <i><a href="/wiki/Southern_Living" title="Southern Living">Southern Living</a></i> magazine.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Climate"><span class="tocnumber">2.1</span> <span class="toctext">Climate</span></a></li>
+</ul>
 </li>
-<li id="cite_note-mondo-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-mondo_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mondo_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100623044609/http://www.mondonewspapers.com/usa/circulation/arizona.html">"Mondo Newspapers circulation"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mondonewspapers.com/usa/circulation/arizona.html">the original</a> on June 23, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mondo+Newspapers+circulation&amp;rft_id=http%3A%2F%2Fwww.mondonewspapers.com%2Fusa%2Fcirculation%2Farizona.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMohave+Valley+Daily+News" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+<li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Government"><span class="tocnumber">4</span> <span class="toctext">Government</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Development"><span class="tocnumber">4.1</span> <span class="toctext">Development</span></a></li>
+</ul>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFHowells1999" class="citation book">Howells, John (1999). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/choosesouthwestf00howe"><i>Choose the Southwest for Retirement: Retirement Discoveries for Every Budget</i></a></span>. <a href="/wiki/Globe_Pequot_Press" title="Globe Pequot Press">Globe Pequot Press</a>. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/choosesouthwestf00howe/page/78">78</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Choose+the+Southwest+for+Retirement%3A+Retirement+Discoveries+for+Every+Budget&amp;rft.pages=78&amp;rft.pub=Globe+Pequot+Press&amp;rft.date=1999&amp;rft.aulast=Howells&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fchoosesouthwestf00howe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMohave+Valley+Daily+News" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=_q7Jb3l4yhkC&amp;q=%22Mohave+Valley+Daily+News%22&amp;dq=%22Mohave+Valley+Daily+News%22&amp;hl=en&amp;ei=ZVsdToO0FoPMgQf24ZD4CQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8&amp;ved=0CEcQ6AEwBzge">[1]</a></span>
+<li class="toclevel-1 tocsection-7"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fairhope was founded in November 1894 on the site of the former Alabama City as a radical, <a href="/wiki/Utopian_socialist" class="mw-redirect" title="Utopian socialist">utopian socialist</a> <a href="/wiki/Georgism" title="Georgism">Georgist</a> <a href="/wiki/Land_value_tax" title="Land value tax">"Single-Tax"</a> colony by the Fairhope Industrial Association, a group of 28 followers of economist <a href="/wiki/Henry_George" title="Henry George">Henry George</a> who had incorporated earlier that year in <a href="/wiki/Des_Moines,_Iowa" title="Des Moines, Iowa">Des Moines, Iowa</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Their corporate constitution explained their purpose in founding a new colony:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r960796168">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>to establish and conduct a model community or colony, free from all forms of private monopoly, and to secure to its members therein equality of opportunity, the full reward of individual efforts, and the benefits of co-operation in matters of general concern.<sup id="cite_ref-fairhopesingletax.com_7-0" class="reference"><a href="#cite_note-fairhopesingletax.com-7">&#91;7&#93;</a></sup></p></blockquote>
+<p>In forming their demonstration project, they pooled their funds to purchase land at "Stapleton's pasture" on the eastern shore of Mobile Bay and then divided it into a number of long-term leaseholds.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>&#93;</sup> The corporation paid all governmental taxes from rents paid by the lessees, thus simulating a single-tax. The purpose of the single-tax colony was to eliminate disincentives for productive use of land and thereby retain the value of land for the community.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>"Fairhope Avenue" was one of the properties on the 1910 version of the board game <i><a href="/wiki/The_Landlord%27s_Game" title="The Landlord&#39;s Game">The Landlord's Game</a></i>, a precursor of <a href="/wiki/Monopoly_(game)" title="Monopoly (game)"><i>Monopoly</i></a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In 1907 educator <a href="/wiki/Marietta_Johnson" title="Marietta Johnson">Marietta Johnson</a> founded the School for Organic Education in Fairhope. The school was praised in <a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a>'s influential 1915 book <i>Schools of Tomorrow</i>. Dewey and Johnson were founding members of the <a href="/wiki/Progressive_education" title="Progressive education">Progressive Education Association</a>.
+</p><p>Fairhope became a popular wintering spot for artists and intellectuals. <a href="/wiki/Sherwood_Anderson" title="Sherwood Anderson">Sherwood Anderson</a>, <a href="/wiki/Clarence_Darrow" title="Clarence Darrow">Clarence Darrow</a>, <a href="/wiki/Wharton_Esherick" title="Wharton Esherick">Wharton Esherick</a>, Carl Zigrosser, and <a href="/wiki/Upton_Sinclair" title="Upton Sinclair">Upton Sinclair</a> were among its notable visitors.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fairhope_Municipal_Pier_Fountain.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fairhope_Municipal_Pier_Fountain.JPG/220px-Fairhope_Municipal_Pier_Fountain.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fairhope_Municipal_Pier_Fountain.JPG/330px-Fairhope_Municipal_Pier_Fountain.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fairhope_Municipal_Pier_Fountain.JPG/440px-Fairhope_Municipal_Pier_Fountain.JPG 2x" data-file-width="2848" data-file-height="2136" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fairhope_Municipal_Pier_Fountain.JPG" class="internal" title="Enlarge"></a></div>Fountain at the Municipal Pier</div></div></div>
+<p>The Fairhope Single-Tax Corporation still operates, with 1,800 leaseholds covering more than 4,000 acres (16&#160;km<sup>2</sup>) in and around the current city of Fairhope. Despite the ideals of the corporation, the town has transitioned from utopian experiment to artists' and intellectuals' colony to boutique resort and affluent suburb of <a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile</a>.<sup id="cite_ref-fairhopesingletax.com_7-1" class="reference"><a href="#cite_note-fairhopesingletax.com-7">&#91;7&#93;</a></sup>
+</p><p>For over 50 years, fishermen and residents of Fairhope have experienced the "jubilee" phenomenon. During a <a href="/wiki/Mobile_Bay_jubilee" title="Mobile Bay jubilee">jubilee</a> along the shores of Mobile Bay, some aquatic animals, including <a href="/wiki/Crab" title="Crab">blue crabs</a>, <a href="/wiki/Flounder" title="Flounder">flounder</a>, <a href="/wiki/Stingray" title="Stingray">stingrays</a>, and <a href="/wiki/Eel" title="Eel">eels</a>, come to the shallow water. At those times, it is possible to catch the fish, crabs, and other sea life near the water's edge.
+</p><p>The <a href="/w/index.php?title=Weeks_Bay_Nature_Reserve&amp;action=edit&amp;redlink=1" class="new" title="Weeks Bay Nature Reserve (page does not exist)">Weeks Bay Nature Reserve</a>, located 10 miles (16&#160;km) to the southeast, is known for the many oaks, wildlife and <a href="/wiki/Pitcher_plant" title="Pitcher plant">pitcher plants</a> along the elevated walkways through the swamp forest.
+</p><p>The Bell Building on the <a href="/wiki/Faulkner_State_Community_College" class="mw-redirect" title="Faulkner State Community College">Faulkner State Community College</a> campus houses the Marietta Johnson Museum.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The Fairhope Museum of History is located downtown.
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fairhope is located on the shore of Mobile Bay. It is located 6 miles (10&#160;km) south of <a href="/wiki/Daphne,_Alabama" title="Daphne, Alabama">Daphne</a> and 10 miles (16&#160;km) south of <a href="/wiki/Spanish_Fort,_Alabama" title="Spanish Fort, Alabama">Spanish Fort</a>. <a href="/wiki/U.S._Route_98" title="U.S. Route 98">U.S. Route 98</a> (Greeno Road) runs north–south through the city. It lies on a sloping plateau.
+</p><p>According to the <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">U.S. Census Bureau</a>, the city has a total area of 12.0 square miles (31.1&#160;km<sup>2</sup>), of which 0.019 square mile (0.05&#160;km<sup>2</sup>), or 0.16%, is water.<sup id="cite_ref-Census_2010_4-1" class="reference"><a href="#cite_note-Census_2010-4">&#91;4&#93;</a></sup> Its elevation ranges from sea level at the bay to 122 feet (37&#160;m) in the city center.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=3" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fairhope has a <a href="/wiki/Humid_subtropical_climate" title="Humid subtropical climate">humid subtropical climate</a>. It experiences hot, humid summers and generally mild winters, with average temperatures ranging from 81.9&#160;°F (27.7&#160;°C) in the summer to 50.4&#160;°F (10.2&#160;°C) during winter.
+</p>
+<div>
+<table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;">
+
+<tbody><tr>
+<th colspan="14">Climate data for Fairhope, 1981–2010 normals, extremes 1917–present
+</th></tr>
+<tr>
+<th scope="row">Month
+</th>
+<th scope="col">Jan
+</th>
+<th scope="col">Feb
+</th>
+<th scope="col">Mar
+</th>
+<th scope="col">Apr
+</th>
+<th scope="col">May
+</th>
+<th scope="col">Jun
+</th>
+<th scope="col">Jul
+</th>
+<th scope="col">Aug
+</th>
+<th scope="col">Sep
+</th>
+<th scope="col">Oct
+</th>
+<th scope="col">Nov
+</th>
+<th scope="col">Dec
+</th>
+<th scope="col" style="border-left-width:medium">Year
+</th></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °F (°C)
+</th>
+<td style="background: #FF5600; color:#000000;">85<br />(29)
+</td>
+<td style="background: #FF4800; color:#000000;">88<br />(31)
+</td>
+<td style="background: #FF4800; color:#000000;">88<br />(31)
+</td>
+<td style="background: #FF2500; color:#000000;">97<br />(36)
+</td>
+<td style="background: #FF1F00; color:#000000;">98<br />(37)
+</td>
+<td style="background: #FF1100; color:#FFFFFF;">103<br />(39)
+</td>
+<td style="background: #FF0300; color:#FFFFFF;">105<br />(41)
+</td>
+<td style="background: #FF1100; color:#FFFFFF;">103<br />(39)
+</td>
+<td style="background: #FF0300; color:#FFFFFF;">105<br />(41)
+</td>
+<td style="background: #FF2500; color:#000000;">97<br />(36)
+</td>
+<td style="background: #FF3300; color:#000000;">94<br />(34)
+</td>
+<td style="background: #FF4100; color:#000000;">89<br />(32)
+</td>
+<td style="background: #FF0300; color:#FFFFFF; border-left-width:medium">105<br />(41)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean maximum °F (°C)
+</th>
+<td style="background: #FF7800; color:#000000;">75.2<br />(24.0)
+</td>
+<td style="background: #FF6F00; color:#000000;">77.6<br />(25.3)
+</td>
+<td style="background: #FF6100; color:#000000;">81.4<br />(27.4)
+</td>
+<td style="background: #FF5100; color:#000000;">85.4<br />(29.7)
+</td>
+<td style="background: #FF3B00; color:#000000;">91.2<br />(32.9)
+</td>
+<td style="background: #FF2E00; color:#000000;">94.4<br />(34.7)
+</td>
+<td style="background: #FF2800; color:#000000;">96.1<br />(35.6)
+</td>
+<td style="background: #FF2A00; color:#000000;">95.6<br />(35.3)
+</td>
+<td style="background: #FF3200; color:#000000;">93.6<br />(34.2)
+</td>
+<td style="background: #FF4400; color:#000000;">88.9<br />(31.6)
+</td>
+<td style="background: #FF5D00; color:#000000;">82.4<br />(28.0)
+</td>
+<td style="background: #FF6F00; color:#000000;">77.6<br />(25.3)
+</td>
+<td style="background: #FF2400; color:#000000; border-left-width:medium">97.2<br />(36.2)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °F (°C)
+</th>
+<td style="background: #FFAD5C; color:#000000;">61.4<br />(16.3)
+</td>
+<td style="background: #FFA042; color:#000000;">64.8<br />(18.2)
+</td>
+<td style="background: #FF8710; color:#000000;">71.2<br />(21.8)
+</td>
+<td style="background: #FF6F00; color:#000000;">77.5<br />(25.3)
+</td>
+<td style="background: #FF5400; color:#000000;">84.7<br />(29.3)
+</td>
+<td style="background: #FF4200; color:#000000;">89.3<br />(31.8)
+</td>
+<td style="background: #FF3B00; color:#000000;">91.1<br />(32.8)
+</td>
+<td style="background: #FF3B00; color:#000000;">91.0<br />(32.8)
+</td>
+<td style="background: #FF4700; color:#000000;">87.9<br />(31.1)
+</td>
+<td style="background: #FF6600; color:#000000;">80.1<br />(26.7)
+</td>
+<td style="background: #FF860D; color:#000000;">71.6<br />(22.0)
+</td>
+<td style="background: #FFA44A; color:#000000;">63.6<br />(17.6)
+</td>
+<td style="background: #FF6E00; color:#000000; border-left-width:medium">77.9<br />(25.5)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °F (°C)
+</th>
+<td style="background: #FFD7B0; color:#000000;">50.4<br />(10.2)
+</td>
+<td style="background: #FFCA96; color:#000000;">53.7<br />(12.1)
+</td>
+<td style="background: #FFB266; color:#000000;">60.0<br />(15.6)
+</td>
+<td style="background: #FF9A35; color:#000000;">66.3<br />(19.1)
+</td>
+<td style="background: #FF7C00; color:#000000;">74.1<br />(23.4)
+</td>
+<td style="background: #FF6600; color:#000000;">79.9<br />(26.6)
+</td>
+<td style="background: #FF5F00; color:#000000;">81.9<br />(27.7)
+</td>
+<td style="background: #FF5F00; color:#000000;">81.7<br />(27.6)
+</td>
+<td style="background: #FF6E00; color:#000000;">77.7<br />(25.4)
+</td>
+<td style="background: #FF9123; color:#000000;">68.7<br />(20.4)
+</td>
+<td style="background: #FFB164; color:#000000;">60.2<br />(15.7)
+</td>
+<td style="background: #FFCE9E; color:#000000;">52.7<br />(11.5)
+</td>
+<td style="background: #FF962E; color:#000000; border-left-width:medium">67.3<br />(19.6)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °F (°C)
+</th>
+<td style="background: #FDFDFF; color:#000000;">39.5<br />(4.2)
+</td>
+<td style="background: #FFF5EB; color:#000000;">42.6<br />(5.9)
+</td>
+<td style="background: #FFDDBC; color:#000000;">48.8<br />(9.3)
+</td>
+<td style="background: #FFC58C; color:#000000;">55.1<br />(12.8)
+</td>
+<td style="background: #FFA44A; color:#000000;">63.6<br />(17.6)
+</td>
+<td style="background: #FF8A16; color:#000000;">70.5<br />(21.4)
+</td>
+<td style="background: #FF8205; color:#000000;">72.7<br />(22.6)
+</td>
+<td style="background: #FF8308; color:#000000;">72.3<br />(22.4)
+</td>
+<td style="background: #FF952C; color:#000000;">67.6<br />(19.8)
+</td>
+<td style="background: #FFBC7A; color:#000000;">57.3<br />(14.1)
+</td>
+<td style="background: #FFDDBC; color:#000000;">48.7<br />(9.3)
+</td>
+<td style="background: #FFF8F2; color:#000000;">41.8<br />(5.4)
+</td>
+<td style="background: #FFBF80; color:#000000; border-left-width:medium">56.7<br />(13.7)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean minimum °F (°C)
+</th>
+<td style="background: #CCCCFF; color:#000000;">23.1<br />(−4.9)
+</td>
+<td style="background: #D6D6FF; color:#000000;">26.6<br />(−3.0)
+</td>
+<td style="background: #E8E8FF; color:#000000;">32.6<br />(0.3)
+</td>
+<td style="background: #FFFCF9; color:#000000;">40.9<br />(4.9)
+</td>
+<td style="background: #FFD3A8; color:#000000;">51.5<br />(10.8)
+</td>
+<td style="background: #FFA954; color:#000000;">62.5<br />(16.9)
+</td>
+<td style="background: #FF962D; color:#000000;">67.4<br />(19.7)
+</td>
+<td style="background: #FF9730; color:#000000;">67.1<br />(19.5)
+</td>
+<td style="background: #FFC285; color:#000000;">55.9<br />(13.3)
+</td>
+<td style="background: #FFF8F1; color:#000000;">41.9<br />(5.5)
+</td>
+<td style="background: #E7E7FF; color:#000000;">32.3<br />(0.2)
+</td>
+<td style="background: #D2D2FF; color:#000000;">25.4<br />(−3.7)
+</td>
+<td style="background: #C2C2FF; color:#000000; border-left-width:medium">20.0<br />(−6.7)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °F (°C)
+</th>
+<td style="background: #9595FF; color:#000000;">5<br />(−15)
+</td>
+<td style="background: #A5A5FF; color:#000000;">10<br />(−12)
+</td>
+<td style="background: #C0C0FF; color:#000000;">19<br />(−7)
+</td>
+<td style="background: #DBDBFF; color:#000000;">29<br />(−2)
+</td>
+<td style="background: #DBDBFF; color:#000000;">29<br />(−2)
+</td>
+<td style="background: #FFD2A5; color:#000000;">52<br />(11)
+</td>
+<td style="background: #FFBD7C; color:#000000;">58<br />(14)
+</td>
+<td style="background: #FFAF60; color:#000000;">60<br />(16)
+</td>
+<td style="background: #FFFBF8; color:#000000;">41<br />(5)
+</td>
+<td style="background: #E6E6FF; color:#000000;">32<br />(0)
+</td>
+<td style="background: #C6C6FF; color:#000000;">21<br />(−6)
+</td>
+<td style="background: #A0A0FF; color:#000000;">8<br />(−13)
+</td>
+<td style="background: #9595FF; color:#000000; border-left-width:medium">5<br />(−15)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> inches (mm)
+</th>
+<td style="background: #29FF29; color:#000000;">5.64<br />(143)
+</td>
+<td style="background: #18FF18; color:#000000;">5.56<br />(141)
+</td>
+<td style="background: #25FF25; color:#000000;">5.73<br />(146)
+</td>
+<td style="background: #50FF50; color:#000000;">4.44<br />(113)
+</td>
+<td style="background: #44FF44; color:#000000;">4.91<br />(125)
+</td>
+<td style="background: #00FB00; color:#000000;">6.60<br />(168)
+</td>
+<td style="background: #00CE00; color:#000000;">8.05<br />(204)
+</td>
+<td style="background: #00ED00; color:#000000;">7.20<br />(183)
+</td>
+<td style="background: #16FF16; color:#000000;">5.94<br />(151)
+</td>
+<td style="background: #5EFF5E; color:#000000;">4.25<br />(108)
+</td>
+<td style="background: #3CFF3C; color:#000000;">4.98<br />(126)
+</td>
+<td style="background: #52FF52; color:#000000;">4.57<br />(116)
+</td>
+<td style="background: #24FF24; color:#000000; border-left-width:medium">67.87<br />(1,724)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average precipitation days <span style="font-size:90%;" class="nowrap">(≥ 0.01 in)</span>
+</th>
+<td style="background: #7F7FFF; color:#000000;">10.3
+</td>
+<td style="background: #7D7DFF; color:#000000;">9.6
+</td>
+<td style="background: #9494FF; color:#000000;">8.6
+</td>
+<td style="background: #A9A9FF; color:#000000;">6.7
+</td>
+<td style="background: #A3A3FF; color:#000000;">7.4
+</td>
+<td style="background: #6767FF; color:#000000;">11.9
+</td>
+<td style="background: #5252FF; color:#FFFFFF;">14.0
+</td>
+<td style="background: #4E4EFF; color:#FFFFFF;">14.3
+</td>
+<td style="background: #7979FF; color:#000000;">10.5
+</td>
+<td style="background: #A8A8FF; color:#000000;">7.0
+</td>
+<td style="background: #9999FF; color:#000000;">8.0
+</td>
+<td style="background: #8787FF; color:#000000;">9.7
+</td>
+<td style="background: #8383FF; color:#000000; border-left-width:medium">118.0
+</td></tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: NOAA<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=4" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="border-spacing: 1px; float: right; clear: right; margin: 0 0 1em 1em; text-align:right">
+
+<tbody><tr>
+<th colspan="4" class="navbox-title" style="padding-right:3px; padding-left:3px; font-size:110%; text-align:center">Historical population
+</th></tr>
+<tr>
+<th style="text-align:center; border-bottom:1px solid black">Census</th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Population">Pop.</abbr></th>
+<th style="text-align:center; border-bottom:1px solid black"></th>
+<th style="text-align:center; border-bottom:1px solid black"><abbr title="Percent change">%±</abbr>
+</th></tr><tr><td style="text-align:center"><b><a href="/wiki/1910_United_States_Census" title="1910 United States Census">1910</a></b></td><td style="padding-left:8px;">590</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">—</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1920_United_States_Census" title="1920 United States Census">1920</a></b></td><td style="padding-left:8px;">853</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">44.6%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1930_United_States_Census" title="1930 United States Census">1930</a></b></td><td style="padding-left:8px;">1,549</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">81.6%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1940_United_States_Census" title="1940 United States Census">1940</a></b></td><td style="padding-left:8px;">1,845</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">19.1%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1950_United_States_Census" title="1950 United States Census">1950</a></b></td><td style="padding-left:8px;">3,354</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">81.8%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1960_United_States_Census" title="1960 United States Census">1960</a></b></td><td style="padding-left:8px;">4,858</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">44.8%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1970_United_States_Census" title="1970 United States Census">1970</a></b></td><td style="padding-left:8px;">5,720</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">17.7%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1980_United_States_Census" title="1980 United States Census">1980</a></b></td><td style="padding-left:8px;">7,286</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">27.4%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/1990_United_States_Census" title="1990 United States Census">1990</a></b></td><td style="padding-left:8px;">8,485</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">16.5%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/2000_United_States_Census" title="2000 United States Census">2000</a></b></td><td style="padding-left:8px;">12,480</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">47.1%</td></tr><tr><td style="text-align:center"><b><a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010</a></b></td><td style="padding-left:8px;">15,326</td><td style="font-size:85%"></td><td style="padding-left:8px; text-align: center;">22.8%</td></tr><tr><td style="text-align:center"><b>Est. 2019</b></td><td style="padding-left:0px;">22,677</td><td style="font-size:85%"><sup id="cite_ref-USCensusEst2019_3-1" class="reference"><a href="#cite_note-USCensusEst2019-3">&#91;3&#93;</a></sup></td><td style="padding-left:8px; text-align: center;">48.0%</td></tr><tr><td colspan="4" style="border-top:1px solid black; font-size:85%; text-align:center">U.S. Decennial Census<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></td></tr>
+</tbody></table>
+<p>As of the <a href="/wiki/Census" title="Census">census</a> of 2010, there were 15,326 people, 6,732 households, and 4,395 families residing in the city. Its <a href="/wiki/Population_density" title="Population density">population density</a> was 1,271 per square mile (491/km<sup>2</sup>). There were 7,659 housing units at an average density of 634.5 per square mile (245.0/km<sup>2</sup>). The racial makeup of the city was 91.1% <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">White</a>, 6.2% <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Black</a>, 0.7% <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Asian</a>, 0.2% <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Native American</a>, 0.0% <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Pacific Islander</a>, 0.9% from <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">other races</a>, and 0.8% from two or more races. 2.8% of the population were <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Hispanic</a> or <a href="/wiki/Race_(United_States_Census)" class="mw-redirect" title="Race (United States Census)">Latino</a> of any race.
+</p><p>There were 6,732 households out of which 25.9% had children under the age of 18 living with them, 53.6% were <a href="/wiki/Marriage" title="Marriage">married couples</a> living together, 9.1% had a female householder with no husband present, and 34.7% were non-families. 31.2% of all households were made up of individuals and 17.1% had someone living alone who was 65 years of age or older. The average household size was 2.26 and the average family size was 2.84.
+</p><p>21.4% of the population was under the age of 18, 4.9% from 18 to 24, 20.4% from 25 to 44, 28.5% from 45 to 64, and 23.7% who were 65 years of age or older. The median age was 46 years. For every 100 females, there were 86.4 males. For every 100 females age 18 and over, there were 86.3 males. The median income for a household in the city was $66,157, and the median income for a family was $93,549. Males had a median income of $60,591 versus $36,218 for females. The <a href="/wiki/Per_capita_income" title="Per capita income">per capita income</a> for the city was $35,086. About 5.0% of families and 5.9% of the population were below the <a href="/wiki/Poverty_line" class="mw-redirect" title="Poverty line">poverty line</a>, including 9.8% of those under age 18 and 4.6% of those age 65 or over.
+</p>
+<h2><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=5" title="Edit section: Government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:180px;"><a href="/wiki/File:Karin_Wilson_2018.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/62/Karin_Wilson_2018.jpg" decoding="async" width="178" height="276" class="thumbimage" data-file-width="178" data-file-height="276" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Karin_Wilson_2018.jpg" class="internal" title="Enlarge"></a></div>Karin Wilson, Mayor of Fairhope</div></div></div>
+<p>Fairhope is governed by a mayor and five-person city council which was last elected in 2016. The mayor serves as the full-time city executive, while council members serve part-time.
+</p><p>Mayor: Karin Wilson.<br />
+Council members:
+</p>
+<ul><li>Jack Burrell</li>
+<li>Jay Robinson</li>
+<li>Jimmy Conyers</li>
+<li>Robert Brown</li>
+<li>Kevin Boone</li></ul>
+<h3><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=6" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Episcopal_Church_in_Fairhope,_Alabama.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Episcopal_Church_in_Fairhope%2C_Alabama.png/220px-Episcopal_Church_in_Fairhope%2C_Alabama.png" decoding="async" width="220" height="304" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Episcopal_Church_in_Fairhope%2C_Alabama.png/330px-Episcopal_Church_in_Fairhope%2C_Alabama.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Episcopal_Church_in_Fairhope%2C_Alabama.png/440px-Episcopal_Church_in_Fairhope%2C_Alabama.png 2x" data-file-width="519" data-file-height="716" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Episcopal_Church_in_Fairhope,_Alabama.png" class="internal" title="Enlarge"></a></div>Episcopal Church in Fairhope, Alabama</div></div></div>
+<p>Local and national real estate developers have built commercial facilities in the downtown area that are larger than have been historically allowed.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>Fairhope's building and <a href="/wiki/Zoning_ordinance" class="mw-redirect" title="Zoning ordinance">zoning ordinances</a> overlap with those of Baldwin County. Residents of the city want more control of construction projects near, but still outside the city limits, while residents outside the city limits want less city control of their property.<sup id="cite_ref-zoning_17-0" class="reference"><a href="#cite_note-zoning-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=7" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Fairhope's public schools are part of the <a href="/wiki/Baldwin_County_Public_Schools" class="mw-redirect" title="Baldwin County Public Schools">Baldwin County Public Schools</a> system</b>:
+</p>
+<ul><li><a href="/wiki/Fairhope_High_School" title="Fairhope High School">Fairhope High School</a> (9–12)&#160;&#8211;&#32;1,142 students, Principal Jon Cardwell.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Fairhope High School is located in the southernmost part of Fairhope. It is estimated that 39% of the city of Fairhope's high school age students attend <a href="/wiki/Daphne_High_School" title="Daphne High School">Daphne High School</a> that is north of Fairhope.</li>
+<li>Fairhope Middle School (7–8)&#160;&#8211;&#32;642 students, Principal Angie Hall</li>
+<li>J.<span class="nowrap">&#160;</span>Larry Newton School (K–6)&#160;&#8211;&#32;731 students, Principal Patrice Krueger, (<a href="/wiki/Barnwell,_Alabama" title="Barnwell, Alabama">Barnwell, Alabama</a>)</li>
+<li>Fairhope Intermediate School (4–6)&#160;&#8211;&#32;397 students, Princial</li>
+<li>Fairhope Elementary School (K–3)&#160;&#8211;&#32;278 students, Principal</li></ul>
+<p><b>Other schools in Fairhope include</b>:
+</p>
+<ul><li><a href="/wiki/The_Marietta_Johnson_School_of_Organic_Education" class="mw-redirect" title="The Marietta Johnson School of Organic Education">The Marietta Johnson School of Organic Education</a>&#160;&#8211;&#32;continues to operate as a private school with approximately 20 students as of 2017. The school offers education to life groups that traditionally span 1st through 8th grades.</li>
+<li><a href="/wiki/St._Michael_Catholic_High_School_(Alabama)" title="St. Michael Catholic High School (Alabama)">St. Michael Catholic High School</a>&#160;&#8211;&#32;beginning in 2016 with grades 9–10, adding a grade each year thereafter for a total enrollment between 360–400</li>
+<li><a href="/w/index.php?title=Bayshore_Christian_School_(Alabama)&amp;action=edit&amp;redlink=1" class="new" title="Bayshore Christian School (Alabama) (page does not exist)">Bayshore Christian School</a>&#160;&#8211;&#32;beginning in 2002 with Kindergarten, adding a grade each year thereafter, currently offering PreK-12th grade for a total enrollment between 440{ndash}}480</li>
+<li><a href="/wiki/Faulkner_State_Community_College" class="mw-redirect" title="Faulkner State Community College">Faulkner State Community College</a>&#160;&#8211;&#32;has a campus in Fairhope that provides <a href="/wiki/Adult_education" title="Adult education">adult education</a>, undergraduate courses, non-credit and community service programs</li>
+<li>The <a href="/wiki/University_of_South_Alabama" title="University of South Alabama">University of South Alabama</a>&#160;&#8211;&#32;has a branch campus in Fairhope providing graduate and upper-level undergraduate courses in education, counseling, nursing and business alongside non-credit and community service programs</li></ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=8" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Pinky_Bass" title="Pinky Bass">Pinky Bass</a>, photographer</li>
+<li><a href="/wiki/Bob_Baumhower" title="Bob Baumhower">Bob Baumhower</a>, football player (University of Alabama &amp; Miami Dolphins)</li>
+<li><a href="/wiki/Rick_Bragg" title="Rick Bragg">Rick Bragg</a>, author, former <i>New York Times</i> columnist</li>
+<li><a href="/wiki/Jimmy_Buffett" title="Jimmy Buffett">Jimmy Buffett</a>, singer and songwriter</li>
+<li><a href="/wiki/Grayson_Capps" title="Grayson Capps">Grayson Capps</a>, singer songwriter</li>
+<li><a href="/wiki/Eugenia_S._Chapman" title="Eugenia S. Chapman">Eugenia S. Chapman</a>, educator and Illinois state representative</li>
+<li><a href="/wiki/Dave_Edwards_(musician)" title="Dave Edwards (musician)">Dave Edwards</a>, musician</li>
+<li><a href="/wiki/Grant_Enfinger" title="Grant Enfinger">Grant Enfinger</a>, professional <a href="/wiki/Race_car_driver" class="mw-redirect" title="Race car driver">race car driver</a></li>
+<li><a href="/wiki/Fannie_Flagg" title="Fannie Flagg">Fannie Flagg</a>, author and actress</li>
+<li><a href="/wiki/Abbi_Glines" title="Abbi Glines">Abbi Glines</a>, bestselling new-adult fiction novelist</li>
+<li><a href="/wiki/Fred_Nall_Hollis" title="Fred Nall Hollis">Fred Nall Hollis</a> (Nall), artist</li>
+<li><a href="/wiki/Marie_Howland" title="Marie Howland">Marie Howland</a>, utopian and journalist</li>
+<li><a href="/wiki/Marietta_Johnson" title="Marietta Johnson">Marietta Johnson</a>, educator and reformer</li>
+<li><a href="/wiki/David_King_(defensive_back)" title="David King (defensive back)">David King</a>, former <a href="/wiki/National_Football_League" title="National Football League">NFL</a> defensive back</li>
+<li><a href="/wiki/Leon_Lett" title="Leon Lett">Leon Lett</a>, football player (<a href="/wiki/Dallas_Cowboys" title="Dallas Cowboys">Dallas Cowboys</a>)</li>
+<li><a href="/wiki/Dean_Mosher" title="Dean Mosher">Dean Mosher</a>, artist, author, and historian</li>
+<li><a href="/wiki/George_M._Murray_(bishop)" title="George M. Murray (bishop)">George M. Murray</a>, <a href="/wiki/Bishop" title="Bishop">bishop</a> in the <a href="/wiki/Episcopal_Church_(United_States)" title="Episcopal Church (United States)">Episcopal Church</a></li>
+<li><a href="/wiki/Burton_Ritchie" title="Burton Ritchie">Burton Ritchie</a>, entrepreneur and philanthropist</li>
+<li><a href="/wiki/Janie_Shores" title="Janie Shores">Janie Shores</a>, Alabama Supreme Court justice</li>
+<li><a href="/wiki/Eddie_Stanky" title="Eddie Stanky">Eddie Stanky</a>, Major League Baseball player and manager</li>
+<li><a href="/wiki/Dave_Stapleton_(infielder)" title="Dave Stapleton (infielder)">Dave Stapleton</a>, former baseball player for <a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a></li>
+<li><a href="/wiki/Thompson_Square" title="Thompson Square">Thompson Square</a>, country music duo<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li>
+<li><a href="/wiki/Bill_Varney" title="Bill Varney">Bill Varney</a>, <a href="/wiki/Academy_Award" class="mw-redirect" title="Academy Award">Academy Award</a>-winning film <a href="/wiki/Sound_editor_(filmmaking)" title="Sound editor (filmmaking)">sound editor</a> (<i><a href="/wiki/Raiders_of_the_Lost_Ark" title="Raiders of the Lost Ark">Raiders of the Lost Ark</a></i>, <i><a href="/wiki/The_Empire_Strikes_Back" title="The Empire Strikes Back">The Empire Strikes Back</a></i>)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li>
+<li><a href="/wiki/Bob_Weltlich" title="Bob Weltlich">Bob Weltlich</a>, former <a href="/wiki/College_basketball" title="College basketball">college basketball</a> coach</li>
+<li class="mw-empty-elt"></li></ul></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul>
+<li><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" decoding="async" width="32" height="17" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span><span><a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></span></li>
+<li><span><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/28px-Terra.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/42px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/56px-Terra.png 2x" data-file-width="599" data-file-height="599" /></span><span><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography portal</a></span></li>
+<li><span><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/28px-A_coloured_voting_box.svg.png" decoding="async" width="28" height="28" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/56px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Eastern_Shore_(Alabama)" title="Eastern Shore (Alabama)">Eastern Shore (Alabama)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-CenPopGazetteer2016-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-CenPopGazetteer2016_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2018_Gazetteer/2018_gaz_place_01.txt">"2018 U.S. Gazetteer Files"</a>. United States Census Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2018+U.S.+Gazetteer+Files&amp;rft.pub=United+States+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww2.census.gov%2Fgeo%2Fdocs%2Fmaps-data%2Fdata%2Fgazetteer%2F2018_Gazetteer%2F2018_gaz_place_01.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Ulrich's International Periodicals Directory 1997</i>. 35, Part 5. New York City: <a href="/wiki/R._R._Bowker_Company" class="mw-redirect" title="R. R. Bowker Company">R. R. Bowker Company</a>. p.&#160;9957.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ulrich%27s+International+Periodicals+Directory+1997&amp;rft.place=New+York+City&amp;rft.pages=9957&amp;rft.pub=R.+R.+Bowker+Company&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMohave+Valley+Daily+News" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=oTE1AQAAIAAJ&amp;q=%22Mohave+Valley+Daily+News%22&amp;dq=%22Mohave+Valley+Daily+News%22&amp;hl=en&amp;ei=QFwdTva-IYzUgQeC2NXvCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CEsQ6AEwBA">[2]</a></span>
+<li id="cite_note-2013_Pop_Estimate-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2013_Pop_Estimate_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140522161634/http://www.census.gov/popest/data/cities/totals/2013/SUB-EST2013-3.html">"Population Estimates"</a>. <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>. Archived from <a rel="nofollow" class="external text" href="https://www.census.gov/popest/data/cities/totals/2013/SUB-EST2013-3.html">the original</a> on May 22, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+Estimates&amp;rft.pub=United+States+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fpopest%2Fdata%2Fcities%2Ftotals%2F2013%2FSUB-EST2013-3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
 </li>
-</ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.mohavedailynews.com/">Official website</a></span></span></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Brehm_Communications" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Brehm" title="Template:Brehm"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Brehm&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Brehm (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Brehm&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Brehm_Communications" style="font-size:114%;margin:0 4em">Brehm Communications</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Daily newspapers</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/Auburn_Journal" title="Auburn Journal">Auburn Journal</a></i></li>
-<li><i><a href="/w/index.php?title=Daily_Democrat_(California_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Daily Democrat (California newspaper) (page does not exist)">Daily Democrat</a></i></li>
-<li><i><a href="/w/index.php?title=Daily_Gate_City&amp;action=edit&amp;redlink=1" class="new" title="Daily Gate City (page does not exist)">Daily Gate City</a></i></li>
-<li><i><a href="/w/index.php?title=Fort_Madison_Daily_Democrat&amp;action=edit&amp;redlink=1" class="new" title="Fort Madison Daily Democrat (page does not exist)">Fort Madison Daily Democrat</a></i></li>
-<li><i><a href="/w/index.php?title=Daily_Republican_Register&amp;action=edit&amp;redlink=1" class="new" title="Daily Republican Register (page does not exist)">Daily Republican Register</a></i></li>
-<li><i><a class="mw-selflink selflink">Mohave Valley Daily News</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Weekly newspapers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/w/index.php?title=Barstow_Log&amp;action=edit&amp;redlink=1" class="new" title="Barstow Log (page does not exist)">Barstow Log</a></i></li>
-<li><i><a href="/wiki/Big_Bear_Grizzly" title="Big Bear Grizzly">Big Bear Grizzly</a></i></li>
-<li><i><a href="/w/index.php?title=The_Bullhead_City_Booster&amp;action=edit&amp;redlink=1" class="new" title="The Bullhead City Booster (page does not exist)">The Bullhead City Booster</a></i> (2X weekly)</li>
-<li><i><a href="/w/index.php?title=Colfax_Record&amp;action=edit&amp;redlink=1" class="new" title="Colfax Record (page does not exist)">Colfax Record</a></i></li>
-<li><i><a href="/w/index.php?title=Desert_Mobile_Home_News&amp;action=edit&amp;redlink=1" class="new" title="Desert Mobile Home News (page does not exist)">Desert Mobile Home News</a></i></li>
-<li><i><a href="/w/index.php?title=The_Desert_Trail_(newspaper)&amp;action=edit&amp;redlink=1" class="new" title="The Desert Trail (newspaper) (page does not exist)">The Desert Trail</a></i></li>
-<li><i><a href="/w/index.php?title=El_Dorado_Hills_Telegraph&amp;action=edit&amp;redlink=1" class="new" title="El Dorado Hills Telegraph (page does not exist)">El Dorado Hills Telegraph</a></i></li>
-<li><i><a href="/w/index.php?title=Emery_County_Progress&amp;action=edit&amp;redlink=1" class="new" title="Emery County Progress (page does not exist)">Emery County Progress</a></i></li>
-<li><i><a href="/w/index.php?title=The_Folsom_Telegraph&amp;action=edit&amp;redlink=1" class="new" title="The Folsom Telegraph (page does not exist)">The Folsom Telegraph</a></i></li>
-<li><i><a href="/w/index.php?title=Gibson_County_Today&amp;action=edit&amp;redlink=1" class="new" title="Gibson County Today (page does not exist)">Gibson County Today</a></i></li>
-<li><i><a href="/w/index.php?title=The_Granite_Bay_View&amp;action=edit&amp;redlink=1" class="new" title="The Granite Bay View (page does not exist)">The Granite Bay View</a></i></li>
-<li><i><a href="/w/index.php?title=Grizzly_Weekender&amp;action=edit&amp;redlink=1" class="new" title="Grizzly Weekender (page does not exist)">Grizzly Weekender</a></i></li>
-<li><i><a href="/w/index.php?title=Hancock_County_Journal-Pilot&amp;action=edit&amp;redlink=1" class="new" title="Hancock County Journal-Pilot (page does not exist)">Hancock County Journal-Pilot</a></i></li>
-<li><i><a href="/wiki/Hi-Desert_Star" title="Hi-Desert Star">Hi-Desert Star</a></i> (2X weekly)</li>
-<li><i><a href="/w/index.php?title=The_Laughlin_Nevada_Times&amp;action=edit&amp;redlink=1" class="new" title="The Laughlin Nevada Times (page does not exist)">The Laughlin Nevada Times</a></i></li>
-<li><i><a href="/w/index.php?title=Lincoln_News_Messenger&amp;action=edit&amp;redlink=1" class="new" title="Lincoln News Messenger (page does not exist)">Lincoln News Messenger</a></i></li>
-<li><i><a href="/w/index.php?title=The_Loomis_News&amp;action=edit&amp;redlink=1" class="new" title="The Loomis News (page does not exist)">The Loomis News</a></i></li>
-<li><i><a href="/w/index.php?title=Mountain_News&amp;action=edit&amp;redlink=1" class="new" title="Mountain News (page does not exist)">Mountain News</a></i></li>
-<li><i><a href="/w/index.php?title=Needles_Desert_Star&amp;action=edit&amp;redlink=1" class="new" title="Needles Desert Star (page does not exist)">Needles Desert Star</a></i></li>
-<li><i><a href="/w/index.php?title=Oakland_City_Journal&amp;action=edit&amp;redlink=1" class="new" title="Oakland City Journal (page does not exist)">Oakland City Journal</a></i></li>
-<li><i><a href="/w/index.php?title=Observation_Post_(newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Observation Post (newspaper) (page does not exist)">Observation Post</a></i></li>
-<li><i><a href="/w/index.php?title=The_Placer_Herald&amp;action=edit&amp;redlink=1" class="new" title="The Placer Herald (page does not exist)">The Placer Herald</a></i></li>
-<li><i><a href="/w/index.php?title=The_Press-Tribune&amp;action=edit&amp;redlink=1" class="new" title="The Press-Tribune (page does not exist)">The Press-Tribune</a></i></li>
-<li><i><a href="/wiki/The_Richfield_Reaper" title="The Richfield Reaper">The Richfield Reaper</a></i></li>
-<li><i><a href="/w/index.php?title=The_Standard_(Indiana_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="The Standard (Indiana newspaper) (page does not exist)">The Standard</a></i></li>
-<li><i><a href="/wiki/Sun_Advocate" title="Sun Advocate">Sun Advocate</a></i></li>
-<li><i><a href="/w/index.php?title=The_Vernal_Express&amp;action=edit&amp;redlink=1" class="new" title="The Vernal Express (page does not exist)">The Vernal Express</a></i></li>
-<li><i><a href="/w/index.php?title=Uintah_Basin_Standard&amp;action=edit&amp;redlink=1" class="new" title="Uintah Basin Standard (page does not exist)">Uintah Basin Standard</a></i></li>
-<li><i><a href="/w/index.php?title=Wabash_and_Edwards_Today&amp;action=edit&amp;redlink=1" class="new" title="Wabash and Edwards Today (page does not exist)">Wabash and Edwards Today</a></i></li>
-<li><i><a href="/w/index.php?title=Wickenburg_Sun&amp;action=edit&amp;redlink=1" class="new" title="Wickenburg Sun (page does not exist)">Wickenburg Sun</a></i></li>
-<li><i><a href="/w/index.php?title=Warrick_County_Today&amp;action=edit&amp;redlink=1" class="new" title="Warrick County Today (page does not exist)">Warrick County Today</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other papers</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i>Auburn Trader</i></li>
-<li><i>Big Bear Shopper</i></li>
-<li><i>Bonny Buyer North</i></li>
-<li><i>Bonny Buyer South</i></li>
-<li><i>Central Coast Day Trips</i></li>
-<li><i>Clippin' the River</i></li>
-<li><i>Colorado River Real Estate Magazine</i></li>
-<li><i>Desert Entertainer</i></li>
-<li><i>Entertainer</i></li>
-<li><i>Foothills Entertainer</i></li>
-<li><i>Hi-Desert Shopper</i></li>
-<li><i>Mountain Shopper</i></li>
-<li><i>Napa Valley Day Trips</i></li>
-<li><i>Smart Shopper</i></li>
-<li><i>Sonoma County Day Trips</i></li>
-<li><i>The Reaper Extra</i></li>
-<li><i>Tri-State Outdoor News</i></li>
-<li><i>Wine Country This Week</i></li>
-<li><i>Wine Country This Month</i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other print services</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li>Gold Country Printing</li>
-<li>Valley Independent Printing</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Divisions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li>Auburn Journal, Inc.</li>
-<li>Big Bear Grizzly</li>
-<li>Gold Country Printing</li>
-<li>The Democrat Company - Democrat Division</li>
-<li>The Democrat Company - Gate City Division</li>
-<li>Gull Communications, Inc.</li>
-<li>Hi-Desert Publishing Co., Inc. - Hi-Desert Division</li>
-<li>Hi-Desert Publishing Co., Inc. - Mountain Division</li>
-<li>Mt. Carmel Register Company</li>
-<li>News West Publishing Co., Inc.</li>
-<li>Placer Community Newspapers, Inc.</li>
-<li>Princeton Publishing Company, Inc.</li>
-<li>Warrick Publishing Co., Inc.</li>
-<li>Wine Country Publications, Inc.</li></ul>
+<li id="cite_note-USCensusEst2019-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-USCensusEst2019_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USCensusEst2019_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/programs-surveys/popest/data/tables.2019.html">"Population and Housing Unit Estimates"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 21,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+and+Housing+Unit+Estimates&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fprograms-surveys%2Fpopest%2Fdata%2Ftables.2019.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Census_2010-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Census_2010_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Census_2010_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.today/20200212161620/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0125240">"Geographic Identifiers: 2010 Demographic Profile Data (G001): Fairhope city, Alabama"</a>. U.S. Census Bureau, American Factfinder. Archived from <a rel="nofollow" class="external text" href="http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0125240">the original</a> on February 12, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">September 9,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Geographic+Identifiers%3A+2010+Demographic+Profile+Data+%28G001%29%3A+Fairhope+city%2C+Alabama&amp;rft.pub=U.S.+Census+Bureau%2C+American+Factfinder&amp;rft_id=http%3A%2F%2Ffactfinder.census.gov%2Fbkmk%2Ftable%2F1.0%2Fen%2FDEC%2F10_DP%2FG001%2F1600000US0125240&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFLucy_Berry2016" class="citation web">Lucy Berry (February 23, 2016). <a rel="nofollow" class="external text" href="http://www.al.com/news/index.ssf/2016/02/2_alabama_cities_among_souther.html">"2 Alabama cities among Southern Living's 2016 Best Small Towns in the South"</a>. <i>Press-Register</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160918191850/http://www.al.com/news/index.ssf/2016/02/2_alabama_cities_among_souther.html">Archived</a> from the original on September 18, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">February 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Press-Register&amp;rft.atitle=2+Alabama+cities+among+Southern+Living%27s+2016+Best+Small+Towns+in+the+South&amp;rft.date=2016-02-23&amp;rft.au=Lucy+Berry&amp;rft_id=http%3A%2F%2Fwww.al.com%2Fnews%2Findex.ssf%2F2016%2F02%2F2_alabama_cities_among_souther.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110515141657/http://www.fairhopesingletax.com/fhistory2009.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fairhopesingletax.com/fhistory2009.html">the original</a> on May 15, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.fairhopesingletax.com%2Ffhistory2009.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-fairhopesingletax.com-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-fairhopesingletax.com_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fairhopesingletax.com_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fairhopesingletax.com/">"Fairhope Single Tax Corporation"</a>. <i>Fairhope Single Tax Corporation</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170919231422/https://www.fairhopesingletax.com/">Archived</a> from the original on September 19, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fairhope+Single+Tax+Corporation&amp;rft.atitle=Fairhope+Single+Tax+Corporation&amp;rft_id=http%3A%2F%2Fwww.fairhopesingletax.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110515141532/http://www.fairhopesingletax.com/faq2009.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fairhopesingletax.com/faq2009.html">the original</a> on May 15, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.fairhopesingletax.com%2Ffaq2009.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://landlordsgame.info/games/lg-1906/lg-1906_egc-rules.html">"Game Rules – The Landlord's Game – Economic Game Company"</a>. <i>landlordsgame.info</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170809005634/http://landlordsgame.info/games/lg-1906/lg-1906_egc-rules.html">Archived</a> from the original on August 9, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=landlordsgame.info&amp;rft.atitle=Game+Rules+%E2%80%93+The+Landlord%27s+Game+%E2%80%93+Economic+Game+Company&amp;rft_id=http%3A%2F%2Flandlordsgame.info%2Fgames%2Flg-1906%2Flg-1906_egc-rules.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Lauren Coodley. (2013) Upton Sinclair: California Socialist, Celebrity Intellectual. Lincoln, Nebraska: University of Nebraska Press. 2013</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"Fairhope Campus" <a href="/wiki/Faulkner_State_Community_College" class="mw-redirect" title="Faulkner State Community College">Faulkner State Community College</a>, June 28, 2006, webpage: <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070128110441/http://www.faulkner.cc.al.us/locations/fairhope">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.faulkner.cc.al.us/locations/fairhope">the original</a> on January 28, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.faulkner.cc.al.us%2Flocations%2Ffairhope&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/>.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Census Gazetteer, 2010, webpage: <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120112090031/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt">the original</a> on January 12, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgeo%2Fwww%2Fgazetteer%2Ffiles%2FGaz_places_national.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/>.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nws.noaa.gov/climate/xmacis.php?wfo=mob">"National Weather Service Climate"</a>. National Oceanic and Atmospheric Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">May 4,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Weather+Service+Climate&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.nws.noaa.gov%2Fclimate%2Fxmacis.php%3Fwfo%3Dmob&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ncdc.noaa.gov/pub/data/normals/1981-2010/products/station/USC00012813.normals.txt">"WMO Climate Normals for Fairhope 2 NE"</a>. National Oceanic and Atmospheric Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">November 18,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WMO+Climate+Normals+for+Fairhope+2+NE&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=ftp%3A%2F%2Fftp.ncdc.noaa.gov%2Fpub%2Fdata%2Fnormals%2F1981-2010%2Fproducts%2Fstation%2FUSC00012813.normals.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFUnited_States_Census_Bureau" class="citation web"><a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a>. <a rel="nofollow" class="external text" href="https://www.census.gov/programs-surveys/decennial-census.html">"Census of Population and Housing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Census+of+Population+and+Housing&amp;rft.au=United+States+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fprograms-surveys%2Fdecennial-census.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><i>History of Fairhope 1954-present</i> Mobile: Putman, 2006</span>
+</li>
+<li id="cite_note-zoning-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-zoning_17-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFKnight2007" class="citation news">Knight, Paul (June 29, 2007). "Residents call for increased accountability". <i>Mobile Register (Mobile)</i> (newspaper). Advance Publications. p.&#160;Baldwin Register, 01.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mobile+Register+%28Mobile%29&amp;rft.atitle=Residents+call+for+increased+accountability&amp;rft.pages=Baldwin+Register%2C+01&amp;rft.date=2007-06-29&amp;rft.aulast=Knight&amp;rft.aufirst=Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fairhopehs.com/?PageName=&#39;PrincipalsCorner&#39;">"Fairhope High School / Homepage"</a>. <i>www.fairhopehs.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140203092015/http://www.fairhopehs.com/?PageName=&#39;PrincipalsCorner&#39;">Archived</a> from the original on February 3, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.fairhopehs.com&amp;rft.atitle=Fairhope+High+School+%2F+Homepage&amp;rft_id=http%3A%2F%2Fwww.fairhopehs.com%2F%3FPageName%3D%27PrincipalsCorner%27&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://thesouthernrambler.com/for-thompson-square-nashville-is-work-and-fairhope-is-home/">"For Thompson Square, Nashville is Work and Fairhope is Home"</a>. The Southern Rambler. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171215132000/http://thesouthernrambler.com/for-thompson-square-nashville-is-work-and-fairhope-is-home/">Archived</a> from the original on December 15, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">February 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=For+Thompson+Square%2C+Nashville+is+Work+and+Fairhope+is+Home&amp;rft.pub=The+Southern+Rambler&amp;rft_id=http%3A%2F%2Fthesouthernrambler.com%2Ffor-thompson-square-nashville-is-work-and-fairhope-is-home%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://obits.al.com/obituaries/mobile/obituary.aspx?n=Harold-Varney&amp;pid=150005285">"Harold William (Bill) Varney"</a>. <i>Press-Register</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110724154010/http://obits.al.com/obituaries/mobile/obituary.aspx?n=Harold-Varney&amp;pid=150005285">Archived</a> from the original on July 24, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 9,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Press-Register&amp;rft.atitle=Harold+William+%28Bill%29+Varney&amp;rft_id=http%3A%2F%2Fobits.al.com%2Fobituaries%2Fmobile%2Fobituary.aspx%3Fn%3DHarold-Varney%26pid%3D150005285&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFairhope%2C+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dian Arnold. (1999) "Fairhope: A Sentimental Review." <a rel="nofollow" class="external text" href="http://www.henrygeorge.org/dian.htm">link</a></li>
+<li>Paul E. and Blanche R. Alyea. (1956) "Fairhope, 1894–1954: The Story of a Single Tax Colony." Tuscaloosa: University of Alabama Press.</li>
+<li>Paul M. Gaston. (1984) <i>Women of Fair Hope.</i> Athens, Georgia: University of Georgia Press. Black Belt Press, 1993.</li>
+<li>Paul M. Gaston. (1993) <i>Man and Mission: E. B. Gaston and the Origins of the Fairhope Single Tax Colony.</i> Montgomery, Alabama: Black Belt Press.</li>
+<li>Paul M. Gaston (2010) "Coming of Age in Utopia: The Odyssey of an Idea." Montgomery and Louisville: NewSouth Books.</li>
+<li>Paul M. Gaston. (2004) "My Yellow Ribbon Town: A Meditation on My Country and My Home." in <i>Where We Stand: Voices of Southern Dissent.</i> Montgomery, Alabama: New South Books. <a rel="nofollow" class="external text" href="http://www.archipelago.org/vol8-2/gaston.htm">link</a></li>
+<li>Paul M. Gaston. (1985) "Gaston, Ernest Berry." in "Alden Whitman, ed., "American Reformers. New York: The H.W. Wilson Co.</li>
+<li>Mary Lois Timbes and Robert E. Bell. (2001) "Meet Me at the Butterfly Tree: A Fairhope Memoir." Fairhope: Over the Transom.</li>
+<li>Cathy Donelson, foreword by Fannie Flagg. (2005) "Fairhope." Charleston, South Carolina: Arcadia Publishing.</li>
+<li>Cathy Donelson. (2013) "Fairhope in the Roaring Twenties." Charleston, South Carolina: Arcadia Publishing.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.cofairhope.com">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q79502#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eschamber.com/">Eastern Shore Chamber of Commerce</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_and_communities_of_Baldwin_County,_Alabama,_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Baldwin_County,_Alabama" title="Template:Baldwin County, Alabama"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Baldwin_County,_Alabama" title="Template talk:Baldwin County, Alabama"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Baldwin_County,_Alabama&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipalities_and_communities_of_Baldwin_County,_Alabama,_United_States" class="adr" style="font-size:114%;margin:0 4em">Municipalities and communities of <a href="/wiki/Baldwin_County,_Alabama" title="Baldwin County, Alabama"><span class="region">Baldwin County, Alabama</span></a>, <span class="country-name">United States</span></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="County_seat:_Bay_Minette"><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="/wiki/Bay_Minette,_Alabama" title="Bay Minette, Alabama"><span>Bay Minette</span></a></b></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City" title="City">Cities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bay_Minette,_Alabama" title="Bay Minette, Alabama">Bay Minette</a></li>
+<li><a href="/wiki/Daphne,_Alabama" title="Daphne, Alabama">Daphne</a></li>
+<li><a class="mw-selflink selflink">Fairhope</a></li>
+<li><a href="/wiki/Foley,_Alabama" title="Foley, Alabama">Foley</a></li>
+<li><a href="/wiki/Gulf_Shores,_Alabama" title="Gulf Shores, Alabama">Gulf Shores</a></li>
+<li><a href="/wiki/Orange_Beach,_Alabama" title="Orange Beach, Alabama">Orange Beach</a></li>
+<li><a href="/wiki/Robertsdale,_Alabama" title="Robertsdale, Alabama">Robertsdale</a></li>
+<li><a href="/wiki/Spanish_Fort,_Alabama" title="Spanish Fort, Alabama">Spanish Fort</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><div class="center"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Map_of_Alabama_highlighting_Baldwin_County.svg/63px-Map_of_Alabama_highlighting_Baldwin_County.svg.png" decoding="async" title="Map of Alabama highlighting Baldwin County" width="63" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Map_of_Alabama_highlighting_Baldwin_County.svg/95px-Map_of_Alabama_highlighting_Baldwin_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Map_of_Alabama_highlighting_Baldwin_County.svg/126px-Map_of_Alabama_highlighting_Baldwin_County.svg.png 2x" data-file-width="3379" data-file-height="5346" /></div></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Town" title="Town">Towns</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Elberta,_Alabama" title="Elberta, Alabama">Elberta</a></li>
+<li><a href="/wiki/Loxley,_Alabama" title="Loxley, Alabama">Loxley</a></li>
+<li><a href="/wiki/Magnolia_Springs,_Alabama" title="Magnolia Springs, Alabama">Magnolia Springs</a></li>
+<li><a href="/wiki/Perdido_Beach,_Alabama" title="Perdido Beach, Alabama">Perdido Beach</a></li>
+<li><a href="/wiki/Silverhill,_Alabama" title="Silverhill, Alabama">Silverhill</a></li>
+<li><a href="/wiki/Summerdale,_Alabama" title="Summerdale, Alabama">Summerdale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Census-designated_place" title="Census-designated place">CDP</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Point_Clear,_Alabama" title="Point Clear, Alabama">Point Clear</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated<br />communities</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnwell,_Alabama" title="Barnwell, Alabama">Barnwell</a></li>
+<li><a href="/wiki/Battles_Wharf,_Alabama" title="Battles Wharf, Alabama">Battles Wharf</a></li>
+<li><a href="/wiki/Belforest,_Alabama" title="Belforest, Alabama">Belforest</a></li>
+<li><a href="/wiki/Blacksher,_Alabama" title="Blacksher, Alabama">Blacksher</a></li>
+<li><a href="/wiki/Bon_Secour,_Alabama" title="Bon Secour, Alabama">Bon Secour</a></li>
+<li><a href="/wiki/Bromley,_Alabama" title="Bromley, Alabama">Bromley</a></li>
+<li><a href="/wiki/Carpenter%27s_Station,_Alabama" title="Carpenter&#39;s Station, Alabama">Carpenter's Station</a></li>
+<li><a href="/wiki/Clay_City,_Alabama" title="Clay City, Alabama">Clay City</a></li>
+<li><a href="/wiki/Crossroads,_Alabama" title="Crossroads, Alabama">Crossroads</a></li>
+<li><a href="/wiki/Elsanor,_Alabama" title="Elsanor, Alabama">Elsanor</a></li>
+<li><a href="/wiki/Fort_Morgan,_Alabama" title="Fort Morgan, Alabama">Fort Morgan</a></li>
+<li><a href="/wiki/Gasque,_Alabama" title="Gasque, Alabama">Gasque</a></li>
+<li><a href="/wiki/Gateswood,_Alabama" title="Gateswood, Alabama">Gateswood</a></li>
+<li><a href="/wiki/Hurricane,_Alabama" title="Hurricane, Alabama">Hurricane</a></li>
+<li><a href="/wiki/Josephine,_Alabama" title="Josephine, Alabama">Josephine</a></li>
+<li><a href="/wiki/Latham,_Alabama" title="Latham, Alabama">Latham</a></li>
+<li><a href="/wiki/Lillian,_Alabama" title="Lillian, Alabama">Lillian</a></li>
+<li><a href="/wiki/Little_River,_Baldwin_County,_Alabama" title="Little River, Baldwin County, Alabama">Little River</a></li>
+<li><a href="/wiki/Malbis,_Alabama" title="Malbis, Alabama">Malbis</a></li>
+<li><a href="/wiki/Marlow,_Alabama" title="Marlow, Alabama">Marlow</a></li>
+<li><a href="/wiki/Miflin,_Alabama" title="Miflin, Alabama">Miflin</a></li>
+<li><a href="/wiki/Montrose,_Alabama" title="Montrose, Alabama">Montrose</a></li>
+<li><a href="/wiki/Oak,_Alabama" title="Oak, Alabama">Oak</a></li>
+<li><a href="/wiki/Ono_Island,_Alabama" title="Ono Island, Alabama">Ono Island</a></li>
+<li><a href="/wiki/Oyster_Bay,_Alabama" title="Oyster Bay, Alabama">Oyster Bay</a></li>
+<li><a href="/wiki/Perdido,_Alabama" title="Perdido, Alabama">Perdido</a></li>
+<li><a href="/wiki/Pine_Grove,_Alabama" title="Pine Grove, Alabama">Pine Grove</a></li>
+<li><a href="/wiki/Rabun,_Alabama" title="Rabun, Alabama">Rabun</a></li>
+<li><a href="/wiki/Seacliff,_Alabama" title="Seacliff, Alabama">Seacliff</a></li>
+<li><a href="/wiki/Seminole,_Alabama" title="Seminole, Alabama">Seminole</a></li>
+<li><a href="/wiki/Stapleton,_Alabama" title="Stapleton, Alabama">Stapleton</a></li>
+<li><a href="/wiki/Stockton,_Alabama" title="Stockton, Alabama">Stockton</a></li>
+<li><a href="/wiki/Swift,_Alabama" title="Swift, Alabama">Swift</a></li>
+<li><a href="/wiki/Tensaw,_Alabama" title="Tensaw, Alabama">Tensaw</a></li>
+<li><a href="/wiki/Yelling_Settlement,_Alabama" title="Yelling Settlement, Alabama">Yelling Settlement</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ghost_town" title="Ghost town">Ghost town</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blakeley,_Alabama" title="Blakeley, Alabama">Blakeley</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" decoding="async" width="32" height="17" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States&#32;portal</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q79502&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q79502&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q79502" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4433192-7">4433192-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79055599">n79055599</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/e03b466a-82c2-4dee-af56-f40575f43a44">e03b466a-82c2-4dee-af56-f40575f43a44</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/151257043">151257043</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79055599">lccn-n79055599</a></span></li></ul>
 </div></td></tr></tbody></table></div>
-<p><br />
-</p>
-<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Newspaper.svg/30px-Newspaper.svg.png" decoding="async" width="30" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Newspaper.svg/45px-Newspaper.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Newspaper.svg/60px-Newspaper.svg.png 2x" data-file-width="560" data-file-height="324" /> <a href="/wiki/File:Flag_of_Arizona.svg" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/30px-Flag_of_Arizona.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/45px-Flag_of_Arizona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/60px-Flag_of_Arizona.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td><td><i>This article about an Arizona newspaper is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Arizona-newspaper-stub" title="Template:Arizona-newspaper-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Arizona-newspaper-stub" title="Template talk:Arizona-newspaper-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Arizona-newspaper-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1349
-Cached time: 20200626030721
+Parsed by mw1328
+Cached time: 20200625190807
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.280 seconds
-Real time usage: 0.382 seconds
-Preprocessor visited node count: 914/1000000
-Post‐expand include size: 27107/2097152 bytes
-Template argument size: 842/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 0/500
+CPU time usage: 0.856 seconds
+Real time usage: 1.170 seconds
+Preprocessor visited node count: 6680/1000000
+Post‐expand include size: 118178/2097152 bytes
+Template argument size: 11951/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 13/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 15805/5000000 bytes
+Unstrip post‐expand size: 73044/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.143/10.000 seconds
-Lua memory usage: 2.9 MB/50 MB
+Lua time usage: 0.344/10.000 seconds
+Lua memory usage: 10.2 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  337.735      1 -total
- 41.32%  139.568      1 Template:Reflist
- 37.43%  126.415      1 Template:Infobox_newspaper
- 31.80%  107.396      1 Template:Infobox
- 30.62%  103.406      2 Template:Cite_web
-  8.55%   28.860      1 Template:Official
-  6.14%   20.727      1 Template:USA
-  6.06%   20.481      1 Template:Arizona-newspaper-stub
-  5.13%   17.340      1 Template:Flag
-  5.07%   17.133      1 Template:Asbox
+100.00%  988.436      1 -total
+ 33.32%  329.312      1 Template:Infobox_settlement
+ 27.44%  271.217      1 Template:Infobox
+ 18.89%  186.744      1 Template:Reflist
+ 15.02%  148.486     16 Template:Cite_web
+  7.23%   71.473      1 Template:Citation_needed
+  5.46%   53.960      1 Template:Weather_box
+  4.28%   42.328     10 Template:Convert
+  4.28%   42.298     12 Template:Round
+  4.08%   40.308      1 Template:US_Census_population
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:32398175-0!canonical and timestamp 20200626030721 and revision id 963956610
+<!-- Saved in parser cache with key enwiki:pcache:idhash:99889-0!canonical and timestamp 20200625190805 and revision id 961125359
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mohave_Valley_Daily_News&amp;oldid=963956610">https://en.wikipedia.org/w/index.php?title=Mohave_Valley_Daily_News&amp;oldid=963956610</a>"</div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Newspapers_published_in_Arizona" title="Category:Newspapers published in Arizona">Newspapers published in Arizona</a></li><li><a href="/wiki/Category:Newspapers_published_in_the_Western_United_States_stubs" title="Category:Newspapers published in the Western United States stubs">Newspapers published in the Western United States stubs</a></li><li><a href="/wiki/Category:Arizona_stubs" title="Category:Arizona stubs">Arizona stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Pages_using_infobox_newspaper_with_unknown_parameters" title="Category:Pages using infobox newspaper with unknown parameters">Pages using infobox newspaper with unknown parameters</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fairhope,_Alabama&amp;oldid=961125359">https://en.wikipedia.org/w/index.php?title=Fairhope,_Alabama&amp;oldid=961125359</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fairhope,_Alabama" title="Category:Fairhope, Alabama">Fairhope, Alabama</a></li><li><a href="/wiki/Category:1894_establishments_in_Alabama" title="Category:1894 establishments in Alabama">1894 establishments in Alabama</a></li><li><a href="/wiki/Category:Cities_in_Alabama" title="Category:Cities in Alabama">Cities in Alabama</a></li><li><a href="/wiki/Category:Cities_in_Baldwin_County,_Alabama" title="Category:Cities in Baldwin County, Alabama">Cities in Baldwin County, Alabama</a></li><li><a href="/wiki/Category:Georgist_communities" title="Category:Georgist communities">Georgist communities</a></li><li><a href="/wiki/Category:Populated_coastal_places_in_Alabama" title="Category:Populated coastal places in Alabama">Populated coastal places in Alabama</a></li><li><a href="/wiki/Category:Populated_places_established_in_1894" title="Category:Populated places established in 1894">Populated places established in 1894</a></li><li><a href="/wiki/Category:Utopian_communities" title="Category:Utopian communities">Utopian communities</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_December_2017" title="Category:Use mdy dates from December 2017">Use mdy dates from December 2017</a></li><li><a href="/wiki/Category:Use_American_English_from_December_2017" title="Category:Use American English from December 2017">Use American English from December 2017</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -205,7 +667,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mohave+Valley+Daily+News" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mohave+Valley+Daily+News" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fairhope%2C+Alabama" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fairhope%2C+Alabama" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
 		
 	</div>
 </nav>
@@ -221,7 +683,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Mohave_Valley_Daily_News" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Mohave_Valley_Daily_News" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Fairhope,_Alabama" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Fairhope,_Alabama" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
 		
 	</div>
 </nav>
@@ -254,7 +716,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Mohave_Valley_Daily_News">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Fairhope,_Alabama">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
 		
 	</div>
 </nav>
@@ -335,7 +797,21 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mohave_Valley_Daily_News" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mohave_Valley_Daily_News" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;oldid=963956610" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6893724" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mohave_Valley_Daily_News&amp;id=963956610&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fairhope,_Alabama" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fairhope,_Alabama" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fairhope,_Alabama&amp;oldid=961125359" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fairhope,_Alabama&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79502" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fairhope%2C_Alabama&amp;id=961125359&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fairhope,_Alabama" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Fairhope" hreflang="en">Wikivoyage</a></li></ul>
 		
 	</div>
 </nav>
@@ -349,7 +825,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mohave+Valley+Daily+News&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mohave_Valley_Daily_News&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fairhope%2C+Alabama&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fairhope,_Alabama&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
 		
 	</div>
 </nav>
@@ -364,8 +840,8 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6893724#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span><span class="uls-after-portlet-link"></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D9%87%D9%88%D8%A8" title="فيرهوب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%87%D9%88%D9%BE%D8%8C_%D8%A2%D9%84%D8%A7%D8%A8%D8%A7%D9%85%D8%A7" title="فیرهوپ، آلاباما – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Fairhope" title="Fairhope – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Fairhope_(lungsod_sa_Tinipong_Bansa,_Alabama)" title="Fairhope (lungsod sa Tinipong Bansa, Alabama) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%87%D9%88%D9%BE%D8%8C_%D8%A2%D9%84%D8%A7%D8%A8%D8%A7%D9%85%D8%A7" title="فیرهوپ، آلاباما – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fairhope" title="Fairhope – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Fairhope" title="Fairhope – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AB%E0%A5%87%E0%A4%AF%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%AA,_%E0%A4%85%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%AE%E0%A4%BE" title="फेयरहोप, अलाबामा – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fairhope" title="Fairhope – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Fairhope_(Alabama)" title="Fairhope (Alabama) – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%81%DB%8E%D8%B1%DA%BE%DB%86%D9%BE%D8%8C_%D8%A6%DB%95%D9%84%D8%A7%D8%A8%D8%A7%D9%85%D8%A7" title="فێرھۆپ، ئەلاباما – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D1%85%D0%BE%D1%83%D0%BF_(%D0%90%D0%BB%D0%B0%D0%B1%D0%B0%D0%BC%D0%B0)" title="Ферхоуп (Алабама) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D1%94%D1%80%D0%B3%D0%BE%D1%83%D0%BF_(%D0%90%D0%BB%D0%B0%D0%B1%D0%B0%D0%BC%D0%B0)" title="Феєргоуп (Алабама) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%81%DB%8C%D8%A6%D8%B1%DB%81%D9%88%D9%BE%D8%8C_%D8%A7%D9%84%D8%A7%D8%A8%D8%A7%D9%85%D8%A7" title="فیئرہوپ، الاباما – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Fairhope" title="Fairhope – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Fairhope,_Alabama" title="Fairhope, Alabama – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%B4%B9%E5%B0%94%E9%9C%8D%E6%99%AE_(%E9%98%BF%E6%8B%89%E5%B7%B4%E9%A9%AC%E5%B7%9E)" title="费尔霍普 (阿拉巴马州) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q79502#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 	</div>
 </nav>
 
@@ -376,7 +852,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-		<li id="footer-info-lastmod"> This page was last edited on 22 June 2020, at 19:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-lastmod"> This page was last edited on 6 June 2020, at 18:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
 		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 	</ul>
@@ -388,7 +864,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mohave_Valley_Daily_News&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fairhope,_Alabama&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 	</ul>
 	<ul id="footer-icons" class="noprint">
 		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
@@ -398,6 +874,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.382","ppvisitednodes":{"value":914,"limit":1000000},"postexpandincludesize":{"value":27107,"limit":2097152},"templateargumentsize":{"value":842,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15805,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  337.735      1 -total"," 41.32%  139.568      1 Template:Reflist"," 37.43%  126.415      1 Template:Infobox_newspaper"," 31.80%  107.396      1 Template:Infobox"," 30.62%  103.406      2 Template:Cite_web","  8.55%   28.860      1 Template:Official","  6.14%   20.727      1 Template:USA","  6.06%   20.481      1 Template:Arizona-newspaper-stub","  5.13%   17.340      1 Template:Flag","  5.07%   17.133      1 Template:Asbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":3035819,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20200626030721","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mohave Valley Daily News","url":"https:\/\/en.wikipedia.org\/wiki\/Mohave_Valley_Daily_News","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6893724","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6893724","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-07-13T08:53:00Z","dateModified":"2020-06-22T19:25:44Z","headline":"newspaper in Bullhead City, Arizona"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1355"});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.856","walltime":"1.170","ppvisitednodes":{"value":6680,"limit":1000000},"postexpandincludesize":{"value":118178,"limit":2097152},"templateargumentsize":{"value":11951,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":73044,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  988.436      1 -total"," 33.32%  329.312      1 Template:Infobox_settlement"," 27.44%  271.217      1 Template:Infobox"," 18.89%  186.744      1 Template:Reflist"," 15.02%  148.486     16 Template:Cite_web","  7.23%   71.473      1 Template:Citation_needed","  5.46%   53.960      1 Template:Weather_box","  4.28%   42.328     10 Template:Convert","  4.28%   42.298     12 Template:Round","  4.08%   40.308      1 Template:US_Census_population"]},"scribunto":{"limitreport-timeusage":{"value":"0.344","limit":"10.000"},"limitreport-memusage":{"value":10694484,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw1328","timestamp":"20200625190807","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fairhope, Alabama","url":"https:\/\/en.wikipedia.org\/wiki\/Fairhope,_Alabama","sameAs":"http:\/\/www.wikidata.org\/entity\/Q79502","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q79502","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-10-06T00:56:28Z","dateModified":"2020-06-06T18:55:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/95\/Fairhope_Public_Library.jpg","headline":"city in Baldwin County, Alabama U.S."}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":223,"wgHostname":"mw1333"});});</script></body></html>
