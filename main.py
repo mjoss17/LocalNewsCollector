@@ -1,163 +1,35 @@
 import json
 import re
-from collections import defaultdict
+import urllib.request
+import os
 import operator 
 import heapq
 import random
 import itertools
-from html.parser import HTMLParser
+from html_parsers import State_Newspapers_Index_Parser
+from html_parsers import Check_If_Actually_Paper_Parser
+from html_parsers import Collect_Paper_Attributes_Parser
+from html_parsers import Collect_State_Indexes_Parser
+from simple_logger import SimpleLogger
+from collections import defaultdict
+
+
 from urllib.request import Request, urlopen
-import urllib.request
-import os
 from datetime import datetime
+
+logger = SimpleLogger()
 
 class Paper():
     def __init__(self):
         self.url = ""
         self.name = ""
         self.location = ""
-    
+        self.readership = None
+
     def __str__(self):
         return self.name
 
     
-
-
-
-class State_Newspapers_Index_Parser(HTMLParser):
-
-    urls = []
-    span = False
-    h2_open = True
-    look_for_lists = False
-
-    def handle_starttag(self, tag, attrs):
-        if tag == 'h2':
-            self.h2_open = True
-        if tag == "span":
-            self.span = True
-        if tag == "a":
-            if self.look_for_lists == True:
-                for attr in attrs:
-                    if attr[0] == 'href':
-                        if "/wiki/" in attr[1]:
-                            self.urls.append("https://en.wikipedia.org" + attr[1])
-                            
-    def handle_endtag(self, tag):
-        if tag == 'span':
-            self.span = False
-        if tag == 'h2':
-            self.h2_open = False
-
-    def handle_data(self, data):
-        if self.span:
-            if self.h2_open == True:
-                if "newspapers" in data or "Newspapers" in data:
-                    if "daily" in data or "Daily" in data or "weekly" in data or "Weekly" in data:
-                        self.look_for_lists = True
-                if "See also" in data or "Refrences" in data or "refrences" in data:
-                    self.look_for_lists = False
-
-    def get_urls(self):
-        return self.urls
-
-
-class Check_If_Actually_Paper_Parser(HTMLParser):
-    paragraph_count = 0
-    p_open = False
-    is_newspaper = False
-    publisher = False
-
-    def handle_starttag(self, tag, attrs):
-        if tag == "p" and self.paragraph_count < 3:
-            self.p_open = True
-            self.paragraph_count += 1
-
-
-    def handle_endtag(self, tag):
-        if tag == "p":
-            self.p_open = False
-
-    def handle_data(self, data):
-        if self.p_open:
-            if "newspaper" in data or "Newspaper" in data:
-                self.is_newspaper = True
-    
-    def is_paper(self):
-        return self.is_newspaper
-    def is_publisher(self):
-        return self.is_publisher
-
-
-class Collect_Paper_Attributes_Parser(HTMLParser):
-
-    table_open = False
-    url_open = False
-    website_url = ""
-
-    def handle_starttag(self, tag, attrs):
-        if tag == "table" and ('class', 'infobox vcard') in attrs:
-                self.table_open = True
-        if self.table_open and tag == "span":
-            if ('class', 'url') in attrs:
-                self.url_open = True
-        if self.url_open and tag == "a":
-            for attr in attrs:
-                if attr[0] == 'href':
-                    self.website_url = attr[1]
-
-    def handle_endtag(self, tag):
-        if tag == "table" and self.table_open == True:
-            self.table_open == False
-        if tag == "span" and self.url_open:
-            self.url_open = False 
-
-
-    def handle_data(self, data):
-        return
-
-    def get_website(self):
-        return self.website_url
-
-
-class Collect_State_Indexes_Parser(HTMLParser):
-    
-    h2_open = False
-    span_open = False
-    collecting_sites = False
-    wiki_indexes = []
-
-    def handle_starttag(self, tag, attrs):
-        if tag == 'h2' and self.h2_open == False:
-            self.h2_open = True
-        if tag == 'span' and self.h2_open == True: 
-            for attr in attrs:
-                self.span_open = True
-        if tag == 'a' and self.collecting_sites == True:
-            for attr in attrs:
-                if attr[0] == 'href':
-                    if attr[1] not in self.wiki_indexes:
-                        if attr[1][:6] == "/wiki/":
-                            self.wiki_indexes.append("https://en.wikipedia.org/" + attr[1])
-        return
-    
-    def handle_endtag(self, tag):
-        if tag == 'h2':
-            self.h2_open = False
-        if tag == 'span':
-            self.span_open = False
-        return
-
-    def handle_data(self, data):
-        if self.h2_open == True and self.span_open == True:
-            if data == "By state and territory":
-                self.collecting_sites = True
-
-        if self.h2_open == True and self.span_open == True:
-            if data == "Other lists of U.S. newspapers":
-                self.collecting_sites = False
-        return
-
 def collect_papers_Michigan(all_paper_urls):
     filename = "W_html.txt"
     site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Michigan"
@@ -210,121 +82,167 @@ def collect_papers_Maine(all_paper_urls):
     f.close()
     parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Maine", './urls')
 
-def collect_papers_every_us_territory(all_paper_urls, url, dir_path):
-    html_filename = "W_html.txt"
-    territory_name = url.split("_in_",1)[1]
-    print(territory_name)
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    webpage = urlopen(req).read().decode("utf-8") 
-    f = open(html_filename,"w+")
-    f.write(webpage)
-    f.close()
-    parse_newspapers_from_state_wikipedia_index(html_filename, all_paper_urls, territory_name, dir_path)
-
-    
-
-
-
-
-def parse_newspapers_from_state_wikipedia_index(html_filename, all_paper_urls, name, path):
-    f = open(html_filename, "r")
-    contents = f.read()
-    parser = State_Newspapers_Index_Parser()
-    parser.feed(contents)
-    all_urls = parser.get_urls()
-    f.close()
-
-    all_news_urls_path = os.path.join(path + '/USA.txt')
-    state_urls_path = os.path.join(path + '/', str(name) + '.txt')
-    f = open(state_urls_path, 'w+')
-    h = open(all_news_urls_path, 'w+')
-    parse_urls(all_urls, all_paper_urls, f, h)
-    h.close()
-    
-
-def parse_urls(all_urls, all_paper_urls, state_file, everything_file):
-
-    wiki_paper_urls = []
-    for url in all_urls:
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        try:
-            webpage = urlopen(req).read().decode("utf-8") 
-        except:
-            print("URL Error: " + url)
-            continue
-
-        f = open("temp1.txt","w+")
-        f.write(webpage)
-        f.close()
-
-        f = open("temp1.txt", "r")
-        contents = f.read()
-        parser = Check_If_Actually_Paper_Parser()
-        parser.feed(contents)
-        if parser.is_paper():
-            wiki_paper_urls.append(url)
-            site_url = get_website_url(url, all_paper_urls)
-            if site_url != None:
-                state_file.write(str(site_url) + '\n')
-                everything_file.write(str(site_url) + '\n')
-
-        
-        # all_news_urls_path = os.path.join(path + '/USA.txt')
-        # h = open(all_news_urls_path, "w+")
-        # for website in all_paper_urls:
-        #     state_file.write(str(website) + '\n')
-            # h.write(str(website) + '\n')
-    state_file.close()
-        # h.close()
-
-def get_website_url(wiki_url, all_paper_urls):
-    req = Request(wiki_url, headers={'User-Agent': 'Mozilla/5.0'})
-    webpage = urlopen(req).read().decode("utf-8") 
-    f = open("temp1.txt","w+")
-    f.write(webpage)
-    f.close()
-
-    f = open("temp1.txt", "r")
-    contents = f.read()
-    parser = Collect_Paper_Attributes_Parser()
-    parser.feed(contents)
-
-    website = parser.get_website()
-    if website != "" and website != None and website != " ":
-        if website not in all_paper_urls:
-            all_paper_urls.append(website)
-            print(website)
-            return website
-    return None
-
-
-def collect_all_us(all_papers):
-    filename = "W_html.txt"
-    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States"
+def collect_papers_Alaska(all_paper_urls):
+    filename = "X_html.txt"
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_Alaska"
     req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read().decode("utf-8") 
     f = open(filename,"w+")
     f.write(webpage)
     f.close()
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Alaska", './urls')
 
 
-    f = open(filename, "r")
-    contents = f.read()
+def collect_papers_West_Virginia(all_paper_urls):
+    filename = "X_html.txt"
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_West_Virg"
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
+    webpage = urlopen(req).read().decode("utf-8") 
+    f = open(filename,"w+")
+    f.write(webpage)
+    f.close()
+    parse_newspapers_from_state_wikipedia_index(filename, all_paper_urls, "Alaska", './urls')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def collect_all_us(all_paper_urls):
+    site = "https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States"
+
+    logger.time_stamp_start_and_print("All US Newspapers Request")
+    req = Request(site, headers={'User-Agent': 'Mozilla/5.0'})
+    webpage_list_of_us_newspapers = urlopen(req).read().decode("utf-8") 
+    logger.time_stamp_stop_and_print("All US Newspapers Request")
+
+
     parser = Collect_State_Indexes_Parser()
-    parser.feed(contents)
+    parser.initialize()
+    parser.feed(webpage_list_of_us_newspapers)
 
     dateTimeObj = datetime.now()
-    dir_path = './urls_' + str(dateTimeObj.month) + '.' + str(dateTimeObj.day) + '.' + str(dateTimeObj.hour) + ':' + str(dateTimeObj.minute)
+    dir_path = './urls_' + str(dateTimeObj.month) + '.' + str(dateTimeObj.day) + '.' + str(dateTimeObj.hour) + ':' + str(dateTimeObj.minute) + ':' + str(dateTimeObj.second)
     os.mkdir(dir_path)
 
     for link in parser.wiki_indexes:
-        collect_papers_every_us_territory(all_papers, link, dir_path)
+        collect_papers_every_us_territory(all_paper_urls, link, dir_path)
 
+
+def collect_papers_every_us_territory(all_paper_urls, url, dir_path):
+    """
+    This function collects urls of us newspapers and writes them too files
+    in dir_path
+    """
+    territory_name = url.split("_in_",1)[1]
+    print(territory_name)
+
+    logger.time_stamp_start_and_print("List of Papers by State Request " + territory_name)
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    webpage_list_of_state_newspapers = urlopen(req).read().decode("utf-8") 
+    logger.time_stamp_stop_and_print("List of Papers by State Request " + territory_name)
+
+    parse_newspapers_from_state_wikipedia_index(webpage_list_of_state_newspapers, all_paper_urls, territory_name, dir_path)
+
+
+
+
+def parse_newspapers_from_state_wikipedia_index(html_string, all_paper_urls, name, path):
+    """
+    This function takes in the HTML of a certain type of wikipedia page -- one that displays
+    an index of local newspapers pertaining to a geopraphic location -- and then writes the
+    website urls of the valid newspapers to a series of files. These files are specified by
+    name and path. This function also modifies the value of all_paper_urls to include all
+    valid urls. 
+    """
+
+    parser = State_Newspapers_Index_Parser()
+    parser.initialize()
+    parser.feed(html_string)
+    all_urls_from_state_index = parser.get_urls()
+    parser.clear_urls()
+    # for url in all_urls_from_state_index:
+    #     print(url)
+
+    all_news_urls_path = os.path.join(path + '/USA.txt')
+    state_urls_path = os.path.join(path + '/', str(name) + '.txt')
+
+    valid_state_paper_urls = parse_urls_for_actual_papers(all_urls_from_state_index)
+    all_paper_urls.append(valid_state_paper_urls)
+
+    h = open(all_news_urls_path, 'a')
+    for url in valid_state_paper_urls:
+        h.write(url + '\r\n')
+    h.close()
+    f = open(state_urls_path, 'a')
+    for url in valid_state_paper_urls:
+        f.write(url + '\r\n')
+    f.close()
+
+    
+    
+
+def parse_urls_for_actual_papers(all_urls_from_state_index):
+    """
+    This function takes in a series of urls that belong to wikipedia pages, determines
+    which of those wikipedia pages belong to newspapers (as opposed to cities, publishers, ect.)
+    and then returns a list of urls corresponding to the websites of those valid newspapers
+    """
+
+    valid_papers_urls = []
+    wiki_papers_urls = []
+    for url in all_urls_from_state_index:
+        print(url)
+        logger.time_stamp_start("Opening Potential Paper Wiki Url\n" + str(url))
+        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        wikipedia_of_potential_paper = urlopen(req).read().decode("utf-8") 
+        logger.time_stamp_stop("Opening Potential Paper Wiki Url\n" + str(url))
+
+        parser = Check_If_Actually_Paper_Parser()
+        parser.initialize()
+        parser.feed(wikipedia_of_potential_paper)
+        if parser.is_paper():
+            print("SEEMS LEGIT")
+            wiki_papers_urls.append(url)
+            papers_website_url = get_website_url(wikipedia_of_potential_paper)
+            if papers_website_url != None:
+                print("FOUND WEBSITE")
+                valid_papers_urls.append(papers_website_url)
+
+    return valid_papers_urls
+    
+
+def get_website_url(wikipedia_of_potential_paper):
+    """
+    This function takes in the HTML of a wikipedia site and determines whether 
+    or not the page belongs to a newspaper. 
+    """
+    parser = Collect_Paper_Attributes_Parser()
+    parser.initialize()
+    parser.feed(wikipedia_of_potential_paper)
+
+    papers_website = parser.get_website()
+    if papers_website != "" and papers_website != None and papers_website != " ":
+        return papers_website
+    return None
 
     
 def main():
     all_papers = []
     # collect_papers_Alabama(all_papers)
+    # collect_papers_Alaska(all_papers)
     # collect_papers_Maryland(all_papers)
     # collect_papers_Michigan(all_papers)
     # collect_papers_California(all_papers)

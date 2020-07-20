@@ -3,114 +3,1402 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>List of newspapers in Alaska - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"61f99bc5-b164-4793-8a98-c111d53756ed","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_newspapers_in_Alaska","wgTitle":"List of newspapers in Alaska","wgCurRevisionId":959583045,"wgRevisionId":959583045,"wgArticleId":4750253,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing cleanup from January 2014","All pages needing cleanup","Cleanup tagged articles with a reason field from January 2014","Wikipedia pages needing cleanup from January 2014",
-"Lists of newspapers published in the United States by state","Newspapers published in Alaska","Alaska-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_newspapers_in_Alaska","wgRelevantArticleId":4750253,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6630430","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
-"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
-"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>List of newspapers in Alabama - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"accbbbb0-86c9-4cc9-ad82-91212c7a35a5","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_newspapers_in_Alabama","wgTitle":"List of newspapers in Alabama","wgCurRevisionId":967728291,"wgRevisionId":967728291,"wgArticleId":2200262,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Commons category link is on Wikidata","Lists of newspapers published in the United States by state","Newspapers published in Alabama","Alabama-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"List_of_newspapers_in_Alabama","wgRelevantArticleId":2200262,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q6630431"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init"
+,"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.35.0-wmf.38"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.41"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_newspapers_in_Alaska"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_newspapers_in_Alabama"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_newspapers_in_Alaska rootpage-List_of_newspapers_in_Alaska skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_newspapers_in_Alabama rootpage-List_of_newspapers_in_Alabama skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
-		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">List of newspapers in Alaska</h1>
-	
+	<h1 id="firstHeading" class="firstHeading" lang="en">List of newspapers in Alabama</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
-		
+		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
 		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Wikimedia list article</div>
-<table class="box-Cleanup plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>Judging from <a rel="nofollow" class="external text" href="http://library.alaska.gov/hist/hist_docs/newspapers/by_place.pdf">this document</a>, this list is more a semi-random directory than a proper list of notable newspapers in Alaska.  This is particularly glaring when comparing coverage of defunct newspapers (hint: <i>Insurgent49</i> isn't really all that notable, it was merely around when there was real-world interest in creating Wikipedia articles)</b><span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit">improve this article</a> if you can.</span>  <small class="date-container"><i>(<span class="date">January 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p>This is a <b>list of newspapers in <a href="/wiki/Alaska" title="Alaska">Alaska</a></b>.
+<p>This is a <b>list of newspapers in <a href="/wiki/Alabama" title="Alabama">Alabama</a></b>, United States. The first title was produced in 1811, and "by 1850, there were 82 newspapers in Alabama, of which nine were dailies."<sup id="cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-0" class="reference"><a href="#cite_note-FOOTNOTEFederal_Writers&#39;_Project1941-1">&#91;1&#93;</a></sup>
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Daily_newspapers_(currently_published)"><span class="tocnumber">1</span> <span class="toctext">Daily newspapers (currently published)</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Weekly_newspapers_(currently_published)"><span class="tocnumber">2</span> <span class="toctext">Weekly newspapers (currently published)</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Monthly_newspapers_(currently_published)"><span class="tocnumber">3</span> <span class="toctext">Monthly newspapers (currently published)</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#University_newspapers"><span class="tocnumber">4</span> <span class="toctext">University newspapers</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Defunct_newspapers"><span class="tocnumber">5</span> <span class="toctext">Defunct newspapers</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Daily_and_nondaily_newspapers_(currently_published)"><span class="tocnumber">1</span> <span class="toctext">Daily and nondaily newspapers (currently published)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#University_newspapers"><span class="tocnumber">2</span> <span class="toctext">University newspapers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Defunct"><span class="tocnumber">3</span> <span class="toctext">Defunct</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Images"><span class="tocnumber">7.1</span> <span class="toctext">Images</span></a></li>
+</ul>
+</li>
 </ul>
 </div>
 
-<h2><span id="Daily_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Daily_newspapers_(currently_published)">Daily newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=1" title="Edit section: Daily newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i><a href="/wiki/Anchorage_Daily_News" title="Anchorage Daily News">Anchorage Daily News</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Daily_Sitka_Sentinel" title="Daily Sitka Sentinel">Daily Sitka Sentinel</a></i> – <a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
-<li><i><a href="/wiki/Fairbanks_Daily_News-Miner" title="Fairbanks Daily News-Miner">Fairbanks Daily News-Miner</a></i> – <a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
-<li><i><a href="/wiki/Juneau_Empire" title="Juneau Empire">Juneau Empire</a></i> – <a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
-<li><i><a href="/wiki/Ketchikan_Daily_News" title="Ketchikan Daily News">Ketchikan Daily News</a></i> – <a href="/wiki/Ketchikan,_Alaska" title="Ketchikan, Alaska">Ketchikan</a></li>
-<li><i><a href="/wiki/Kodiak_Daily_Mirror" title="Kodiak Daily Mirror">Kodiak Daily Mirror</a></i> – <a href="/wiki/Kodiak,_Alaska" title="Kodiak, Alaska">Kodiak</a></li>
-<li><i><a href="/wiki/Peninsula_Clarion" title="Peninsula Clarion">Peninsula Clarion</a></i> – <a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai</a></li></ul>
-<h2><span id="Weekly_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Weekly_newspapers_(currently_published)">Weekly newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=2" title="Edit section: Weekly newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i><a href="/wiki/Alaska_Journal_of_Commerce" title="Alaska Journal of Commerce">Alaska Journal of Commerce</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Alaska_Star" title="Alaska Star">Alaska Star</a></i> – <a href="/wiki/Eagle_River,_Alaska" class="mw-redirect" title="Eagle River, Alaska">Eagle River</a> and <a href="/wiki/Chugiak,_Alaska" class="mw-redirect" title="Chugiak, Alaska">Chugiak</a></li>
-<li><i><a href="/wiki/Anchorage_Press" title="Anchorage Press">Anchorage Press</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Arctic_Sounder" class="mw-redirect" title="Arctic Sounder">Arctic Sounder</a></i> – <a href="/wiki/Northwest_Arctic_Borough" class="mw-redirect" title="Northwest Arctic Borough">Northwest Arctic Borough</a> and <a href="/wiki/North_Slope_Borough" class="mw-redirect" title="North Slope Borough">North Slope Borough</a></li>
-<li><i><a href="/wiki/Bristol_Bay_Times" class="mw-redirect" title="Bristol Bay Times">Bristol Bay Times</a></i> – <a href="/wiki/Bristol_Bay" title="Bristol Bay">Bristol Bay</a></li>
-<li><i><a href="/wiki/Capital_City_Weekly" title="Capital City Weekly">Capital City Weekly</a></i> – <a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
-<li><i><a href="/wiki/Chilkat_Valley_News" title="Chilkat Valley News">Chilkat Valley News</a></i> – <a href="/wiki/Haines,_Alaska" title="Haines, Alaska">Haines</a></li>
-<li><i><a href="/wiki/Cordova_Times" class="mw-redirect" title="Cordova Times">Cordova Times</a></i> – <a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a></li>
-<li><i><a href="/wiki/The_Delta_Discovery" title="The Delta Discovery">The Delta Discovery</a></i> – <a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a></li>
-<li><i><a href="/w/index.php?title=Delta_Wind&amp;action=edit&amp;redlink=1" class="new" title="Delta Wind (page does not exist)">Delta Wind</a></i> – <a href="/wiki/Delta_Junction,_Alaska" title="Delta Junction, Alaska">Delta Junction</a></li>
-<li><i><a href="/wiki/Dutch_Harbor_Fisherman" class="mw-redirect" title="Dutch Harbor Fisherman">Dutch Harbor Fisherman</a></i> – <a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutians</a> / <a href="/wiki/Pribilof_Islands" title="Pribilof Islands">Pribilofs</a></li>
-<li><i><a href="/wiki/Homer_News" title="Homer News">Homer News</a></i> – <a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li>
-<li><i><a href="/wiki/Mat-Su_Valley_Frontiersman" title="Mat-Su Valley Frontiersman">Mat-Su Valley Frontiersman</a></i> – <a href="/wiki/Wasilla,_Alaska" title="Wasilla, Alaska">Wasilla</a> / <a href="/wiki/Matanuska-Susitna_Valley" title="Matanuska-Susitna Valley">Matanuska-Susitna Valley</a> (tri-weekly)</li>
-<li><i><a href="/wiki/The_Nome_Nugget" title="The Nome Nugget">The Nome Nugget</a></i> – <a href="/wiki/Nome,_Alaska" title="Nome, Alaska">Nome</a></li>
-<li><i><a href="/wiki/Petersburg_Pilot" class="mw-redirect" title="Petersburg Pilot">Petersburg Pilot</a></i> – <a href="/wiki/Petersburg,_Alaska" title="Petersburg, Alaska">Petersburg</a></li>
-<li><i><a href="/wiki/Petroleum_News" title="Petroleum News">Petroleum News</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Seward_Journal" class="mw-redirect" title="Seward Journal">Seward Journal</a></i> – <a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a></li>
-<li><i><a href="/wiki/Seward_Phoenix_Log" class="mw-redirect" title="Seward Phoenix Log">Seward Phoenix Log</a></i> – <a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a>, <a href="/wiki/Moose_Pass,_Alaska" title="Moose Pass, Alaska">Moose Pass</a></li>
-<li><i><a href="/wiki/Tundra_Drums" class="mw-redirect" title="Tundra Drums">Tundra Drums</a></i> – <a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a> and <a href="/wiki/Yukon-Kuskokwim_Delta" class="mw-redirect" title="Yukon-Kuskokwim Delta">Yukon-Kuskokwim Delta</a></li>
-<li><i>The <a href="/wiki/Valdez_Star" class="mw-redirect" title="Valdez Star">Valdez Star</a></i> – <a href="/wiki/Valdez,_Alaska" title="Valdez, Alaska">Valdez</a></li>
-<li><i><a href="/w/index.php?title=Wrangell_Sentinel&amp;action=edit&amp;redlink=1" class="new" title="Wrangell Sentinel (page does not exist)">Wrangell Sentinel</a></i> - <a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li></ul>
-<h2><span id="Monthly_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Monthly_newspapers_(currently_published)">Monthly newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=3" title="Edit section: Monthly newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>"<a href="/w/index.php?title=The_Cordova_Cogitator&amp;action=edit&amp;redlink=1" class="new" title="The Cordova Cogitator (page does not exist)">The Cordova Cogitator</a>" <a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova, Alaska</a> (monthly)</li>
-<li><i><a href="/wiki/The_Ester_Republic" title="The Ester Republic">The Ester Republic</a></i> – <a href="/wiki/Ester,_Alaska" title="Ester, Alaska">Ester</a> (monthly)</li>
-<li><i><a href="/wiki/The_Skagway_News" title="The Skagway News">The Skagway News</a></i> – <a href="/wiki/Skagway,_Alaska" title="Skagway, Alaska">Skagway</a> (bimonthly)</li></ul>
-<h2><span class="mw-headline" id="University_newspapers">University newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=4" title="Edit section: University newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i><a href="/wiki/The_Northern_Light_(college_newspaper)" title="The Northern Light (college newspaper)">The Northern Light</a></i> – <a href="/wiki/University_of_Alaska_Anchorage" title="University of Alaska Anchorage">University of Alaska Anchorage</a> (weekly)</li>
-<li><i><a href="/wiki/Sun_Star_(Alaska)" class="mw-redirect" title="Sun Star (Alaska)">Sun Star</a></i> – <a href="/wiki/University_of_Alaska_Fairbanks" title="University of Alaska Fairbanks">University of Alaska Fairbanks</a> (weekly)</li>
-<li><i><a href="/wiki/The_Whalesong" class="mw-redirect" title="The Whalesong">The Whalesong</a></i> – <a href="/wiki/University_of_Alaska_Southeast" title="University of Alaska Southeast">University of Alaska Southeast</a></li></ul>
-<h2><span class="mw-headline" id="Defunct_newspapers">Defunct newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=5" title="Edit section: Defunct newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i><a href="/wiki/Anchorage_Times" title="Anchorage Times">Anchorage Times</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Insurgent49" title="Insurgent49">Insurgent49</a></i> – <a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><i><a href="/wiki/Tundra_Times" title="Tundra Times">Tundra Times</a></i> – <a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
-<li><i><a href="/w/index.php?title=Homer_Tribute&amp;action=edit&amp;redlink=1" class="new" title="Homer Tribute (page does not exist)">Homer Tribute</a></i> -<a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li></ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/List_of_African-American_newspapers_in_Alaska" title="List of African-American newspapers in Alaska">List of African-American newspapers in Alaska</a></li></ul>
+<h2><span id="Daily_and_nondaily_newspapers_.28currently_published.29"></span><span class="mw-headline" id="Daily_and_nondaily_newspapers_(currently_published)">Daily and nondaily newspapers (currently published)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=1" title="Edit section: Daily and nondaily newspapers (currently published)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following are daily, weekly, semi-weekly, etc., newspapers published in Alabama:
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Name
+</th>
+<th>Locale
+</th>
+<th>Year Est.
+</th>
+<th>Frequency
+</th>
+<th>Publisher/parent company
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Advertiser-Gleam" title="Advertiser-Gleam">Advertiser-Gleam</a></i>
+</td>
+<td><a href="/wiki/Guntersville,_Alabama" title="Guntersville, Alabama">Guntersville</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Alabama_Baptist" title="The Alabama Baptist">Alabama Baptist</a></i><sup id="cite_ref-APA_2-0" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>1843<sup id="cite_ref-AHF_3-0" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Alabama Messenger</i><sup id="cite_ref-APA_2-1" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+
+<tr>
+<td>Alabama Times
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Alexander_City_Outlook" title="Alexander City Outlook">Alexander City Outlook</a>
+</td>
+<td><a href="/wiki/Alexander_City,_Alabama" title="Alexander City, Alabama">Alexander City</a>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Andalusia_Star-News&amp;action=edit&amp;redlink=1" class="new" title="Andalusia Star-News (page does not exist)">Andalusia Star-News</a></i>
+</td>
+<td><a href="/wiki/Andalusia,_Alabama" title="Andalusia, Alabama">Andalusia</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Anniston_Star" title="The Anniston Star">Anniston Star</a></i>
+</td>
+<td><a href="/wiki/Anniston,_Alabama" title="Anniston, Alabama">Anniston</a>
+</td>
+<td>1912<sup id="cite_ref-AHF_3-1" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Atmore_Advance" title="Atmore Advance">Atmore Advance</a></i>
+</td>
+<td><a href="/wiki/Atmore,_Alabama" title="Atmore, Alabama">Atmore</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Auburn Villager
+</td>
+<td>Auburn
+</td>
+<td>2006
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Baldwin_Times" title="Baldwin Times">Baldwin Times</a></i>
+</td>
+<td><a href="/wiki/Bay_Minette,_Alabama" title="Bay Minette, Alabama">Bay Minette</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Birmingham_Business_Journal" title="Birmingham Business Journal">Birmingham Business Journal</a></i><sup id="cite_ref-APA_2-2" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Birmingham_News" title="The Birmingham News">Birmingham News</a></i><sup id="cite_ref-APA_2-3" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>1888<sup id="cite_ref-AHF_3-2" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>Daily
+</td>
+<td>Alabama Media Group / <a href="/wiki/Advance_Publications" title="Advance Publications">Advance Publications</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Birmingham_Times&amp;action=edit&amp;redlink=1" class="new" title="Birmingham Times (page does not exist)">Birmingham Times</a></i>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Brewton_Standard&amp;action=edit&amp;redlink=1" class="new" title="Brewton Standard (page does not exist)">Brewton Standard</a></i>
+</td>
+<td><a href="/wiki/Brewton,_Alabama" title="Brewton, Alabama">Brewton</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://www.thecallnews.com/"><i>Call News</i></a>
+</td>
+<td>Citronelle
+</td>
+<td>1897
+</td>
+<td>Weekly
+</td>
+<td>Willie T. Gray / Gray &amp; Gray Inc.
+</td>
+<td>Voted #1 Weekly Newspaper in Alabama by the Alabama Press Association
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Cherokee_County_Herald" title="Cherokee County Herald">Cherokee County Herald</a></i>
+</td>
+<td><a href="/wiki/Centre,_Alabama" title="Centre, Alabama">Centre</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Chilton_County_News&amp;action=edit&amp;redlink=1" class="new" title="Chilton County News (page does not exist)">Chilton County News</a></i>
+</td>
+<td><a href="/wiki/Clanton,_Alabama" title="Clanton, Alabama">Clanton</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>The Citizen of East Alabama
+</td>
+<td><a href="/wiki/Phenix_City,_Alabama" title="Phenix City, Alabama">Phenix City</a>
+</td>
+<td>1957
+</td>
+<td>Weekly
+</td>
+<td>R.M. Greene
+</td>
+<td>Largest weekly newspaper in Alabama
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Clanton_Advertiser&amp;action=edit&amp;redlink=1" class="new" title="Clanton Advertiser (page does not exist)">Clanton Advertiser</a></i>
+</td>
+<td><a href="/wiki/Clanton,_Alabama" title="Clanton, Alabama">Clanton</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Clark County Democrat</i>
+</td>
+<td>Grove Hill
+</td>
+<td>1856
+</td>
+<td>Weekly
+</td>
+<td>Jim Cox
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Cleburne_News&amp;action=edit&amp;redlink=1" class="new" title="Cleburne News (page does not exist)">Cleburne News</a></i>
+</td>
+<td><a href="/wiki/Heflin,_Alabama" title="Heflin, Alabama">Heflin</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Courier_Journal_(Florence,_Alabama)&amp;action=edit&amp;redlink=1" class="new" title="Courier Journal (Florence, Alabama) (page does not exist)">Courier Journal</a></i>
+</td>
+<td><a href="/wiki/Florence,_Alabama" title="Florence, Alabama">Florence</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Cullman_Times" title="The Cullman Times">Cullman Times</a></i>
+</td>
+<td><a href="/wiki/Cullman,_Alabama" title="Cullman, Alabama">Cullman</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/Community_Newspaper_Holdings,_Inc." class="mw-redirect" title="Community Newspaper Holdings, Inc.">Community Newspaper Holdings, Inc.</a><sup id="cite_ref-CNHI_4-0" class="reference"><a href="#cite_note-CNHI-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a rel="nofollow" class="external text" href="https://www.cullmantribune.com">Cullman Tribune</a></i>
+</td>
+<td><a href="/wiki/Cullman,_Alabama" title="Cullman, Alabama">Cullman</a>
+</td>
+<td>1874
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>Oldest continuously published weekly newspaper in Alabama. Cullman County's oldest business.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Daily_Home" title="The Daily Home">Daily Home</a></i>
+</td>
+<td><a href="/wiki/Talladega,_Alabama" title="Talladega, Alabama">Talladega</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Daily_Mountain_Eagle" title="Daily Mountain Eagle">Daily Mountain Eagle</a></i>
+</td>
+<td><a href="/wiki/Jasper,_Alabama" title="Jasper, Alabama">Jasper</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Scottsboro_Daily_Sentinel&amp;action=edit&amp;redlink=1" class="new" title="Scottsboro Daily Sentinel (page does not exist)">Daily Sentinel</a></i>
+</td>
+<td><a href="/wiki/Scottsboro,_Alabama" title="Scottsboro, Alabama">Scottsboro</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Daleville_Sun-Courier" class="mw-redirect" title="Daleville Sun-Courier">Daleville Sun-Courier</a></i>
+</td>
+<td><a href="/wiki/Daleville,_Alabama" title="Daleville, Alabama">Daleville</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Daphne-Spanish_Fort_Bulletin&amp;action=edit&amp;redlink=1" class="new" title="Daphne-Spanish Fort Bulletin (page does not exist)">Daphne-Spanish Fort Bulletin</a></i>
+</td>
+<td><a href="/wiki/Daphne,_Alabama" title="Daphne, Alabama">Daphne</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Decatur_Daily" title="The Decatur Daily">Decatur Daily</a></i>
+</td>
+<td><a href="/wiki/Decatur,_Alabama" title="Decatur, Alabama">Decatur</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Dekalb_Advertiser" title="The Dekalb Advertiser">Dekalb Advertiser</a></i>
+</td>
+<td><a href="/wiki/Fort_Payne,_Alabama" title="Fort Payne, Alabama">Fort Payne</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Democrat-Reporter" title="The Democrat-Reporter">Democrat-Reporter</a></i>
+</td>
+<td><a href="/wiki/Linden,_Alabama" title="Linden, Alabama">Linden</a>
+</td>
+<td>1911
+</td>
+<td>Weekly
+</td>
+<td>Goodloe Sutton
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Demopolis_Times" title="Demopolis Times">Demopolis Times</a></i>
+</td>
+<td><a href="/wiki/Demopolis,_Alabama" title="Demopolis, Alabama">Demopolis</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Dothan_Eagle" title="Dothan Eagle">Dothan Eagle</a></i>
+</td>
+<td><a href="/wiki/Dothan,_Alabama" title="Dothan, Alabama">Dothan</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/Berkshire_Hathaway_Inc." class="mw-redirect" title="Berkshire Hathaway Inc.">Berkshire Hathaway Inc.</a><sup id="cite_ref-Hathaway2016_5-0" class="reference"><a href="#cite_note-Hathaway2016-5">&#91;5&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Elberta-Lillian_Ledger&amp;action=edit&amp;redlink=1" class="new" title="Elberta-Lillian Ledger (page does not exist)">Elberta-Lillian Ledger</a></i>
+</td>
+<td><a href="/wiki/Elberta,_Alabama" title="Elberta, Alabama">Elberta</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Enterprise_Ledger&amp;action=edit&amp;redlink=1" class="new" title="Enterprise Ledger (page does not exist)">Enterprise Ledger</a></i>
+</td>
+<td><a href="/wiki/Enterprise,_Alabama" title="Enterprise, Alabama">Enterprise</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Eufaula_Tribune&amp;action=edit&amp;redlink=1" class="new" title="Eufaula Tribune (page does not exist)">Eufaula Tribune</a></i>
+</td>
+<td><a href="/wiki/Eufaula,_Alabama" title="Eufaula, Alabama">Eufaula</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Fairhope_Courier&amp;action=edit&amp;redlink=1" class="new" title="Fairhope Courier (page does not exist)">Fairhope Courier</a></i>
+</td>
+<td><a href="/wiki/Fairhope,_Alabama" title="Fairhope, Alabama">Fairhope</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Foley_Onlooker&amp;action=edit&amp;redlink=1" class="new" title="Foley Onlooker (page does not exist)">Foley Onlooker</a></i>
+</td>
+<td><a href="/wiki/Foley,_Alabama" title="Foley, Alabama">Foley</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Franklin_County_Times&amp;action=edit&amp;redlink=1" class="new" title="Franklin County Times (page does not exist)">Franklin County Times</a></i>
+</td>
+<td><a href="/wiki/Russellville,_Alabama" title="Russellville, Alabama">Russellville</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Gadsden_Times" title="The Gadsden Times">Gadsden Times</a></i>
+</td>
+<td><a href="/wiki/Gadsden,_Alabama" title="Gadsden, Alabama">Gadsden</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/GateHouse_Media" title="GateHouse Media">GateHouse Media</a><sup id="cite_ref-Gatehouse_6-0" class="reference"><a href="#cite_note-Gatehouse-6">&#91;6&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Greenville_Advocate&amp;action=edit&amp;redlink=1" class="new" title="Greenville Advocate (page does not exist)">Greenville Advocate</a></i>
+</td>
+<td><a href="/wiki/Greenville,_Alabama" title="Greenville, Alabama">Greenville</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Huntsville_Times" title="The Huntsville Times">Huntsville Times</a></i>
+</td>
+<td><a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville</a>
+</td>
+<td>1910<sup id="cite_ref-AHF_3-3" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>Daily
+</td>
+<td>Alabama Media Group / <a href="/wiki/Advance_Publications" title="Advance Publications">Advance Publications</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Independent_(Alabama)&amp;action=edit&amp;redlink=1" class="new" title="The Independent (Alabama) (page does not exist)">Independent</a></i>
+</td>
+<td><a href="/wiki/Robertsdale,_Alabama" title="Robertsdale, Alabama">Robertsdale</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Islander_(Gulf_Shores,_Alabama)&amp;action=edit&amp;redlink=1" class="new" title="The Islander (Gulf Shores, Alabama) (page does not exist)">Islander</a></i>
+</td>
+<td><a href="/wiki/Gulf_Shores,_Alabama" title="Gulf Shores, Alabama">Gulf Shores</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Jacksonville_News&amp;action=edit&amp;redlink=1" class="new" title="Jacksonville News (page does not exist)">Jacksonville News</a></i>
+</td>
+<td><a href="/wiki/Jacksonville,_Alabama" title="Jacksonville, Alabama">Jacksonville</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Lagniappe_(newspaper)" title="Lagniappe (newspaper)">Lagniappe</a></i>
+</td>
+<td><a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Lamar Democrat</i><sup id="cite_ref-APA_2-4" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td>Vernon
+</td>
+<td>1896<sup id="cite_ref-AHF_3-4" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Latino_News&amp;action=edit&amp;redlink=1" class="new" title="Latino News (page does not exist)">Latino News</a></i>
+</td>
+<td><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>Statewide, based in Birmingham
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Lowndes_Signal&amp;action=edit&amp;redlink=1" class="new" title="Lowndes Signal (page does not exist)">Lowndes Signal</a></i>
+</td>
+<td><a href="/wiki/Fort_Deposit,_Alabama" title="Fort Deposit, Alabama">Fort Deposit</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Luverne_Journal&amp;action=edit&amp;redlink=1" class="new" title="Luverne Journal (page does not exist)">Luverne Journal</a></i>
+</td>
+<td><a href="/wiki/Luverne,_Alabama" title="Luverne, Alabama">Luverne</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Millbrook_Independent&amp;action=edit&amp;redlink=1" class="new" title="Millbrook Independent (page does not exist)">Millbrook Independent</a></i>
+</td>
+<td><a href="/wiki/Millbrook,_Alabama" title="Millbrook, Alabama">Millbrook</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Mobile_Beacon_%26_Alabama_Citizen&amp;action=edit&amp;redlink=1" class="new" title="Mobile Beacon &amp; Alabama Citizen (page does not exist)">Mobile Beacon &amp; Alabama Citizen</a></i><sup id="cite_ref-APA_2-5" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Montgomery_Advertiser" title="Montgomery Advertiser">Montgomery Advertiser</a></i><sup id="cite_ref-Nation1909_7-0" class="reference"><a href="#cite_note-Nation1909-7">&#91;7&#93;</a></sup>
+</td>
+<td><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a><sup id="cite_ref-APA_2-6" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td>1829<sup id="cite_ref-AHF_3-5" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/Gannett_Company" class="mw-redirect" title="Gannett Company">Gannett Company</a><sup id="cite_ref-Gannett_8-0" class="reference"><a href="#cite_note-Gannett-8">&#91;8&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Montgomery_Independent&amp;action=edit&amp;redlink=1" class="new" title="Montgomery Independent (page does not exist)">Montgomery Independent</a></i><sup id="cite_ref-APA_2-7" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_News_Courier" title="The News Courier">News Courier</a></i>
+</td>
+<td><a href="/wiki/Athens,_Alabama" title="Athens, Alabama">Athens</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/Community_Newspaper_Holdings,_Inc." class="mw-redirect" title="Community Newspaper Holdings, Inc.">Community Newspaper Holdings, Inc.</a><sup id="cite_ref-CNHI_4-1" class="reference"><a href="#cite_note-CNHI-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_North_Jefferson_News" class="mw-redirect" title="The North Jefferson News">North Jefferson News</a></i>
+</td>
+<td><a href="/wiki/Gardendale,_Alabama" title="Gardendale, Alabama">Gardendale</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td><a href="/wiki/Community_Newspaper_Holdings,_Inc." class="mw-redirect" title="Community Newspaper Holdings, Inc.">Community Newspaper Holdings, Inc.</a><sup id="cite_ref-CNHI_4-2" class="reference"><a href="#cite_note-CNHI-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Northport_Gazette&amp;action=edit&amp;redlink=1" class="new" title="Northport Gazette (page does not exist)">Northport Gazette</a></i>
+</td>
+<td><a href="/wiki/Northport,_Alabama" title="Northport, Alabama">Northport</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Opelika-Auburn_News" title="Opelika-Auburn News">Opelika-Auburn News</a></i>
+</td>
+<td><a href="/wiki/Opelika,_Alabama" title="Opelika, Alabama">Opelika</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/Berkshire_Hathaway_Inc." class="mw-redirect" title="Berkshire Hathaway Inc.">Berkshire Hathaway Inc.</a><sup id="cite_ref-Hathaway2016_5-1" class="reference"><a href="#cite_note-Hathaway2016-5">&#91;5&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Opelika_Observer&amp;action=edit&amp;redlink=1" class="new" title="Opelika Observer (page does not exist)">Opelika Observer</a></i>
+</td>
+<td><a href="/wiki/Opelika,_Alabama" title="Opelika, Alabama">Opelika</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Pickens_County_Herald" title="Pickens County Herald">Pickens County Herald</a></i>
+</td>
+<td><a href="/wiki/Carrollton,_Alabama" title="Carrollton, Alabama">Carrollton</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Piedmont_Journal&amp;action=edit&amp;redlink=1" class="new" title="Piedmont Journal (page does not exist)">Piedmont Journal</a></i>
+</td>
+<td><a href="/wiki/Piedmont,_Alabama" title="Piedmont, Alabama">Piedmont</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Post_(Centre,_Alabama)&amp;action=edit&amp;redlink=1" class="new" title="The Post (Centre, Alabama) (page does not exist)">Post</a></i>
+</td>
+<td><a href="/wiki/Centre,_Alabama" title="Centre, Alabama">Centre</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Press-Register" title="Press-Register">Press-Register</a></i><sup id="cite_ref-APA_2-8" class="reference"><a href="#cite_note-APA-2">&#91;2&#93;</a></sup>
+</td>
+<td><a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile</a>
+</td>
+<td>1821<sup id="cite_ref-Nation1909_7-1" class="reference"><a href="#cite_note-Nation1909-7">&#91;7&#93;</a></sup>
+</td>
+<td>Daily
+</td>
+<td>Alabama Media Group / <a href="/wiki/Advance_Publications" title="Advance Publications">Advance Publications</a>
+</td>
+<td>Began as <i>Mobile Commercial Register</i> in 1821, became <i>Press-Register</i> in 1932<sup id="cite_ref-AHF_3-6" class="reference"><a href="#cite_note-AHF-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=St._Clair_Times&amp;action=edit&amp;redlink=1" class="new" title="St. Clair Times (page does not exist)">St. Clair Times</a></i>
+</td>
+<td><a href="/wiki/Pell_City,_Alabama" title="Pell City, Alabama">Pell City</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Sand_Mountain_Reporter" class="mw-redirect" title="Sand Mountain Reporter">Sand Mountain Reporter</a></i>
+</td>
+<td><a href="/wiki/Albertville,_Alabama" title="Albertville, Alabama">Albertville</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Selma_Sun&amp;action=edit&amp;redlink=1" class="new" title="Selma Sun (page does not exist)">Selma Sun</a></i>
+</td>
+<td><a href="/wiki/Selma,_Alabama" title="Selma, Alabama">Selma</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>Cindy Fisher
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Selma_Times-Journal" title="Selma Times-Journal">Selma Times-Journal</a></i>
+</td>
+<td><a href="/wiki/Selma,_Alabama" title="Selma, Alabama">Selma</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Shelby_County_Reporter&amp;action=edit&amp;redlink=1" class="new" title="Shelby County Reporter (page does not exist)">Shelby County Reporter</a></i>
+</td>
+<td><a href="/wiki/Columbiana,_Alabama" title="Columbiana, Alabama">Columbiana</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>South Alabamian</i>
+</td>
+<td>Jackson
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>Jim Cox
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Southeast_Sun" class="mw-redirect" title="The Southeast Sun">Southeast Sun</a></i>
+</td>
+<td><a href="/wiki/Enterprise,_Alabama" title="Enterprise, Alabama">Enterprise</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Southern_Star_(Alabama)" title="The Southern Star (Alabama)">Southern Star</a></i>
+</td>
+<td><a href="/wiki/Ozark,_Alabama" title="Ozark, Alabama">Ozark</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Sumter_Circular_(pamphlet)&amp;action=edit&amp;redlink=1" class="new" title="The Sumter Circular (pamphlet) (page does not exist)">Sumter Circular</a></i>
+</td>
+<td><a href="/wiki/York,_Alabama" title="York, Alabama">York</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Sumter_County_Record-Journal&amp;action=edit&amp;redlink=1" class="new" title="Sumter County Record-Journal (page does not exist)">Sumter County Record-Journal</a></i>
+</td>
+<td><a href="/wiki/Livingston,_Alabama" title="Livingston, Alabama">Livingston</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Talk_Of_Semmes&amp;action=edit&amp;redlink=1" class="new" title="Talk Of Semmes (page does not exist)">Talk Of Semmes</a></i>
+</td>
+<td><a href="/wiki/Semmes,_Alabama" title="Semmes, Alabama">Semmes</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>Daily online, weekly broadsheet
+</td></tr>
+<tr>
+<td><i>Thomasville Times</i>
+</td>
+<td>Thomasville
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>Jim Cox
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Times-Journal" title="Times-Journal">Times-Journal</a></i>
+</td>
+<td><a href="/wiki/Fort_Payne,_Alabama" title="Fort Payne, Alabama">Fort Payne</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Times-Record_(Alabama)" title="The Times-Record (Alabama)">Times-Record</a></i>
+</td>
+<td><a href="/wiki/Fayette,_Alabama" title="Fayette, Alabama">Fayette</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/TimesDaily" title="TimesDaily">TimesDaily</a></i>
+</td>
+<td><a href="/wiki/Florence,_Alabama" title="Florence, Alabama">Florence</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Troy_Messenger&amp;action=edit&amp;redlink=1" class="new" title="Troy Messenger (page does not exist)">Troy Messenger</a></i>
+</td>
+<td><a href="/wiki/Troy,_Alabama" title="Troy, Alabama">Troy</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Tuscaloosa_News" title="The Tuscaloosa News">Tuscaloosa News</a></i>
+</td>
+<td><a href="/wiki/Tuscaloosa,_Alabama" title="Tuscaloosa, Alabama">Tuscaloosa</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td><a href="/wiki/GateHouse_Media" title="GateHouse Media">GateHouse Media</a><sup id="cite_ref-Gatehouse_6-1" class="reference"><a href="#cite_note-Gatehouse-6">&#91;6&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Valley_Times-News&amp;action=edit&amp;redlink=1" class="new" title="Valley Times-News (page does not exist)">Valley Times-News</a></i>
+</td>
+<td><a href="/wiki/Lanett,_Alabama" title="Lanett, Alabama">Lanett</a>
+</td>
+<td>
+</td>
+<td>Daily
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://www.washcountynews.com/"><i>Washington County News</i></a>
+</td>
+<td>Chatom
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>Willie T. Gray / Gray &amp; Gray Inc.
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Western_Star_(Bessemer,_Alabama)" class="mw-redirect" title="The Western Star (Bessemer, Alabama)">Western Star</a></i>
+</td>
+<td><a href="/wiki/Bessemer,_Alabama" title="Bessemer, Alabama">Bessemer</a>
+</td>
+<td>
+</td>
+<td>Weekly
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="University_newspapers">University newspapers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=2" title="Edit section: University newspapers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Auburn_Plainsman" title="The Auburn Plainsman">The Auburn Plainsman</a></i> – <a href="/wiki/Auburn_University" title="Auburn University">Auburn University</a></li>
+<li><i><a href="/wiki/The_Crimson_White" title="The Crimson White">The Crimson White</a></i> – <a href="/wiki/University_of_Alabama" title="University of Alabama">University of Alabama, Tuscaloosa</a></li>
+<li><i>The Vanguard</i>-<a href="/wiki/The_University_of_South_Alabama" class="mw-redirect" title="The University of South Alabama">The University of South Alabama</a></li>
+<li><i>The Springhillian</i> - <a href="/wiki/Spring_Hill_College" title="Spring Hill College">Spring Hill College</a></li>
+<li><i>The Chanticleer</i> - <a href="/w/index.php?title=Jacksonville_State_University,_Jacksonville&amp;action=edit&amp;redlink=1" class="new" title="Jacksonville State University, Jacksonville (page does not exist)">Jacksonville State University, Jacksonville</a></li></ul>
+<h2><span class="mw-headline" id="Defunct">Defunct</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=3" title="Edit section: Defunct">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Title
+</th>
+<th>Locale
+</th>
+<th>Year est.
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><i>Advertiser</i>
+</td>
+<td><a href="/wiki/Moulton,_Alabama" title="Moulton, Alabama">Moulton</a>
+</td>
+<td>1828<sup id="cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-1" class="reference"><a href="#cite_note-FOOTNOTEFederal_Writers&#39;_Project1941-1">&#91;1&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Advocate</i>
+</td>
+<td>Huntsville
+</td>
+<td>1815
+</td>
+<td>Ceased in 1893<sup id="cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-2" class="reference"><a href="#cite_note-FOOTNOTEFederal_Writers&#39;_Project1941-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=The_Alabama_Observer&amp;action=edit&amp;redlink=1" class="new" title="The Alabama Observer (page does not exist)">Alabama Observer</a></i>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Alabama Republican</i>
+</td>
+<td>Huntsville
+</td>
+<td>1816<sup id="cite_ref-Williams1979_9-0" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>American Star</i><sup id="cite_ref-Detweiler1922_10-0" class="reference"><a href="#cite_note-Detweiler1922-10">&#91;10&#93;</a></sup>
+</td>
+<td>Sheffield
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Baptist Leader</i><sup id="cite_ref-Detweiler1922_10-1" class="reference"><a href="#cite_note-Detweiler1922-10">&#91;10&#93;</a></sup>
+</td>
+<td>Birmingham
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Birmingham Iron Age</i>
+</td>
+<td>Birmingham
+</td>
+<td>1874<sup id="cite_ref-bpl_11-0" class="reference"><a href="#cite_note-bpl-11">&#91;11&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Birmingham_Post-Herald" title="Birmingham Post-Herald">Birmingham Post-Herald</a></i>
+</td>
+<td>Birmingham
+</td>
+<td>
+</td>
+<td>Ceased in 2005
+</td></tr>
+<tr>
+<td><i>Cahawba Press and Alabama Intelligencer</i>
+</td>
+<td>
+</td>
+<td>1819<sup id="cite_ref-Williams1979_9-1" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Halcyon</i>
+</td>
+<td>St. Stephens
+</td>
+<td>1814<sup id="cite_ref-Williams1979_9-2" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Hoover_Gazette" title="The Hoover Gazette">Hoover Gazette</a></i>
+</td>
+<td>Hoover
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>2006
+</td>
+<td><i>Huntsville News</i>
+</td>
+<td>Huntsville
+</td>
+<td>1964
+</td>
+<td>Ceased in 1996<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Meteor" title="The Meteor">Meteor</a></i>
+</td>
+<td><a href="/wiki/Tuscaloosa,_Alabama" title="Tuscaloosa, Alabama">Tuscaloosa</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Mobile Centinel</i>
+</td>
+<td><a href="/wiki/Fort_Stoddert" title="Fort Stoddert">Fort Stoddert</a>
+</td>
+<td>1811<sup id="cite_ref-Williams1979_9-3" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Mobile Gazette</i>
+</td>
+<td>
+</td>
+<td>1813<sup id="cite_ref-Williams1979_9-4" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Pike County News</i><sup id="cite_ref-Detweiler1922_10-2" class="reference"><a href="#cite_note-Detweiler1922-10">&#91;10&#93;</a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Republican</i>
+</td>
+<td>Montgomery
+</td>
+<td>1821<sup id="cite_ref-Williams1979_9-5" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Republican</i>
+</td>
+<td>Tuscaloosa
+</td>
+<td>1819<sup id="cite_ref-Williams1979_9-6" class="reference"><a href="#cite_note-Williams1979-9">&#91;9&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Southern_Courier" title="The Southern Courier">Southern Courier</a></i>
+</td>
+<td><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a>
+</td>
+<td>1964
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>Times-Plain Dealer</i><sup id="cite_ref-Detweiler1922_10-3" class="reference"><a href="#cite_note-Detweiler1922-10">&#91;10&#93;</a></sup>
+</td>
+<td>Birmingham
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Times-Journal" title="Times-Journal">Weekly Post</a></i>
+</td>
+<td><a href="/wiki/Rainsville,_Alabama" title="Rainsville, Alabama">Rainsville</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul>
+<li><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" decoding="async" width="32" height="17" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span><span><a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></span></li>
+<li><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/28px-Newspaper_nicu_buculei_01.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/42px-Newspaper_nicu_buculei_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/56px-Newspaper_nicu_buculei_01.svg.png 2x" data-file-width="160" data-file-height="160" /></span><span><a href="/wiki/Portal:Journalism" title="Portal:Journalism">Journalism portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Alabama#Media" title="Alabama">Alabama media</a>
+<ul><li><a href="/wiki/List_of_radio_stations_in_Alabama" title="List of radio stations in Alabama">List of radio stations in Alabama</a></li>
+<li><a href="/wiki/List_of_television_stations_in_Alabama" title="List of television stations in Alabama">List of television stations in Alabama</a></li>
+<li><a href="/wiki/Media_of_the_United_States" class="mw-redirect" title="Media of the United States">Media</a> in <a href="/wiki/List_of_cities_and_towns_in_Alabama" title="List of cities and towns in Alabama">cities</a> in Alabama: <a href="/wiki/Birmingham,_Alabama#Media" title="Birmingham, Alabama">Birmingham</a>, <a href="/wiki/Huntsville,_Alabama#Media_and_communications" title="Huntsville, Alabama">Huntsville</a>, <a href="/wiki/Media_in_Mobile,_Alabama" title="Media in Mobile, Alabama">Mobile</a>, <a href="/wiki/Montgomery,_Alabama#Media" title="Montgomery, Alabama">Montgomery</a>, <a href="/wiki/Tuscaloosa,_Alabama#Media" title="Tuscaloosa, Alabama">Tuscaloosa</a></li></ul></li>
+<li>Journalism:
+<ul><li><a href="/wiki/Category:Journalists_from_Alabama" title="Category:Journalists from Alabama">Category:Journalists from Alabama</a></li>
+<li><a href="/wiki/University_of_Alabama_College_of_Communication_and_Information_Sciences" class="mw-redirect" title="University of Alabama College of Communication and Information Sciences">University of Alabama College of Communication and Information Sciences</a> in Tuscaloosa</li></ul></li>
+<li><a href="/wiki/Alabama_literature" title="Alabama literature">Alabama literature</a></li>
+<li><a href="/wiki/Fake_news_websites_in_the_United_States" title="Fake news websites in the United States">Fake news websites in the United States</a></li></ul>
+<div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;background:#cdc8b8">U.S. newspapers</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
 <div>
 <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
 <tbody><tr>
@@ -147,15 +1435,86 @@
 <p>&#32;
 </p>
 </td></tr></tbody></table></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+</div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-</div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-FOOTNOTEFederal_Writers&#39;_Project1941-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEFederal_Writers&#39;_Project1941_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFFederal_Writers&#39;_Project1941">Federal Writers' Project 1941</a>.</span>
+</li>
+<li id="cite_note-APA-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-APA_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-APA_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-APA_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-APA_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-APA_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-APA_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-APA_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-APA_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-APA_2-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://alabamapress.org/active-papers/">"Alabama Newspapers"</a>. Birmingham: Alabama Press Association<span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alabama+Newspapers&amp;rft.place=Birmingham&amp;rft.pub=Alabama+Press+Association&amp;rft_id=http%3A%2F%2Falabamapress.org%2Factive-papers%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-AHF-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-AHF_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AHF_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AHF_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AHF_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AHF_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-AHF_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-AHF_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.encyclopediaofalabama.org">"Encyclopedia of Alabama"</a>. <a href="/wiki/Encyclopedia_of_Alabama" title="Encyclopedia of Alabama">Alabama Humanities Foundation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Encyclopedia+of+Alabama&amp;rft.pub=Alabama+Humanities+Foundation&amp;rft_id=http%3A%2F%2Fwww.encyclopediaofalabama.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-CNHI-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-CNHI_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CNHI_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CNHI_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFCommunity_Newspaper_Holdings,_Inc." class="citation cs2">Community Newspaper Holdings, Inc., <a rel="nofollow" class="external text" href="http://www.cnhi.com/locations/"><i>Locations: Alabama</i></a>, Montgomery, AL<span class="reference-accessdate">, retrieved <span class="nowrap">March 27,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Locations%3A+Alabama&amp;rft.place=Montgomery%2C+AL&amp;rft.au=Community+Newspaper+Holdings%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.cnhi.com%2Flocations%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Hathaway2016-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hathaway2016_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hathaway2016_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBerkshire_Hathaway_Inc." class="citation cs2">Berkshire Hathaway Inc., <a rel="nofollow" class="external text" href="http://www.berkshirehathaway.com/2016ar/2016ar.pdf">"Daily Newspapers: Alabama"</a> <span class="cs1-format">(PDF)</span>, <i>2016 Annual Report</i>, Omaha, Nebraska</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Daily+Newspapers%3A+Alabama&amp;rft.btitle=2016+Annual+Report&amp;rft.place=Omaha%2C+Nebraska&amp;rft.au=Berkshire+Hathaway+Inc.&amp;rft_id=http%3A%2F%2Fwww.berkshirehathaway.com%2F2016ar%2F2016ar.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Gatehouse-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gatehouse_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gatehouse_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFGateHouse_Media,_LLC" class="citation cs2">GateHouse Media, LLC, <a rel="nofollow" class="external text" href="http://www.gatehousemedia.com/our-markets/"><i>Our Markets: Alabama</i></a>, Pittsford, New York<span class="reference-accessdate">, retrieved <span class="nowrap">March 27,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Our+Markets%3A+Alabama&amp;rft.place=Pittsford%2C+New+York&amp;rft.au=GateHouse+Media%2C+LLC&amp;rft_id=http%3A%2F%2Fwww.gatehousemedia.com%2Four-markets%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Nation1909-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nation1909_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nation1909_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/yale.39002004114386?urlappend=%3Bseq=522">"Southern Press"</a>. <i>The South in the Building of the Nation</i>. <b>7</b>. Richmond, VA: Southern Historical Publication Society. 1909. pp.&#160;402–436. <q>Date of establishment of leading Southern newspapers</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Southern+Press&amp;rft.btitle=The+South+in+the+Building+of+the+Nation&amp;rft.place=Richmond%2C+VA&amp;rft.pages=402-436&amp;rft.pub=Southern+Historical+Publication+Society&amp;rft.date=1909&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F2027%2Fyale.39002004114386%3Furlappend%3D%253Bseq%3D522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Gannett-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gannett_8-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGannett_Co.,_Inc." class="citation cs2">Gannett Co., Inc., <a rel="nofollow" class="external text" href="http://www.gannett.com/brands/"><i>Our Brands: Alabama</i></a>, McLean, Virginia<span class="reference-accessdate">, retrieved <span class="nowrap">March 27,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Our+Brands%3A+Alabama&amp;rft.place=McLean%2C+Virginia&amp;rft.au=Gannett+Co.%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.gannett.com%2Fbrands%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Williams1979-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Williams1979_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Williams1979_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Williams1979_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Williams1979_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Williams1979_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Williams1979_9-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Williams1979_9-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBenjamin_Buford_Williams1979" class="citation book cs1">Benjamin Buford Williams (1979). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OKvwAtysmYcC"><i>A Literary History of Alabama: the Nineteenth Century</i></a>. Fairleigh Dickinson University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8386-2054-0" title="Special:BookSources/978-0-8386-2054-0"><bdi>978-0-8386-2054-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Literary+History+of+Alabama%3A+the+Nineteenth+Century&amp;rft.pub=Fairleigh+Dickinson+University+Press&amp;rft.date=1979&amp;rft.isbn=978-0-8386-2054-0&amp;rft.au=Benjamin+Buford+Williams&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOKvwAtysmYcC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Detweiler1922-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Detweiler1922_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Detweiler1922_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Detweiler1922_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Detweiler1922_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFFrederick_German_Detweiler1922" class="citation book cs1"><a href="/wiki/Frederick_German_Detweiler" title="Frederick German Detweiler">Frederick German Detweiler</a> (1922). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=B7MQAAAAYAAJ"><i>The Negro Press in the United States</i></a>. University of Chicago Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Negro+Press+in+the+United+States&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1922&amp;rft.au=Frederick+German+Detweiler&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DB7MQAAAAYAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-bpl-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-bpl_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bplonline.org/resources/Digital_Project/Collections.asp">"Browse Collections"</a>. <i>Digital Collections</i>. Birmingham Public Library<span class="reference-accessdate">. Retrieved <span class="nowrap">March 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Collections&amp;rft.atitle=Browse+Collections&amp;rft_id=http%3A%2F%2Fwww.bplonline.org%2Fresources%2FDigital_Project%2FCollections.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://congress.gov/congressional-record/1996/03/06/senate-section/article/S1550-1">"Goodbye to the Huntsville News"</a>, <i><a href="/wiki/Congressional_Record" title="Congressional Record">Congressional Record</a></i>, Washington DC, March 6, 1996</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Congressional+Record&amp;rft.atitle=Goodbye+to+the+Huntsville+News&amp;rft.date=1996-03-06&amp;rft_id=https%3A%2F%2Fcongress.gov%2Fcongressional-record%2F1996%2F03%2F06%2Fsenate-section%2Farticle%2FS1550-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040205013634/http://abcas3.accessabc.com/eCirc/index.html">eCirc</a> <i>FAS-FAX Report</i> 2005-03-31.  <a href="/wiki/Audit_Bureau_of_Circulations_(North_America)" class="mw-redirect" title="Audit Bureau of Circulations (North America)">Audit Bureau of Circulations</a>.</li></ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFSaffold_Berney1878" class="citation cs2">Saffold Berney (1878), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nYZQAAAAYAAJ&amp;pg=PA304">"Newspapers in Alabama"</a>, <i>Handbook of Alabama</i>, Mobile: Mobile Register print.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Newspapers+in+Alabama&amp;rft.btitle=Handbook+of+Alabama&amp;rft.place=Mobile&amp;rft.pub=Mobile+Register+print.&amp;rft.date=1878&amp;rft.au=Saffold+Berney&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnYZQAAAAYAAJ%26pg%3DPA304&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFNorth1884" class="citation book cs1"><a href="/wiki/S._N._D._North" title="S. N. D. North">S. N. D. North</a>; <a href="/wiki/United_States_Department_of_the_Interior" title="United States Department of the Interior">United States Department of the Interior</a> (1884). <a rel="nofollow" class="external text" href="https://archive.org/stream/cu31924083814453#page/n259/mode/2up">"Catalogue of Periodical Publications: Alabama"</a>. <i>History and Present Condition of the Newspaper and Periodical Press of the United States</i>. Washington, D.C.: Government Printing Office. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1850475">1850475</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Catalogue+of+Periodical+Publications%3A+Alabama&amp;rft.btitle=History+and+Present+Condition+of+the+Newspaper+and+Periodical+Press+of+the+United+States&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=Government+Printing+Office&amp;rft.date=1884&amp;rft_id=info%3Aoclcnum%2F1850475&amp;rft.au=S.+N.+D.+North&amp;rft.au=United+States+Department+of+the+Interior&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fcu31924083814453%23page%2Fn259%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (+ <a rel="nofollow" class="external text" href="https://archive.org/stream/cu31924083814453#page/n93/mode/1up">List of titles 50+ years old</a>)</li>
+<li><cite id="CITEREFJames_T._Haley1895" class="citation cs2">James T. Haley, ed. (1895), <a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/inu.30000029292855?urlappend=%3Bseq=152">"Newspapers: Alabama"</a>, <i>Afro-American Encyclopaedia</i>, Nashville: Haley &amp; Florida, <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/219597043">219597043</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Newspapers%3A+Alabama&amp;rft.btitle=Afro-American+Encyclopaedia&amp;rft.place=Nashville&amp;rft.pub=Haley+%26+Florida&amp;rft.date=1895&amp;rft_id=info%3Aoclcnum%2F219597043&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F2027%2Finu.30000029292855%3Furlappend%3D%253Bseq%3D152&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/umn.31951002273861a?urlappend=%3Bseq=25">"Alabama"</a>. <i>American Newspaper Directory</i>. New York: <a href="/wiki/George_P._Rowell" title="George P. Rowell">George P. Rowell</a>. 1900.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Alabama&amp;rft.btitle=American+Newspaper+Directory&amp;rft.place=New+York&amp;rft.pub=George+P.+Rowell&amp;rft.date=1900&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F2027%2Fumn.31951002273861a%3Furlappend%3D%253Bseq%3D25&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=VE9EAQAAMAAJ&amp;pg=PA263">"Newspaper Industry"</a>. <i>Alabama Hand Book: Agricultural and Industrial Resources and Opportunities</i>. Montgomery: Alabama Department of Agriculture and Industries. 1919.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Newspaper+Industry&amp;rft.btitle=Alabama+Hand+Book%3A+Agricultural+and+Industrial+Resources+and+Opportunities&amp;rft.place=Montgomery&amp;rft.pub=Alabama+Department+of+Agriculture+and+Industries&amp;rft.date=1919&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVE9EAQAAMAAJ%26pg%3DPA263&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/umn.31951001295695n?urlappend=%3Bseq=61">"Alabama"</a>. <i>American Newspaper Annual &amp; Directory</i>. Philadelphia: <a href="/wiki/N._W._Ayer_%26_Son" title="N. W. Ayer &amp; Son">N. W. Ayer &amp; Son</a>. 1922. pp.&#160;33+.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Alabama&amp;rft.btitle=American+Newspaper+Annual+%26+Directory&amp;rft.place=Philadelphia&amp;rft.pages=33%2B&amp;rft.pub=N.+W.+Ayer+%26+Son&amp;rft.date=1922&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F2027%2Fumn.31951001295695n%3Furlappend%3D%253Bseq%3D61&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFFederal_Writers&#39;_Project1941" class="citation cs2"><a href="/wiki/Federal_Writers%27_Project" title="Federal Writers&#39; Project">Federal Writers' Project</a> (1941), <a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/uc1.b4469723?urlappend=%3Bseq=178">"Newspapers and Radio"</a>, <i>Alabama; a Guide to the Deep South</i>, <a href="/wiki/American_Guide_Series" title="American Guide Series">American Guide Series</a>, New York: Hastings House, pp.&#160;110–115 &#8211; via HathiTrust</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Newspapers+and+Radio&amp;rft.btitle=Alabama%3B+a+Guide+to+the+Deep+South&amp;rft.place=New+York&amp;rft.series=American+Guide+Series&amp;rft.pages=110-115&amp;rft.pub=Hastings+House&amp;rft.date=1941&amp;rft.au=Federal+Writers%27+Project&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F2027%2Fuc1.b4469723%3Furlappend%3D%253Bseq%3D178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFRhoda_Coleman_Ellison1946" class="citation journal cs1">Rhoda Coleman Ellison (1946). "Newspaper Publishing in Frontier Alabama". <i>Journalism &amp; Mass Communication Quarterly</i>. <b>23</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journalism+%26+Mass+Communication+Quarterly&amp;rft.atitle=Newspaper+Publishing+in+Frontier+Alabama&amp;rft.volume=23&amp;rft.date=1946&amp;rft.au=Rhoda+Coleman+Ellison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFThomas_D._Clark1948" class="citation book cs1"><a href="/wiki/Thomas_D._Clark" title="Thomas D. Clark">Thomas D. Clark</a> (1948). <i>Southern Country Editor</i>. Bobbs-Merrill. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/525858">525858</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Southern+Country+Editor&amp;rft.pub=Bobbs-Merrill&amp;rft.date=1948&amp;rft_id=info%3Aoclcnum%2F525858&amp;rft.au=Thomas+D.+Clark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (Includes information about weekly rural newspapers in Alabama)</li>
+<li>Rhoda Coleman Ellison. History and Bibliography of Alabama Newspapers in the Nineteenth Century. Tuscaloosa: University of Alabama Press, 1954.</li>
+<li><cite id="CITEREFJames_Boylan1963" class="citation journal cs1">James Boylan (1963). "Birmingham: newspapers in a crisis". <i><a href="/wiki/Columbia_Journalism_Review" title="Columbia Journalism Review">Columbia Journalism Review</a></i>. <b>2</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Columbia+Journalism+Review&amp;rft.atitle=Birmingham%3A+newspapers+in+a+crisis&amp;rft.volume=2&amp;rft.date=1963&amp;rft.au=James+Boylan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFDaniel_Savage_Gray1975" class="citation journal cs1">Daniel Savage Gray (1975). "Frontier Journalism: Newspapers in Antebellum Alabama". <i>Alabama Historical Quarterly</i>. <b>37</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Alabama+Historical+Quarterly&amp;rft.atitle=Frontier+Journalism%3A+Newspapers+in+Antebellum+Alabama&amp;rft.volume=37&amp;rft.date=1975&amp;rft.au=Daniel+Savage+Gray&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFAllen_W._Jones1984" class="citation journal cs1">Allen W. Jones (1984). "Voices for Improving Rural Life: Alabama's Black Agricultural Press, 1890-1965". <i>Agricultural History</i>. <b>58</b> (3): 209–220. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3743075">3743075</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Agricultural+History&amp;rft.atitle=Voices+for+Improving+Rural+Life%3A+Alabama%27s+Black+Agricultural+Press%2C+1890-1965&amp;rft.volume=58&amp;rft.issue=3&amp;rft.pages=209-220&amp;rft.date=1984&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3743075&amp;rft.au=Allen+W.+Jones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFKing_E._Williams,_Jr.1997" class="citation book cs1">King E. Williams, Jr. (1997). <i>The Press of Alabama: A History of the Alabama Press Association</i>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1878561545" title="Special:BookSources/1878561545"><bdi>1878561545</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Press+of+Alabama%3A+A+History+of+the+Alabama+Press+Association&amp;rft.date=1997&amp;rft.isbn=1878561545&amp;rft.au=King+E.+Williams%2C+Jr.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFBrown1998" class="citation book cs1">Lynda Brown;  et al. (1998). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=FkBQbq2Rv4AC"><i>Alabama History: an Annotated Bibliography</i></a>. Greenwood Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-28223-2" title="Special:BookSources/978-0-313-28223-2"><bdi>978-0-313-28223-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Alabama+History%3A+an+Annotated+Bibliography&amp;rft.pub=Greenwood+Press&amp;rft.date=1998&amp;rft.isbn=978-0-313-28223-2&amp;rft.au=Lynda+Brown&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFkBQbq2Rv4AC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (Includes information about Alabama newspapers)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Newspapers_of_Alabama" class="extiw" title="commons:Category:Newspapers of Alabama"><span style="">Newspapers of Alabama</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://libguides.bgsu.edu/c.php?g=227435&amp;p=1507084">"Alabama Newspapers"</a>. <i>Historical U.S. Newspapers Online</i>. Library Guides. Ohio: <a href="/wiki/Bowling_Green_State_University" title="Bowling Green State University">Bowling Green State University</a>. <q>Newspapers that are freely available on the Internet</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Historical+U.S.+Newspapers+Online&amp;rft.atitle=Alabama+Newspapers&amp;rft_id=http%3A%2F%2Flibguides.bgsu.edu%2Fc.php%3Fg%3D227435%26p%3D1507084&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://chroniclingamerica.loc.gov/search/titles/results/?state=Alabama&amp;rows=50&amp;sort=date">"US Newspaper Directory: Alabama"</a>. <i><a href="/wiki/Chronicling_America" title="Chronicling America">Chronicling America</a></i>. Washington DC: Library of Congress.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chronicling+America&amp;rft.atitle=US+Newspaper+Directory%3A+Alabama&amp;rft_id=http%3A%2F%2Fchroniclingamerica.loc.gov%2Fsearch%2Ftitles%2Fresults%2F%3Fstate%3DAlabama%26rows%3D50%26sort%3Ddate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://dmoztools.net/News/Newspapers/Regional/United_States/Alabama/">"News: Newspapers: Regional: United States: Alabama"</a>. <i><a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></i>. <a href="/wiki/AOL" title="AOL">AOL</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DMOZ&amp;rft.atitle=News%3A+Newspapers%3A+Regional%3A+United+States%3A+Alabama&amp;rft_id=http%3A%2F%2Fdmoztools.net%2FNews%2FNewspapers%2FRegional%2FUnited_States%2FAlabama%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (Directory ceased in 2017)</li>
+<li><cite id="CITEREFFord_Risley" class="citation encyclopaedia cs1">Ford Risley. <a rel="nofollow" class="external text" href="http://www.encyclopediaofalabama.org/article/h-3457">"Civil War Journalism in Alabama"</a>. <i><a href="/wiki/Encyclopedia_of_Alabama" title="Encyclopedia of Alabama">Encyclopedia of Alabama</a></i>. Alabama Humanities Foundation.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Civil+War+Journalism+in+Alabama&amp;rft.btitle=Encyclopedia+of+Alabama&amp;rft.pub=Alabama+Humanities+Foundation&amp;rft.au=Ford+Risley&amp;rft_id=http%3A%2F%2Fwww.encyclopediaofalabama.org%2Farticle%2Fh-3457&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://digital.archives.alabama.gov/cdm/landingpage/collection/cwnp">"Alabama Civil War and Reconstruction Newspapers"</a>. <i>Digital Collections</i>. Montgomery: <a href="/wiki/Alabama_Department_of_Archives_and_History" title="Alabama Department of Archives and History">Alabama Department of Archives and History</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Collections&amp;rft.atitle=Alabama+Civil+War+and+Reconstruction+Newspapers&amp;rft_id=http%3A%2F%2Fdigital.archives.alabama.gov%2Fcdm%2Flandingpage%2Fcollection%2Fcwnp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://digital.archives.alabama.gov/cdm/landingpage/collection/amg">"Alabama Media Group Collection"</a>. <i>Digital Collections</i>. Alabama Department of Archives and History. <q>Photographic negatives taken by newspaper photographers working for the Birmingham News, the Huntsville Times, and Mobile’s Press-Register between the 1920s and the early 2000s</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Collections&amp;rft.atitle=Alabama+Media+Group+Collection&amp;rft_id=http%3A%2F%2Fdigital.archives.alabama.gov%2Fcdm%2Flandingpage%2Fcollection%2Famg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFAuburn_University_Libraries" class="citation web cs1"><a href="/wiki/Auburn_University" title="Auburn University">Auburn University</a> Libraries. <a rel="nofollow" class="external text" href="http://libguides.auburn.edu/newspapers">"Newspapers at Auburn Libraries: Newspaper Sources: Alabama Newspapers"</a>. <i>Subject Guides</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Subject+Guides&amp;rft.atitle=Newspapers+at+Auburn+Libraries%3A+Newspaper+Sources%3A+Alabama+Newspapers&amp;rft.au=Auburn+University+Libraries&amp;rft_id=http%3A%2F%2Flibguides.auburn.edu%2Fnewspapers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><a rel="nofollow" class="external text" href="http://www.usnpl.com/alnews.html">USNPL.com: Alabama Newspapers</a>. US Newspaper List.</li>
+<li><cite id="CITEREFInternational_Coalition_on_Newspapers" class="citation web cs1"><a href="/wiki/International_Coalition_on_Newspapers" class="mw-redirect" title="International Coalition on Newspapers">International Coalition on Newspapers</a>. <a rel="nofollow" class="external text" href="http://icon.crl.edu/digitization.php">"Newspaper Digitization Projects: United States: Alabama"</a>. Chicago: Center for Research Libraries.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Newspaper+Digitization+Projects%3A+United+States%3A+Alabama&amp;rft.place=Chicago&amp;rft.pub=Center+for+Research+Libraries&amp;rft.au=International+Coalition+on+Newspapers&amp;rft_id=http%3A%2F%2Ficon.crl.edu%2Fdigitization.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFUniversity_of_Florida" class="citation web cs1">University of Florida. <a rel="nofollow" class="external text" href="http://ufdc.ufl.edu/hnccoll/browseby/state">"Alabama"</a>. <i><a href="/wiki/NewspaperCat" title="NewspaperCat">NewspaperCat</a>: Catalog of Digital Historical Newspapers</i>. Gainesville.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NewspaperCat%3A+Catalog+of+Digital+Historical+Newspapers&amp;rft.atitle=Alabama&amp;rft.au=University+of+Florida&amp;rft_id=http%3A%2F%2Fufdc.ufl.edu%2Fhnccoll%2Fbrowseby%2Fstate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/19970215085740/http://www.n-net.com/al.htm">"Alabama"</a>. <i>N-Net: the Newspaper Network on the World Wide Web</i>. Archived from <a rel="nofollow" class="external text" href="http://www.n-net.com/al.htm">the original</a> on February 15, 1997.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=N-Net%3A+the+Newspaper+Network+on+the+World+Wide+Web&amp;rft.atitle=Alabama&amp;rft_id=http%3A%2F%2Fwww.n-net.com%2Fal.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20000226051055/http://ajr.newslink.org/alnews.html">"Alabama Newspapers"</a>. <i>AJR News Link</i>. <a href="/wiki/American_Journalism_Review" title="American Journalism Review">American Journalism Review</a>. Archived from <a rel="nofollow" class="external text" href="http://ajr.newslink.org/alnews.html">the original</a> on February 26, 2000.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AJR+News+Link&amp;rft.atitle=Alabama+Newspapers&amp;rft_id=http%3A%2F%2Fajr.newslink.org%2Falnews.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20011120112031/http://www.newsdirectory.com/news/press/na/us/al/">"United States: Alabama"</a>. <i>NewsDirectory.com</i>. Toronto: <a href="/wiki/Tucows_Inc." class="mw-redirect" title="Tucows Inc.">Tucows Inc.</a> Archived from <a rel="nofollow" class="external text" href="http://www.newsdirectory.com/news/press/na/us/al/">the original</a> on November 20, 2001.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NewsDirectory.com&amp;rft.atitle=United+States%3A+Alabama&amp;rft_id=http%3A%2F%2Fwww.newsdirectory.com%2Fnews%2Fpress%2Fna%2Fus%2Fal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+newspapers+in+Alabama" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li></ul>
+<h3><span class="mw-headline" id="Images">Images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit&amp;section=8" title="Edit section: Images">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:1811_Mobile_Centinel_Alabama.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1811_Mobile_Centinel_Alabama.png/69px-1811_Mobile_Centinel_Alabama.png" decoding="async" width="69" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1811_Mobile_Centinel_Alabama.png/103px-1811_Mobile_Centinel_Alabama.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1811_Mobile_Centinel_Alabama.png/138px-1811_Mobile_Centinel_Alabama.png 2x" data-file-width="738" data-file-height="1285" /></a></div></div>
+			<div class="gallerytext">
+<p><i>Mobile Centinel</i>, 1811
+</p>
+			</div>
+		</div></li>
+</ul>
 <p><br />
 </p>
 <div role="navigation" class="navbox" aria-labelledby="Newspapers_in_the_United_States_(North_America)" style="text-align:left;;padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Newspapers_in_the_United_States" title="Template:Newspapers in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Newspapers_in_the_United_States" title="Template talk:Newspapers in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Newspapers_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Newspapers_in_the_United_States_(North_America)" style="font-size:114%;margin:0 4em"><a href="/wiki/Newspapers_in_the_United_States" title="Newspapers in the United States">Newspapers in the United States</a> (<a href="/wiki/Lists_of_newspapers#North_America" title="Lists of newspapers">North America</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:right; vertical-align:top;"><a href="/wiki/U.S._state" title="U.S. state">States</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/List_of_newspapers_in_Alabama" title="List of newspapers in Alabama">Alabama</a></li>
-<li><a class="mw-selflink selflink">Alaska</a></li>
+<ul><li><a class="mw-selflink selflink">Alabama</a></li>
+<li><a href="/wiki/List_of_newspapers_in_Alaska" title="List of newspapers in Alaska">Alaska</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Arizona" title="List of newspapers in Arizona">Arizona</a></li>
 <li><a href="/wiki/List_of_newspapers_in_Arkansas" title="List of newspapers in Arkansas">Arkansas</a></li>
 <li><a href="/wiki/List_of_newspapers_in_California" title="List of newspapers in California">California</a></li>
@@ -230,142 +1589,184 @@
 <li><a href="/wiki/List_of_underground_press_in_the_United_States" class="mw-redirect" title="List of underground press in the United States">Underground</a></li>
 <li><a href="/wiki/List_of_weekly_newspapers_in_the_United_States" title="List of weekly newspapers in the United States">Weekly</a></li></ul>
 </div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#BBDDFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alaska" title="Template:Alaska"><abbr title="View this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alaska" title="Template talk:Alaska"><abbr title="Discuss this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Alaska&amp;action=edit"><abbr title="Edit this template" style="background-color:#BBDDFF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alaska" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/23px-Flag_of_Alaska.svg.png" decoding="async" width="23" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/34px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/46px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Alaska" title="Alaska">Alaska</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div id="Juneau_(capital)"><b><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/Outline_of_Alaska" title="Outline of Alaska">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Index_of_Alaska-related_articles" title="Index of Alaska-related articles">Index</a></li>
-<li><a href="/wiki/Geography_of_Alaska" title="Geography of Alaska">Geography</a></li>
-<li><a href="/wiki/List_of_earthquakes_in_Alaska" title="List of earthquakes in Alaska">Earthquakes</a></li>
-<li><a href="/wiki/Climate_of_Alaska" title="Climate of Alaska">Climate</a></li>
-<li><a href="/wiki/Wildlife_of_Alaska" title="Wildlife of Alaska">Wildlife</a></li>
-<li><a href="/wiki/History_of_Alaska" title="History of Alaska">History</a></li>
-<li><a href="/wiki/List_of_people_from_Alaska" title="List of people from Alaska">People</a></li>
-<li><a href="/wiki/Transportation_in_Alaska" title="Transportation in Alaska">Transportation</a></li>
-<li><a href="/wiki/Government_of_Alaska" title="Government of Alaska">Government</a></li>
-<li><a href="/wiki/United_States_congressional_delegations_from_Alaska" title="United States congressional delegations from Alaska">Delegations</a></li>
-<li><a href="/wiki/Music_of_Alaska" title="Music of Alaska">Music</a></li></ul>
-</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/100px-State_Seal_of_Alaska.svg.png" decoding="async" width="100" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/150px-State_Seal_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_Seal_of_Alaska.svg/200px-State_Seal_of_Alaska.svg.png 2x" data-file-width="393" data-file-height="388" /></div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%">Society</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Crime_in_Alaska" title="Crime in Alaska">Crime</a></li>
-<li><a href="/wiki/Demographics_of_Alaska" title="Demographics of Alaska">Demographics</a></li>
-<li><a href="/wiki/Economy_of_Alaska" title="Economy of Alaska">Economy</a></li>
-<li><a href="/wiki/Education_in_Alaska" class="mw-redirect" title="Education in Alaska">Education</a></li>
-<li><a href="/wiki/Dentistry_in_rural_Alaska" title="Dentistry in rural Alaska">Rural dentistry</a></li>
-<li><a href="/wiki/Politics_of_Alaska" title="Politics of Alaska">Politics</a></li>
-<li><a href="/wiki/Sports_in_Alaska" title="Sports in Alaska">Sports</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%">Regions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Alaska_Peninsula" title="Alaska Peninsula">Alaska Peninsula</a></li>
-<li><a href="/wiki/Aleutian_Islands" title="Aleutian Islands">Aleutian Islands</a></li>
-<li><a href="/wiki/Arctic_Alaska" title="Arctic Alaska">Arctic</a></li>
-<li><a href="/wiki/The_Bush_(Alaska)" class="mw-redirect" title="The Bush (Alaska)">The Bush</a></li>
-<li><a href="/wiki/Inside_Passage" title="Inside Passage">Inside Passage</a></li>
-<li><a href="/wiki/Interior_Alaska" title="Interior Alaska">Interior</a></li>
-<li><a href="/wiki/Kenai_Peninsula" title="Kenai Peninsula">Kenai Peninsula</a></li>
-<li><a href="/wiki/Matanuska-Susitna_Valley" title="Matanuska-Susitna Valley">Mat‑Su Valley</a></li>
-<li><a href="/wiki/Alaska_North_Slope" title="Alaska North Slope">North Slope</a></li>
-<li><a href="/wiki/Seward_Peninsula" title="Seward Peninsula">Seward Peninsula</a></li>
-<li><a href="/wiki/Southcentral_Alaska" title="Southcentral Alaska">Southcentral</a></li>
-<li><a href="/wiki/Southeast_Alaska" title="Southeast Alaska">Southeast</a></li>
-<li><a href="/wiki/Southwest_Alaska" title="Southwest Alaska">Southwest</a></li>
-<li><a href="/wiki/Tanana_Valley" title="Tanana Valley">Tanana Valley</a></li>
-<li><a href="/wiki/Yukon%E2%80%93Kuskokwim_Delta" title="Yukon–Kuskokwim Delta">Yukon–Kuskokwim Delta</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Largest cities</a> <br /> pop. over 25,000</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><a href="/wiki/Fairbanks,_Alaska" title="Fairbanks, Alaska">Fairbanks</a></li>
-<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_cities_in_Alaska" title="List of cities in Alaska">Smaller cities</a> <br /> pop. over 2,000</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bethel,_Alaska" title="Bethel, Alaska">Bethel</a></li>
-<li><a href="/wiki/Cordova,_Alaska" title="Cordova, Alaska">Cordova</a></li>
-<li><a href="/wiki/Dillingham,_Alaska" title="Dillingham, Alaska">Dillingham</a></li>
-<li><a href="/wiki/Homer,_Alaska" title="Homer, Alaska">Homer</a></li>
-<li><a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai</a></li>
-<li><a href="/wiki/Ketchikan,_Alaska" title="Ketchikan, Alaska">Ketchikan</a></li>
-<li><a href="/wiki/Kodiak,_Alaska" title="Kodiak, Alaska">Kodiak</a></li>
-<li><a href="/wiki/Kotzebue,_Alaska" title="Kotzebue, Alaska">Kotzebue</a></li>
-<li><a href="/wiki/Nome,_Alaska" title="Nome, Alaska">Nome</a></li>
-<li><a href="/wiki/North_Pole,_Alaska" title="North Pole, Alaska">North Pole</a></li>
-<li><a href="/wiki/Palmer,_Alaska" title="Palmer, Alaska">Palmer</a></li>
-<li><a href="/wiki/Petersburg,_Alaska" title="Petersburg, Alaska">Petersburg</a></li>
-<li><a href="/wiki/Seward,_Alaska" title="Seward, Alaska">Seward</a></li>
-<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
-<li><a href="/wiki/Soldotna,_Alaska" title="Soldotna, Alaska">Soldotna</a></li>
-<li><a href="/wiki/Unalaska,_Alaska" title="Unalaska, Alaska">Unalaska</a></li>
-<li><a href="/wiki/Valdez,_Alaska" title="Valdez, Alaska">Valdez</a></li>
-<li><a href="/wiki/Wasilla,_Alaska" title="Wasilla, Alaska">Wasilla</a></li>
-<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
-<li><a href="/wiki/Utqia%C4%A1vik,_Alaska" class="mw-redirect" title="Utqiaġvik, Alaska">Utqiaġvik</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Boroughs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aleutians_East_Borough,_Alaska" title="Aleutians East Borough, Alaska">Aleutians East</a></li>
-<li><a href="/wiki/Anchorage,_Alaska" title="Anchorage, Alaska">Anchorage</a></li>
-<li><a href="/wiki/Bristol_Bay_Borough,_Alaska" title="Bristol Bay Borough, Alaska">Bristol Bay</a></li>
-<li><a href="/wiki/Denali_Borough,_Alaska" title="Denali Borough, Alaska">Denali</a></li>
-<li><a href="/wiki/Fairbanks_North_Star_Borough,_Alaska" title="Fairbanks North Star Borough, Alaska">Fairbanks North Star</a></li>
-<li><a href="/wiki/Haines_Borough,_Alaska" title="Haines Borough, Alaska">Haines</a></li>
-<li><a href="/wiki/Juneau,_Alaska" title="Juneau, Alaska">Juneau</a></li>
-<li><a href="/wiki/Kenai_Peninsula_Borough,_Alaska" title="Kenai Peninsula Borough, Alaska">Kenai Peninsula</a></li>
-<li><a href="/wiki/Ketchikan_Gateway_Borough,_Alaska" title="Ketchikan Gateway Borough, Alaska">Ketchikan Gateway</a></li>
-<li><a href="/wiki/Kodiak_Island_Borough,_Alaska" title="Kodiak Island Borough, Alaska">Kodiak Island</a></li>
-<li><a href="/wiki/Lake_and_Peninsula_Borough,_Alaska" title="Lake and Peninsula Borough, Alaska">Lake and Peninsula</a></li>
-<li><a href="/wiki/Matanuska-Susitna_Borough,_Alaska" title="Matanuska-Susitna Borough, Alaska">Matanuska‑Susitna</a></li>
-<li><a href="/wiki/North_Slope_Borough,_Alaska" title="North Slope Borough, Alaska">North Slope</a></li>
-<li><a href="/wiki/Northwest_Arctic_Borough,_Alaska" title="Northwest Arctic Borough, Alaska">Northwest Arctic</a></li>
-<li><a href="/wiki/Petersburg_Borough,_Alaska" title="Petersburg Borough, Alaska">Petersburg</a></li>
-<li><a href="/wiki/Sitka,_Alaska" title="Sitka, Alaska">Sitka</a></li>
-<li><a href="/wiki/Skagway,_Alaska" title="Skagway, Alaska">Skagway</a></li>
-<li><a href="/wiki/Wrangell,_Alaska" title="Wrangell, Alaska">Wrangell</a></li>
-<li><a href="/wiki/Yakutat,_Alaska" title="Yakutat, Alaska">Yakutat</a></li>
-<li><a href="/wiki/Unorganized_Borough,_Alaska" title="Unorganized Borough, Alaska">Unorganized</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background-color:#BBDDFF;;width:1%"><a href="/wiki/List_of_boroughs_and_census_areas_in_Alaska" title="List of boroughs and census areas in Alaska">Census Areas</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aleutians_West_Census_Area,_Alaska" title="Aleutians West Census Area, Alaska">Aleutians West</a></li>
-<li><a href="/wiki/Bethel_Census_Area,_Alaska" title="Bethel Census Area, Alaska">Bethel</a></li>
-<li><a href="/wiki/Dillingham_Census_Area,_Alaska" title="Dillingham Census Area, Alaska">Dillingham</a></li>
-<li><a href="/wiki/Hoonah%E2%80%93Angoon_Census_Area,_Alaska" title="Hoonah–Angoon Census Area, Alaska">Hoonah–Angoon</a></li>
-<li><a href="/wiki/Kusilvak_Census_Area,_Alaska" title="Kusilvak Census Area, Alaska">Kusilvak</a></li>
-<li><a href="/wiki/Nome_Census_Area,_Alaska" title="Nome Census Area, Alaska">Nome</a></li>
-<li><a href="/wiki/Prince_of_Wales%E2%80%93Hyder_Census_Area,_Alaska" title="Prince of Wales–Hyder Census Area, Alaska">Prince of Wales–Hyder</a></li>
-<li><a href="/wiki/Southeast_Fairbanks_Census_Area,_Alaska" title="Southeast Fairbanks Census Area, Alaska">Southeast Fairbanks</a></li>
-<li><a href="/wiki/Valdez%E2%80%93Cordova_Census_Area,_Alaska" title="Valdez–Cordova Census Area, Alaska">Valdez–Cordova</a></li>
-<li><a href="/wiki/Yukon%E2%80%93Koyukuk_Census_Area,_Alaska" title="Yukon–Koyukuk Census Area, Alaska">Yukon–Koyukuk</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#BBDDFF;"><div><a href="/wiki/File:Flag_of_Alaska.svg" class="image"><img alt="Flag of Alaska.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/16px-Flag_of_Alaska.svg.png" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/24px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/32px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></a> <a href="/wiki/Portal:Alaska" title="Portal:Alaska">Alaska&#32;portal</a></div></td></tr></tbody></table></div>
-
+<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alabama" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Alabama" title="Template:Alabama"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Alabama" title="Template talk:Alabama"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Alabama&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_State_of_Alabama" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/23px-Flag_of_Alabama.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/35px-Flag_of_Alabama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/46px-Flag_of_Alabama.svg.png 2x" data-file-width="600" data-file-height="400" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Alabama" title="Alabama">Alabama</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Montgomery_(capital)"><b><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a></b> (capital)</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_Alabama" title="Outline of Alabama">Topics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_Alabama-related_articles" title="Index of Alabama-related articles">Index</a></li>
+<li><a href="/wiki/Aviation_in_Alabama" title="Aviation in Alabama">Aviation</a></li>
+<li><a href="/wiki/Climate_of_Alabama" title="Climate of Alabama">Climate</a></li>
+<li><a href="/wiki/United_States_congressional_delegations_from_Alabama" title="United States congressional delegations from Alabama">Delegations</a></li>
+<li><a href="/wiki/Geography_of_Alabama" title="Geography of Alabama">Geography</a></li>
+<li><a href="/wiki/Geology_of_Alabama" title="Geology of Alabama">Geology</a></li>
+<li><a href="/wiki/Government_of_Alabama" title="Government of Alabama">Government</a>
+<ul><li><a href="/wiki/List_of_Governors_of_Alabama" class="mw-redirect" title="List of Governors of Alabama">Governors</a></li></ul></li>
+<li><a href="/wiki/History_of_Alabama" title="History of Alabama">History</a>
+<ul><li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Alabama" title="National Register of Historic Places listings in Alabama">National Register of Historic Places</a></li></ul></li>
+<li><a href="/wiki/Category:Mass_media_in_Alabama" title="Category:Mass media in Alabama">Mass media</a>
+<ul><li><a class="mw-selflink selflink">Newspapers</a></li>
+<li><a href="/wiki/List_of_radio_stations_in_Alabama" title="List of radio stations in Alabama">Radio</a></li>
+<li><a href="/wiki/List_of_television_stations_in_Alabama" title="List of television stations in Alabama">TV</a></li></ul></li>
+<li><a href="/wiki/List_of_people_from_Alabama" title="List of people from Alabama">People</a></li>
+<li><a href="/wiki/List_of_professional_sports_teams_in_Alabama" title="List of professional sports teams in Alabama">Sports</a></li>
+<li><a href="/wiki/List_of_Alabama_state_symbols" title="List of Alabama state symbols">Symbols</a></li>
+<li><a href="/wiki/Transportation_in_Alabama" title="Transportation in Alabama">Transportation</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seal_of_Alabama.svg/100px-Seal_of_Alabama.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seal_of_Alabama.svg/150px-Seal_of_Alabama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seal_of_Alabama.svg/200px-Seal_of_Alabama.svg.png 2x" data-file-width="368" data-file-height="368" /><div><span style="font-size:85%;"><a href="/wiki/Seal_of_Alabama" title="Seal of Alabama">Seal of Alabama</a></span></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Society</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crime_in_Alabama" title="Crime in Alabama">Crime</a></li>
+<li><a href="/wiki/Category:Alabama_culture" title="Category:Alabama culture">Culture</a></li>
+<li><a href="/wiki/Demographics_of_Alabama" title="Demographics of Alabama">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Alabama" title="Economy of Alabama">Economy</a></li>
+<li><a href="/wiki/Education_in_Alabama" title="Education in Alabama">Education</a></li>
+<li><a href="/wiki/Elections_in_Alabama" title="Elections in Alabama">Elections</a></li>
+<li><a href="/wiki/Politics_of_Alabama" class="mw-redirect" title="Politics of Alabama">Politics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Alabama" title="North Alabama">North Alabama</a></li>
+<li><a href="/wiki/Central_Alabama" title="Central Alabama">Central Alabama</a></li>
+<li><a href="/wiki/South_Alabama" title="South Alabama">South Alabama</a></li>
+<li><a href="/wiki/Birmingham_District" title="Birmingham District">Birmingham District</a></li>
+<li><a href="/wiki/Black_Belt_(region_of_Alabama)" title="Black Belt (region of Alabama)">Black Belt</a></li>
+<li><a href="/wiki/Canebrake_(region_of_Alabama)" title="Canebrake (region of Alabama)">Canebrake</a></li>
+<li><a href="/wiki/Cumberland_Plateau" title="Cumberland Plateau">Cumberland Plateau</a></li>
+<li><a href="/wiki/Eastern_Shore_(Alabama)" title="Eastern Shore (Alabama)">Eastern Shore</a></li>
+<li><a href="/wiki/Gulf_Coastal_Plain" title="Gulf Coastal Plain">Gulf Coastal Plain</a></li>
+<li><a href="/wiki/Piedmont_(United_States)" title="Piedmont (United States)">Piedmont</a></li>
+<li><a href="/wiki/Ridge-and-Valley_Appalachians" title="Ridge-and-Valley Appalachians">Ridge-and-Valley Appalachians</a></li>
+<li><a href="/wiki/Tennessee_Valley" title="Tennessee Valley">Tennessee Valley</a></li>
+<li><a href="/wiki/Wiregrass_Region" title="Wiregrass Region">Wiregrass</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Flora and fauna</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_amphibians_of_Alabama" title="List of amphibians of Alabama">Amphibians</a></li>
+<li><a href="/wiki/List_of_botanical_gardens_and_arboretums_in_Alabama" title="List of botanical gardens and arboretums in Alabama">Gardens</a></li>
+<li><a href="/wiki/List_of_mammals_of_Alabama" title="List of mammals of Alabama">Mammals</a></li>
+<li><a href="/wiki/List_of_reptiles_of_Alabama" title="List of reptiles of Alabama">Reptiles</a></li>
+<li><a href="/wiki/Alabama_Champion_Tree_Program" title="Alabama Champion Tree Program">Trees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_cities_and_towns_in_Alabama" title="List of cities and towns in Alabama">Largest cities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham</a></li>
+<li><a href="/wiki/Montgomery,_Alabama" title="Montgomery, Alabama">Montgomery</a></li>
+<li><a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile</a></li>
+<li><a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville</a></li>
+<li><a href="/wiki/Tuscaloosa,_Alabama" title="Tuscaloosa, Alabama">Tuscaloosa</a></li>
+<li><a href="/wiki/Hoover,_Alabama" title="Hoover, Alabama">Hoover</a></li>
+<li><a href="/wiki/Dothan,_Alabama" title="Dothan, Alabama">Dothan</a></li>
+<li><a href="/wiki/Auburn,_Alabama" title="Auburn, Alabama">Auburn</a></li>
+<li><a href="/wiki/Decatur,_Alabama" title="Decatur, Alabama">Decatur</a></li>
+<li><a href="/wiki/Madison,_Alabama" title="Madison, Alabama">Madison</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_metropolitan_areas_of_Alabama" title="List of metropolitan areas of Alabama">Metros</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birmingham%E2%80%93Hoover_metropolitan_area" class="mw-redirect" title="Birmingham–Hoover metropolitan area">Birmingham–Hoover</a></li>
+<li><a href="/wiki/Huntsville_metropolitan_area" title="Huntsville metropolitan area">Huntsville</a></li>
+<li><a href="/wiki/Mobile_metropolitan_area" title="Mobile metropolitan area">Mobile</a></li>
+<li><a href="/wiki/Montgomery_metropolitan_area" title="Montgomery metropolitan area">Montgomery</a></li>
+<li><a href="/wiki/Tuscaloosa,_Alabama_metropolitan_area" title="Tuscaloosa, Alabama metropolitan area">Tuscaloosa</a></li>
+<li><a href="/wiki/Daphne-Fairhope-Foley,_AL_Metropolitan_Statistical_Area" class="mw-redirect" title="Daphne-Fairhope-Foley, AL Metropolitan Statistical Area">Daphne-Fairhope-Foley</a></li>
+<li><a href="/wiki/Decatur,_Alabama_metropolitan_area" class="mw-redirect" title="Decatur, Alabama metropolitan area">Decatur</a></li>
+<li><a href="/wiki/Auburn_metropolitan_area,_Alabama" title="Auburn metropolitan area, Alabama">Auburn-Opelika</a></li>
+<li><a href="/wiki/Dothan_metropolitan_area,_Alabama" title="Dothan metropolitan area, Alabama">Dothan</a></li>
+<li><a href="/wiki/Florence%E2%80%93Muscle_Shoals_metropolitan_area" title="Florence–Muscle Shoals metropolitan area">Florence-Muscle Shoals</a></li>
+<li><a href="/wiki/Anniston%E2%80%93Oxford_metropolitan_area" title="Anniston–Oxford metropolitan area">Anniston-Oxford-Jacksonville</a></li>
+<li><a href="/wiki/Gadsden_Metropolitan_Statistical_Area" class="mw-redirect" title="Gadsden Metropolitan Statistical Area">Gadsden</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_counties_in_Alabama" title="List of counties in Alabama">Counties</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autauga_County,_Alabama" title="Autauga County, Alabama">Autauga</a></li>
+<li><a href="/wiki/Baldwin_County,_Alabama" title="Baldwin County, Alabama">Baldwin</a></li>
+<li><a href="/wiki/Barbour_County,_Alabama" title="Barbour County, Alabama">Barbour</a></li>
+<li><a href="/wiki/Bibb_County,_Alabama" title="Bibb County, Alabama">Bibb</a></li>
+<li><a href="/wiki/Blount_County,_Alabama" title="Blount County, Alabama">Blount</a></li>
+<li><a href="/wiki/Bullock_County,_Alabama" title="Bullock County, Alabama">Bullock</a></li>
+<li><a href="/wiki/Butler_County,_Alabama" title="Butler County, Alabama">Butler</a></li>
+<li><a href="/wiki/Calhoun_County,_Alabama" title="Calhoun County, Alabama">Calhoun</a></li>
+<li><a href="/wiki/Chambers_County,_Alabama" title="Chambers County, Alabama">Chambers</a></li>
+<li><a href="/wiki/Cherokee_County,_Alabama" title="Cherokee County, Alabama">Cherokee</a></li>
+<li><a href="/wiki/Chilton_County,_Alabama" title="Chilton County, Alabama">Chilton</a></li>
+<li><a href="/wiki/Choctaw_County,_Alabama" title="Choctaw County, Alabama">Choctaw</a></li>
+<li><a href="/wiki/Clarke_County,_Alabama" title="Clarke County, Alabama">Clarke</a></li>
+<li><a href="/wiki/Clay_County,_Alabama" title="Clay County, Alabama">Clay</a></li>
+<li><a href="/wiki/Cleburne_County,_Alabama" title="Cleburne County, Alabama">Cleburne</a></li>
+<li><a href="/wiki/Coffee_County,_Alabama" title="Coffee County, Alabama">Coffee</a></li>
+<li><a href="/wiki/Colbert_County,_Alabama" title="Colbert County, Alabama">Colbert</a></li>
+<li><a href="/wiki/Conecuh_County,_Alabama" title="Conecuh County, Alabama">Conecuh</a></li>
+<li><a href="/wiki/Coosa_County,_Alabama" title="Coosa County, Alabama">Coosa</a></li>
+<li><a href="/wiki/Covington_County,_Alabama" title="Covington County, Alabama">Covington</a></li>
+<li><a href="/wiki/Crenshaw_County,_Alabama" title="Crenshaw County, Alabama">Crenshaw</a></li>
+<li><a href="/wiki/Cullman_County,_Alabama" title="Cullman County, Alabama">Cullman</a></li>
+<li><a href="/wiki/Dale_County,_Alabama" title="Dale County, Alabama">Dale</a></li>
+<li><a href="/wiki/Dallas_County,_Alabama" title="Dallas County, Alabama">Dallas</a></li>
+<li><a href="/wiki/DeKalb_County,_Alabama" title="DeKalb County, Alabama">DeKalb</a></li>
+<li><a href="/wiki/Elmore_County,_Alabama" title="Elmore County, Alabama">Elmore</a></li>
+<li><a href="/wiki/Escambia_County,_Alabama" title="Escambia County, Alabama">Escambia</a></li>
+<li><a href="/wiki/Etowah_County,_Alabama" title="Etowah County, Alabama">Etowah</a></li>
+<li><a href="/wiki/Fayette_County,_Alabama" title="Fayette County, Alabama">Fayette</a></li>
+<li><a href="/wiki/Franklin_County,_Alabama" title="Franklin County, Alabama">Franklin</a></li>
+<li><a href="/wiki/Geneva_County,_Alabama" title="Geneva County, Alabama">Geneva</a></li>
+<li><a href="/wiki/Greene_County,_Alabama" title="Greene County, Alabama">Greene</a></li>
+<li><a href="/wiki/Hale_County,_Alabama" title="Hale County, Alabama">Hale</a></li>
+<li><a href="/wiki/Henry_County,_Alabama" title="Henry County, Alabama">Henry</a></li>
+<li><a href="/wiki/Houston_County,_Alabama" title="Houston County, Alabama">Houston</a></li>
+<li><a href="/wiki/Jackson_County,_Alabama" title="Jackson County, Alabama">Jackson</a></li>
+<li><a href="/wiki/Jefferson_County,_Alabama" title="Jefferson County, Alabama">Jefferson</a></li>
+<li><a href="/wiki/Lamar_County,_Alabama" title="Lamar County, Alabama">Lamar</a></li>
+<li><a href="/wiki/Lauderdale_County,_Alabama" title="Lauderdale County, Alabama">Lauderdale</a></li>
+<li><a href="/wiki/Lawrence_County,_Alabama" title="Lawrence County, Alabama">Lawrence</a></li>
+<li><a href="/wiki/Lee_County,_Alabama" title="Lee County, Alabama">Lee</a></li>
+<li><a href="/wiki/Limestone_County,_Alabama" title="Limestone County, Alabama">Limestone</a></li>
+<li><a href="/wiki/Lowndes_County,_Alabama" title="Lowndes County, Alabama">Lowndes</a></li>
+<li><a href="/wiki/Macon_County,_Alabama" title="Macon County, Alabama">Macon</a></li>
+<li><a href="/wiki/Madison_County,_Alabama" title="Madison County, Alabama">Madison</a></li>
+<li><a href="/wiki/Marengo_County,_Alabama" title="Marengo County, Alabama">Marengo</a></li>
+<li><a href="/wiki/Marion_County,_Alabama" title="Marion County, Alabama">Marion</a></li>
+<li><a href="/wiki/Marshall_County,_Alabama" title="Marshall County, Alabama">Marshall</a></li>
+<li><a href="/wiki/Mobile_County,_Alabama" title="Mobile County, Alabama">Mobile</a></li>
+<li><a href="/wiki/Monroe_County,_Alabama" title="Monroe County, Alabama">Monroe</a></li>
+<li><a href="/wiki/Montgomery_County,_Alabama" title="Montgomery County, Alabama">Montgomery</a></li>
+<li><a href="/wiki/Morgan_County,_Alabama" title="Morgan County, Alabama">Morgan</a></li>
+<li><a href="/wiki/Perry_County,_Alabama" title="Perry County, Alabama">Perry</a></li>
+<li><a href="/wiki/Pickens_County,_Alabama" title="Pickens County, Alabama">Pickens</a></li>
+<li><a href="/wiki/Pike_County,_Alabama" title="Pike County, Alabama">Pike</a></li>
+<li><a href="/wiki/Randolph_County,_Alabama" title="Randolph County, Alabama">Randolph</a></li>
+<li><a href="/wiki/Russell_County,_Alabama" title="Russell County, Alabama">Russell</a></li>
+<li><a href="/wiki/St._Clair_County,_Alabama" title="St. Clair County, Alabama">St. Clair</a></li>
+<li><a href="/wiki/Shelby_County,_Alabama" title="Shelby County, Alabama">Shelby</a></li>
+<li><a href="/wiki/Sumter_County,_Alabama" title="Sumter County, Alabama">Sumter</a></li>
+<li><a href="/wiki/Talladega_County,_Alabama" title="Talladega County, Alabama">Talladega</a></li>
+<li><a href="/wiki/Tallapoosa_County,_Alabama" title="Tallapoosa County, Alabama">Tallapoosa</a></li>
+<li><a href="/wiki/Tuscaloosa_County,_Alabama" title="Tuscaloosa County, Alabama">Tuscaloosa</a></li>
+<li><a href="/wiki/Walker_County,_Alabama" title="Walker County, Alabama">Walker</a></li>
+<li><a href="/wiki/Washington_County,_Alabama" title="Washington County, Alabama">Washington</a></li>
+<li><a href="/wiki/Wilcox_County,_Alabama" title="Wilcox County, Alabama">Wilcox</a></li>
+<li><a href="/wiki/Winston_County,_Alabama" title="Winston County, Alabama">Winston</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/16px-Flag_of_the_United_States.svg.png" decoding="async" width="16" height="8" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/24px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a>&#160;<a href="/wiki/Portal:United_States" title="Portal:United States">United States&#32;portal</a></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1364
-Cached time: 20200621021953
+Parsed by mw1354
+Cached time: 20200717232652
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.208 seconds
-Real time usage: 0.306 seconds
-Preprocessor visited node count: 1122/1000000
-Post‐expand include size: 72596/2097152 bytes
-Template argument size: 10853/2097152 bytes
-Highest expansion depth: 16/40
-Expensive parser function count: 5/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.054/10.000 seconds
-Lua memory usage: 1.87 MB/50 MB
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.588 seconds
+Real time usage: 0.732 seconds
+Preprocessor visited node count: 2840/1000000
+Post‐expand include size: 122395/2097152 bytes
+Template argument size: 9544/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 121802/5000000 bytes
+Lua time usage: 0.308/10.000 seconds
+Lua memory usage: 6.62 MB/50 MB
+Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  220.079      1 -total
- 34.50%   75.936      1 Template:Cleanup
- 27.53%   60.597      1 Template:Short_description
- 22.93%   50.457      2 Template:Navbox
- 20.26%   44.593      1 Template:Alaska
- 19.96%   43.938      1 Template:Pagetype
- 18.17%   39.996      3 Template:Main_other
- 18.04%   39.703      1 Template:US_state_navigation_box
- 16.44%   36.180      1 Template:Ambox
- 12.79%   28.151      1 Template:Category_handler
+100.00%  591.642      1 -total
+ 28.92%  171.113      1 Template:Reflist
+ 23.29%  137.764     14 Template:Cite_web
+ 10.62%   62.857     10 Template:Cite_book
+ 10.24%   60.573      2 Template:Navbox
+  9.18%   54.322      1 Template:Short_description
+  8.57%   50.691      1 Template:Alabama
+  8.27%   48.918      3 Template:Sfn
+  7.90%   46.717      1 Template:US_state_navigation_box
+  7.09%   41.972      1 Template:Commons_category
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4750253-0!canonical and timestamp 20200621021953 and revision id 959583045
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2200262-0!canonical and timestamp 20200717232652 and revision id 967728291
  -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045">https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045</a>"</div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_newspapers_published_in_the_United_States_by_state" title="Category:Lists of newspapers published in the United States by state">Lists of newspapers published in the United States by state</a></li><li><a href="/wiki/Category:Newspapers_published_in_Alaska" title="Category:Newspapers published in Alaska">Newspapers published in Alaska</a></li><li><a href="/wiki/Category:Alaska-related_lists" title="Category:Alaska-related lists">Alaska-related lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_January_2014" title="Category:Articles needing cleanup from January 2014">Articles needing cleanup from January 2014</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_January_2014" title="Category:Cleanup tagged articles with a reason field from January 2014">Cleanup tagged articles with a reason field from January 2014</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_January_2014" title="Category:Wikipedia pages needing cleanup from January 2014">Wikipedia pages needing cleanup from January 2014</a></li></ul></div></div>
-		<div class="visualClear"></div>
-		
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alabama&amp;oldid=967728291">https://en.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alabama&amp;oldid=967728291</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_newspapers_published_in_the_United_States_by_state" title="Category:Lists of newspapers published in the United States by state">Lists of newspapers published in the United States by state</a></li><li><a href="/wiki/Category:Newspapers_published_in_Alabama" title="Category:Newspapers published in Alabama">Newspapers published in Alabama</a></li><li><a href="/wiki/Category:Alabama-related_lists" title="Category:Alabama-related lists">Alabama-related lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -384,7 +1785,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+newspapers+in+Alaska" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+newspapers+in+Alaska" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+newspapers+in+Alabama" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+newspapers+in+Alabama" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
 		
 	</div>
 </nav>
@@ -400,7 +1801,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_newspapers_in_Alaska" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_newspapers_in_Alaska" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_newspapers_in_Alabama" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_newspapers_in_Alabama" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
 		
 	</div>
 </nav>
@@ -433,7 +1834,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/List_of_newspapers_in_Alaska">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/List_of_newspapers_in_Alabama">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
 		
 	</div>
 </nav>
@@ -514,7 +1915,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_newspapers_in_Alaska" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_newspapers_in_Alaska" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;oldid=959583045" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630430" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_newspapers_in_Alaska&amp;id=959583045&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_newspapers_in_Alabama" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_newspapers_in_Alabama" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;oldid=967728291" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_newspapers_in_Alabama&amp;id=967728291&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630431" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
 		
 	</div>
 </nav>
@@ -528,7 +1929,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+newspapers+in+Alaska&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_newspapers_in_Alaska&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+newspapers+in+Alabama&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_newspapers_in_Alabama&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
 		
 	</div>
 </nav>
@@ -543,8 +1944,8 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daftar_surat_kabar_di_Alaska" title="Daftar surat kabar di Alaska – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%80t%C3%B2j%E1%BB%8D_%C3%80w%E1%BB%8Dn_%C3%ACw%C3%A9_%C3%ACr%C3%B2y%C3%ACn_Am%E1%BA%B9%CC%81r%C3%ADk%C3%A0_N%C3%AD_%C3%8Cp%C3%ADnl%E1%BA%B9%CC%80_Alaska" title="Àtòjọ Àwọn ìwé ìròyìn Amẹ́ríkà Ní Ìpínlẹ̀ Alaska – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630430#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%80t%C3%B2j%E1%BB%8D_%C3%80w%E1%BB%8Dn_%C3%ACw%C3%A9_%C3%ACr%C3%B2y%C3%ACn_Am%E1%BA%B9%CC%81r%C3%ADk%C3%A0_N%C3%AD_%C3%8Cp%C3%ADnl%E1%BA%B9%CC%80_Alabama" title="Àtòjọ Àwọn ìwé ìròyìn Amẹ́ríkà Ní Ìpínlẹ̀ Alabama – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6630431#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 	</div>
 </nav>
 
@@ -555,7 +1956,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-		<li id="footer-info-lastmod"> This page was last edited on 29 May 2020, at 14:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-lastmod"> This page was last edited on 14 July 2020, at 23:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
 		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 	</ul>
@@ -567,7 +1968,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
 		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alaska&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_newspapers_in_Alabama&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 	</ul>
 	<ul id="footer-icons" class="noprint">
 		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
@@ -577,6 +1978,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.306","ppvisitednodes":{"value":1122,"limit":1000000},"postexpandincludesize":{"value":72596,"limit":2097152},"templateargumentsize":{"value":10853,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  220.079      1 -total"," 34.50%   75.936      1 Template:Cleanup"," 27.53%   60.597      1 Template:Short_description"," 22.93%   50.457      2 Template:Navbox"," 20.26%   44.593      1 Template:Alaska"," 19.96%   43.938      1 Template:Pagetype"," 18.17%   39.996      3 Template:Main_other"," 18.04%   39.703      1 Template:US_state_navigation_box"," 16.44%   36.180      1 Template:Ambox"," 12.79%   28.151      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":1963399,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1364","timestamp":"20200621021953","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of newspapers in Alaska","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_newspapers_in_Alaska","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6630430","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6630430","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-14T19:57:04Z","dateModified":"2020-05-29T14:04:31Z","headline":"Wikimedia list article"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1371"});});</script></body></html>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.588","walltime":"0.732","ppvisitednodes":{"value":2840,"limit":1000000},"postexpandincludesize":{"value":122395,"limit":2097152},"templateargumentsize":{"value":9544,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":121802,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  591.642      1 -total"," 28.92%  171.113      1 Template:Reflist"," 23.29%  137.764     14 Template:Cite_web"," 10.62%   62.857     10 Template:Cite_book"," 10.24%   60.573      2 Template:Navbox","  9.18%   54.322      1 Template:Short_description","  8.57%   50.691      1 Template:Alabama","  8.27%   48.918      3 Template:Sfn","  7.90%   46.717      1 Template:US_state_navigation_box","  7.09%   41.972      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":6938676,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n  [\"CITEREFAllen_W._Jones1984\"] = 1,\n  [\"CITEREFAuburn_University_Libraries\"] = 1,\n  [\"CITEREFBenjamin_Buford_Williams1979\"] = 1,\n  [\"CITEREFBerkshire_Hathaway_Inc.\"] = 1,\n  [\"CITEREFBrown1998\"] = 1,\n  [\"CITEREFCommunity_Newspaper_Holdings,_Inc.\"] = 1,\n  [\"CITEREFDaniel_Savage_Gray1975\"] = 1,\n  [\"CITEREFFederal_Writers\u0026#039;_Project1941\"] = 1,\n  [\"CITEREFFord_Risley\"] = 1,\n  [\"CITEREFFrederick_German_Detweiler1922\"] = 1,\n  [\"CITEREFGannett_Co.,_Inc.\"] = 1,\n  [\"CITEREFGateHouse_Media,_LLC\"] = 1,\n  [\"CITEREFInternational_Coalition_on_Newspapers\"] = 1,\n  [\"CITEREFJames_Boylan1963\"] = 1,\n  [\"CITEREFJames_T._Haley1895\"] = 1,\n  [\"CITEREFKing_E._Williams,_Jr.1997\"] = 1,\n  [\"CITEREFNorth1884\"] = 1,\n  [\"CITEREFRhoda_Coleman_Ellison1946\"] = 1,\n  [\"CITEREFSaffold_Berney1878\"] = 1,\n  [\"CITEREFThomas_D._Clark1948\"] = 1,\n  [\"CITEREFUniversity_of_Florida\"] = 1,\n}\ntemplate_list = table#1 {\n  [\"Alabama\"] = 1,\n  [\"Citation\"] = 8,\n  [\"Cite book\"] = 10,\n  [\"Cite encyclopedia\"] = 1,\n  [\"Cite journal\"] = 4,\n  [\"Cite web\"] = 14,\n  [\"Commons category\"] = 1,\n  [\"Harvid\"] = 3,\n  [\"Hidden begin\"] = 1,\n  [\"Hidden end\"] = 1,\n  [\"Newspapers in the United States\"] = 1,\n  [\"Portal\"] = 1,\n  [\"Reflist\"] = 1,\n  [\"Sfn\"] = 3,\n  [\"Short description\"] = 1,\n  [\"U.S. Newspaper Footer\"] = 1,\n}\narticle_whitelist = table#1 {\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1354","timestamp":"20200717232652","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of newspapers in Alabama","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_newspapers_in_Alabama","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6630431","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6630431","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-09T15:01:41Z","dateModified":"2020-07-14T23:02:55Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1321"});});</script></body></html>
