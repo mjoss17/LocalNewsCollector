@@ -62,6 +62,7 @@ def unit_tests():
     logger = SimpleLogger()
     logger.time_stamp_start("spinner")
     for i in range(0, 1000000):
+        i = i
         continue
     time = logger.time_stamp_stop("spinner")
     print(time)
