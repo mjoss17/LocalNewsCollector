@@ -14,6 +14,9 @@ Install requirements in virtual enviroment
 Create an empty db  
 ```python LocalNewsCollector/webapp/manage.py makemigrations```  
 ```python LocalNewsCollector/webapp/manage.py migrate```  
+
+Collect Static
+```python LocalNewsCollector/webapp/manage.py collectstatic```
   
 Run the Server  
 ````python LocalNewsCollector/webapp/manage.py runserver 0.0.0.0:8000````  
