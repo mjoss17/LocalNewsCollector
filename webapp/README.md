@@ -28,6 +28,12 @@ See how it look
 Push the good stuff  
 Try it on prod  
 
+## Adding Dependencies
+Add to requirements.txt
+Collect Static  
+```python LocalNewsCollector/webapp/manage.py collectstatic```
+
+
 ## Server info  
 Public DNS (IPv4):  
 ``ec2-100-26-239-139.compute-1.amazonaws.com``  
