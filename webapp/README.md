@@ -15,7 +15,7 @@ Create an empty db
 ```python LocalNewsCollector/webapp/manage.py makemigrations```  
 ```python LocalNewsCollector/webapp/manage.py migrate```  
 
-Collect Static
+Collect Static  
 ```python LocalNewsCollector/webapp/manage.py collectstatic```
   
 Run the Server  
