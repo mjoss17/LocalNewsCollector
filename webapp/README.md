@@ -21,6 +21,9 @@ Collect Static
 Run the Server  
 ````python LocalNewsCollector/webapp/manage.py runserver 0.0.0.0:8000````  
   
+## Troubleshooting
+If you run into a "Disallowed Host at /" error on your webpage, add the IP address it suggests you to add to ALLOWED_HOSTS in webapp/humanworthy/settings.py
+
 ## Workflow  
 Make changes  
 Run the server   
